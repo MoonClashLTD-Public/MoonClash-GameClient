@@ -1,0 +1,114 @@
+[
+	{
+		"id": 1,
+		"nft_id": 6003,
+		"cnt": 1,
+		"weight": 40,
+		"max_cnt": 0
+	},
+	{
+		"id": 2,
+		"nft_id": 6004,
+		"cnt": 1,
+		"weight": 30,
+		"max_cnt": 0
+	},
+	{
+		"id": 3,
+		"nft_id": 6009,
+		"cnt": 1,
+		"weight": 10,
+		"max_cnt": 0
+	},
+	{
+		"id": 4,
+		"nft_id": 6001,
+		"cnt": 1,
+		"weight": 40,
+		"max_cnt": 0
+	},
+	{
+		"id": 5,
+		"nft_id": 6000,
+		"cnt": 1,
+		"weight": 30,
+		"max_cnt": 0
+	},
+	{
+		"id": 6,
+		"nft_id": 6008,
+		"cnt": 1,
+		"weight": 10,
+		"max_cnt": 0
+	},
+	{
+		"id": 7,
+		"nft_id": 6005,
+		"cnt": 1,
+		"weight": 1,
+		"max_cnt": 0
+	},
+	{
+		"id": 8,
+		"nft_id": 4000,
+		"cnt": 1,
+		"weight": 26,
+		"max_cnt": 0
+	},
+	{
+		"id": 9,
+		"nft_id": 4001,
+		"cnt": 1,
+		"weight": 27,
+		"max_cnt": 0
+	},
+	{
+		"id": 10,
+		"nft_id": 4002,
+		"cnt": 1,
+		"weight": 27,
+		"max_cnt": 0
+	},
+	{
+		"id": 11,
+		"nft_id": 9999,
+		"cnt": 1000,
+		"weight": 9158,
+		"max_cnt": 5000
+	},
+	{
+		"id": 12,
+		"nft_id": 9999,
+		"cnt": 5100,
+		"weight": 500,
+		"max_cnt": 10000
+	},
+	{
+		"id": 13,
+		"nft_id": 9999,
+		"cnt": 11000,
+		"weight": 100,
+		"max_cnt": 30000
+	},
+	{
+		"id": 14,
+		"nft_id": 6010,
+		"cnt": 1,
+		"weight": 0,
+		"max_cnt": 0
+	},
+	{
+		"id": 15,
+		"nft_id": 6011,
+		"cnt": 1,
+		"weight": 0,
+		"max_cnt": 0
+	},
+	{
+		"id": 16,
+		"nft_id": 6002,
+		"cnt": 1,
+		"weight": 1,
+		"max_cnt": 0
+	}
+]

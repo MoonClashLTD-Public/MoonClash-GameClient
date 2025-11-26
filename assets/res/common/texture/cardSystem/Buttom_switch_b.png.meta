@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c@6c48a",
+      "displayName": "Buttom_switch_b",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c@f9941",
+      "displayName": "Buttom_switch_b",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 46,
+        "height": 41,
+        "rawWidth": 46,
+        "rawHeight": 41,
+        "borderTop": 19,
+        "borderBottom": 19,
+        "borderLeft": 22,
+        "borderRight": 22,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "e1374c96-70a3-41d8-a0cb-8abb8bdd1c5c@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

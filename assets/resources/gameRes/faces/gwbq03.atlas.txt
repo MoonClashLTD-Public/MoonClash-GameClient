@@ -1,0 +1,34 @@
+
+gwbq03.png
+size: 209,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 2, 2
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 63
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 93, 7
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+zuoshpu
+  rotate: true
+  xy: 132, 147
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1

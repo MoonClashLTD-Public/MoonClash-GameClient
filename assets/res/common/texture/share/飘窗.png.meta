@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "284f7395-7b00-44f1-9783-794d414f1fcf",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "284f7395-7b00-44f1-9783-794d414f1fcf@6c48a",
+      "displayName": "飘窗",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "284f7395-7b00-44f1-9783-794d414f1fcf",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "284f7395-7b00-44f1-9783-794d414f1fcf@f9941",
+      "displayName": "飘窗",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 307,
+        "height": 55,
+        "rawWidth": 307,
+        "rawHeight": 55,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 150,
+        "borderRight": 150,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "284f7395-7b00-44f1-9783-794d414f1fcf@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "284f7395-7b00-44f1-9783-794d414f1fcf@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

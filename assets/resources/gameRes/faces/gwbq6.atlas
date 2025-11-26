@@ -1,0 +1,104 @@
+
+gwbq6.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_1
+  rotate: true
+  xy: 397, 33
+  size: 78, 54
+  orig: 81, 56
+  offset: 1, 1
+  index: -1
+6_10
+  rotate: true
+  xy: 248, 51
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+6_11
+  rotate: false
+  xy: 364, 16
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+6_12
+  rotate: true
+  xy: 2, 2
+  size: 109, 135
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+6_2
+  rotate: false
+  xy: 326, 26
+  size: 36, 25
+  orig: 41, 27
+  offset: 1, 1
+  index: -1
+6_3
+  rotate: false
+  xy: 248, 13
+  size: 20, 9
+  orig: 24, 11
+  offset: 1, 1
+  index: -1
+6_4
+  rotate: true
+  xy: 307, 43
+  size: 6, 5
+  orig: 8, 8
+  offset: 1, 2
+  index: -1
+6_5
+  rotate: true
+  xy: 286, 29
+  size: 20, 19
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+6_6
+  rotate: true
+  xy: 270, 6
+  size: 16, 9
+  orig: 24, 12
+  offset: 7, 1
+  index: -1
+6_7
+  rotate: false
+  xy: 307, 18
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+6_8
+  rotate: false
+  xy: 286, 8
+  size: 19, 19
+  orig: 21, 24
+  offset: 1, 2
+  index: -1
+6_9
+  rotate: true
+  xy: 326, 53
+  size: 58, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 139, 22
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 248, 24
+  size: 25, 36
+  orig: 28, 38
+  offset: 1, 1
+  index: -1

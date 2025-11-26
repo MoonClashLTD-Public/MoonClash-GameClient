@@ -1,0 +1,34 @@
+
+gtcws_shandian.png
+size: 163, 163
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+sd01
+  rotate: false
+  xy: 72, 64
+  size: 85, 49
+  orig: 86, 86
+  offset: 0, 19
+  index: -1
+sd02
+  rotate: false
+  xy: 2, 72
+  size: 68, 57
+  orig: 86, 86
+  offset: 10, 27
+  index: -1
+sd03
+  rotate: false
+  xy: 79, 115
+  size: 82, 46
+  orig: 86, 86
+  offset: 1, 18
+  index: -1
+sd04
+  rotate: false
+  xy: 2, 131
+  size: 75, 30
+  orig: 86, 86
+  offset: 4, 25
+  index: -1

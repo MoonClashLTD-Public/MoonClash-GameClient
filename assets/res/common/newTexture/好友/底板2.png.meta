@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a@6c48a",
+      "displayName": "底板2",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a@f9941",
+      "displayName": "底板2",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 58,
+        "height": 128,
+        "rawWidth": 58,
+        "rawHeight": 128,
+        "borderTop": 87,
+        "borderBottom": 39,
+        "borderLeft": 27,
+        "borderRight": 27,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "0cc1dd59-bde2-439f-8c3a-33fece9c7e2a@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

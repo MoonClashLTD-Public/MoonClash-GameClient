@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nft_id": 6000,
+		"cnt": 1,
+		"weight": 100
+	},
+	{
+		"id": 2,
+		"nft_id": 6001,
+		"cnt": 1,
+		"weight": 100
+	},
+	{
+		"id": 3,
+		"nft_id": 6002,
+		"cnt": 1,
+		"weight": 100
+	},
+	{
+		"id": 4,
+		"nft_id": 6003,
+		"cnt": 1,
+		"weight": 100
+	},
+	{
+		"id": 5,
+		"nft_id": 6004,
+		"cnt": 1,
+		"weight": 100
+	},
+	{
+		"id": 6,
+		"nft_id": 6005,
+		"cnt": 1,
+		"weight": 5
+	},
+	{
+		"id": 7,
+		"nft_id": 6006,
+		"cnt": 10,
+		"weight": 200
+	},
+	{
+		"id": 8,
+		"nft_id": 6007,
+		"cnt": 10,
+		"weight": 200
+	}
+]

@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "178ac2af-5f88-4333-84e6-fa20bce5a839",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "178ac2af-5f88-4333-84e6-fa20bce5a839@6c48a",
+      "displayName": "Battle_tower1_hp_bg",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "178ac2af-5f88-4333-84e6-fa20bce5a839",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "178ac2af-5f88-4333-84e6-fa20bce5a839@f9941",
+      "displayName": "Battle_tower1_hp_bg",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 131,
+        "height": 26,
+        "rawWidth": 131,
+        "rawHeight": 26,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 59,
+        "borderRight": 58,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "178ac2af-5f88-4333-84e6-fa20bce5a839@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "178ac2af-5f88-4333-84e6-fa20bce5a839@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

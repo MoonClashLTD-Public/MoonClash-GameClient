@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123@6c48a",
+      "displayName": "Battle_hp_r",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123@f9941",
+      "displayName": "Battle_hp_r",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 10,
+        "height": 18,
+        "rawWidth": 10,
+        "rawHeight": 18,
+        "borderTop": 8,
+        "borderBottom": 8,
+        "borderLeft": 4,
+        "borderRight": 4,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "7b3f4dc7-91d4-4829-a097-9ff0ca8f7123@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

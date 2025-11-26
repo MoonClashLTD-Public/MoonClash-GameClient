@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "25e06acf-fc67-49c2-9d0f-84d079cc916e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "25e06acf-fc67-49c2-9d0f-84d079cc916e@6c48a",
+      "displayName": "提示框",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "25e06acf-fc67-49c2-9d0f-84d079cc916e",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "25e06acf-fc67-49c2-9d0f-84d079cc916e@f9941",
+      "displayName": "提示框",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 61,
+        "height": 52,
+        "rawWidth": 61,
+        "rawHeight": 52,
+        "borderTop": 22,
+        "borderBottom": 22,
+        "borderLeft": 27,
+        "borderRight": 27,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "25e06acf-fc67-49c2-9d0f-84d079cc916e@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "25e06acf-fc67-49c2-9d0f-84d079cc916e@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

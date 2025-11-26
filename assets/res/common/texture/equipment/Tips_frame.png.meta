@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce@6c48a",
+      "displayName": "Tips_frame",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce@f9941",
+      "displayName": "Tips_frame",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 71,
+        "height": 53,
+        "rawWidth": 71,
+        "rawHeight": 53,
+        "borderTop": 17,
+        "borderBottom": 15,
+        "borderLeft": 13,
+        "borderRight": 11,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "56eea54d-cb7c-4fdd-a6e0-86f33a4abdce@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 64, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+yanwu04
+  rotate: false
+  xy: 2, 2
+  size: 58, 60
+  orig: 64, 64
+  offset: 3, 2
+  index: -1

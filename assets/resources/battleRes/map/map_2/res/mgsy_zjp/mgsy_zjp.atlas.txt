@@ -1,0 +1,27 @@
+
+mgsy_zjp.png
+size: 633,633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjp1
+  rotate: false
+  xy: 196, 466
+  size: 199, 165
+  orig: 514, 514
+  offset: 156, 236
+  index: -1
+zjp2
+  rotate: false
+  xy: 2, 475
+  size: 192, 156
+  orig: 514, 514
+  offset: 188, 201
+  index: -1
+zjp3
+  rotate: true
+  xy: 397, 434
+  size: 197, 234
+  orig: 514, 514
+  offset: 152, 117
+  index: -1

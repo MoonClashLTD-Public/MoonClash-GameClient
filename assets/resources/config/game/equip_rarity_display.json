@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"equip_id": 1,
+		"rarity": 1,
+		"name": "_equip_2001",
+		"res_name": "_arms_1"
+	},
+	{
+		"id": 2,
+		"equip_id": 1,
+		"rarity": 2,
+		"name": "_equip_2002",
+		"res_name": "_arms_2"
+	},
+	{
+		"id": 3,
+		"equip_id": 1,
+		"rarity": 3,
+		"name": "_equip_2003",
+		"res_name": "_arms_3"
+	},
+	{
+		"id": 4,
+		"equip_id": 1,
+		"rarity": 4,
+		"name": "_equip_2004",
+		"res_name": "_arms_4"
+	},
+	{
+		"id": 5,
+		"equip_id": 2,
+		"rarity": 1,
+		"name": "_equip_2005",
+		"res_name": "_shield_1"
+	},
+	{
+		"id": 6,
+		"equip_id": 2,
+		"rarity": 2,
+		"name": "_equip_2006",
+		"res_name": "_shield_2"
+	},
+	{
+		"id": 7,
+		"equip_id": 2,
+		"rarity": 3,
+		"name": "_equip_2007",
+		"res_name": "_shield_3"
+	},
+	{
+		"id": 8,
+		"equip_id": 2,
+		"rarity": 4,
+		"name": "_equip_2008",
+		"res_name": "_shield_4"
+	},
+	{
+		"id": 9,
+		"equip_id": 3,
+		"rarity": 1,
+		"name": "_equip_2009",
+		"res_name": "_ornaments_1"
+	},
+	{
+		"id": 10,
+		"equip_id": 3,
+		"rarity": 2,
+		"name": "_equip_2010",
+		"res_name": "_ornaments_2"
+	},
+	{
+		"id": 11,
+		"equip_id": 3,
+		"rarity": 3,
+		"name": "_equip_2011",
+		"res_name": "_ornaments_3"
+	},
+	{
+		"id": 12,
+		"equip_id": 3,
+		"rarity": 4,
+		"name": "_equip_2012",
+		"res_name": "_ornaments_4"
+	}
+]

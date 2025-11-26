@@ -1,0 +1,76 @@
+
+siegevehicle_attack_light.png
+size: 394,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mu01
+  rotate: false
+  xy: 2, 2
+  size: 35, 19
+  orig: 64, 64
+  offset: 12, 23
+  index: -1
+mu02
+  rotate: true
+  xy: 72, 12
+  size: 11, 37
+  orig: 64, 64
+  offset: 27, 13
+  index: -1
+mu03
+  rotate: true
+  xy: 39, 6
+  size: 15, 31
+  orig: 64, 64
+  offset: 26, 16
+  index: -1
+spark2
+  rotate: false
+  xy: 2, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: true
+  xy: 67, 91
+  size: 41, 36
+  orig: 66, 66
+  offset: 12, 13
+  index: -1
+stone2
+  rotate: false
+  xy: 2, 23
+  size: 41, 43
+  orig: 66, 66
+  offset: 13, 8
+  index: -1
+stone3
+  rotate: true
+  xy: 45, 25
+  size: 41, 40
+  orig: 66, 66
+  offset: 12, 11
+  index: -1
+stone4
+  rotate: false
+  xy: 87, 43
+  size: 30, 46
+  orig: 66, 66
+  offset: 17, 11
+  index: -1
+yanwu04
+  rotate: false
+  xy: 2, 68
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

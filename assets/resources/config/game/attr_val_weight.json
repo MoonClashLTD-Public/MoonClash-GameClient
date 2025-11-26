@@ -1,0 +1,177 @@
+[
+	{
+		"id": 1,
+		"lucky_level": 1,
+		"weight": 8000,
+		"min_pct": 100,
+		"max_pct": 6000
+	},
+	{
+		"id": 2,
+		"lucky_level": 1,
+		"weight": 1600,
+		"min_pct": 6001,
+		"max_pct": 8000
+	},
+	{
+		"id": 3,
+		"lucky_level": 1,
+		"weight": 390,
+		"min_pct": 8001,
+		"max_pct": 9000
+	},
+	{
+		"id": 4,
+		"lucky_level": 1,
+		"weight": 8,
+		"min_pct": 9001,
+		"max_pct": 9600
+	},
+	{
+		"id": 5,
+		"lucky_level": 1,
+		"weight": 2,
+		"min_pct": 9601,
+		"max_pct": 10000
+	},
+	{
+		"id": 6,
+		"lucky_level": 2,
+		"weight": 7000,
+		"min_pct": 100,
+		"max_pct": 6000
+	},
+	{
+		"id": 7,
+		"lucky_level": 2,
+		"weight": 2000,
+		"min_pct": 6001,
+		"max_pct": 8000
+	},
+	{
+		"id": 8,
+		"lucky_level": 2,
+		"weight": 900,
+		"min_pct": 8001,
+		"max_pct": 9000
+	},
+	{
+		"id": 9,
+		"lucky_level": 2,
+		"weight": 80,
+		"min_pct": 9001,
+		"max_pct": 9600
+	},
+	{
+		"id": 10,
+		"lucky_level": 2,
+		"weight": 20,
+		"min_pct": 9601,
+		"max_pct": 10000
+	},
+	{
+		"id": 11,
+		"lucky_level": 3,
+		"weight": 6000,
+		"min_pct": 100,
+		"max_pct": 6000
+	},
+	{
+		"id": 12,
+		"lucky_level": 3,
+		"weight": 2500,
+		"min_pct": 6001,
+		"max_pct": 8000
+	},
+	{
+		"id": 13,
+		"lucky_level": 3,
+		"weight": 1200,
+		"min_pct": 8001,
+		"max_pct": 9000
+	},
+	{
+		"id": 14,
+		"lucky_level": 3,
+		"weight": 260,
+		"min_pct": 9001,
+		"max_pct": 9600
+	},
+	{
+		"id": 15,
+		"lucky_level": 3,
+		"weight": 40,
+		"min_pct": 9601,
+		"max_pct": 10000
+	},
+	{
+		"id": 16,
+		"lucky_level": 4,
+		"weight": 5000,
+		"min_pct": 100,
+		"max_pct": 6000
+	},
+	{
+		"id": 17,
+		"lucky_level": 4,
+		"weight": 3000,
+		"min_pct": 6001,
+		"max_pct": 8000
+	},
+	{
+		"id": 18,
+		"lucky_level": 4,
+		"weight": 1500,
+		"min_pct": 8001,
+		"max_pct": 9000
+	},
+	{
+		"id": 19,
+		"lucky_level": 4,
+		"weight": 420,
+		"min_pct": 9001,
+		"max_pct": 9600
+	},
+	{
+		"id": 20,
+		"lucky_level": 4,
+		"weight": 80,
+		"min_pct": 9601,
+		"max_pct": 10000
+	},
+	{
+		"id": 21,
+		"lucky_level": 5,
+		"weight": 4000,
+		"min_pct": 100,
+		"max_pct": 6000
+	},
+	{
+		"id": 22,
+		"lucky_level": 5,
+		"weight": 1500,
+		"min_pct": 6001,
+		"max_pct": 8000
+	},
+	{
+		"id": 23,
+		"lucky_level": 5,
+		"weight": 1500,
+		"min_pct": 8001,
+		"max_pct": 9000
+	},
+	{
+		"id": 24,
+		"lucky_level": 5,
+		"weight": 1500,
+		"min_pct": 9001,
+		"max_pct": 9600
+	},
+	{
+		"id": 25,
+		"lucky_level": 5,
+		"weight": 1500,
+		"min_pct": 9601,
+		"max_pct": 10000
+	}
+]

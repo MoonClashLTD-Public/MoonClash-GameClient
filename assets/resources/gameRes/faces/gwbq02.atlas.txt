@@ -1,0 +1,34 @@
+
+gwbq02.png
+size: 199,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: false
+  xy: 2, 2
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 90, 16
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 56
+  size: 128, 141
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 132, 160
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1

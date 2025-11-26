@@ -1,0 +1,179 @@
+// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: sprite-vs:vert
+      frag: sprite-fs:frag
+      depthStencilState:
+        depthTest: false
+        depthWrite: false
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      rasterizerState:
+        cullMode: none
+      properties:
+        alphaThreshold: { value: 0.5 }
+        rotated: { value: 0.5 }
+        UVoffset: {      
+          value: [.0, .0, 1.0, 1.0],
+          editor: { 
+            type: color,
+            tooltip: "合图UV修正"
+          }  
+        }
+}%
+
+CCProgram sprite-vs %{
+  precision highp float;
+  #include <cc-global>
+  #if USE_LOCAL
+    #include <cc-local>
+  #endif
+  #if SAMPLE_FROM_RT
+    #include <common>
+  #endif
+  in vec3 a_position;
+  in vec2 a_texCoord;
+  in vec4 a_color;
+
+  out vec4 color;
+  out vec2 uv0;
+
+  vec4 vert () {
+    vec4 pos = vec4(a_position, 1);
+
+    #if USE_LOCAL
+      pos = cc_matWorld * pos;
+    #endif
+
+    #if USE_PIXEL_ALIGNMENT
+      pos = cc_matView * pos;
+      pos.xyz = floor(pos.xyz);
+      pos = cc_matProj * pos;
+    #else
+      pos = cc_matViewProj * pos;
+    #endif
+
+    uv0 = a_texCoord;
+    #if SAMPLE_FROM_RT
+      CC_HANDLE_RT_SAMPLE_FLIP(uv0);
+    #endif
+    color = a_color;
+
+    return pos;
+  }
+}%
+
+CCProgram sprite-fs %{
+  precision highp float;
+  #include <embedded-alpha>
+  #include <alpha-test>
+
+  in vec4 color;
+
+  #if USE_TEXTURE
+    in vec2 uv0;
+    #pragma builtin(local)
+    layout(set = 2, binding = 11) uniform sampler2D cc_spriteTexture;
+  #endif
+
+  uniform ARGS{
+    vec4 UVoffset;
+    float rotated;
+  };
+
+    
+    
+    
+  float Remap01(float a, float b, float t) {
+    return (t-a) / (b-a);
+  }
+
+    
+    
+    
+  float Remap(float a, float b, float c, float d, float t) {
+      return Remap01(a, b, t) * (d - c) + c;
+  }
+
+    
+  vec2 ForwardMapping( vec4 UVRect, vec2 uv ) {
+      vec2 _uv;
+      _uv.x =  Remap01(UVRect.x,UVRect.z,uv.x);
+      _uv.y = Remap01(UVRect.y,UVRect.w,uv.y);
+      return _uv;
+  }
+    
+  vec2 ReverseMapping( vec4 UVRect, vec2 uv ) {
+      vec2 _uv;
+      _uv.x =  Remap(0.0,1.0,UVRect.x,UVRect.z,uv.x);
+      _uv.y =  Remap(0.0,1.0,UVRect.y,UVRect.w,uv.y);
+      return _uv;
+  }
+
+  vec4 frag () {
+    vec4 o = vec4(1, 1, 1, 1);
+
+    #if USE_TEXTURE
+
+      vec2 v_uv0 = vec2(uv0.x, uv0.y);
+      vec4 uuu = UVoffset;
+      // vec4 uuu = vec4(0.6796875,0.25390625,0.9921875,0.3564453125);
+
+      vec2 UVnormalize = ForwardMapping(uuu, v_uv0);
+
+      float rotate = UVnormalize.y*1.5;
+      float scale = 1.0-UVnormalize.y;
+      mat2 rotateMat = mat2(
+          cos(rotate)*scale, -sin(rotate),
+          sin(rotate), cos(rotate)*scale
+      );
+      UVnormalize = rotateMat*vec2(UVnormalize.x, 1.0-UVnormalize.y);
+
+      UVnormalize = ReverseMapping(uuu, UVnormalize);
+
+      o *= CCSampleWithAlphaSeparated(cc_spriteTexture, UVnormalize);
+      if(o.a>.0){
+        o = vec4(0.0,0.0,0.0,0.5);
+      }
+    #endif
+
+    o *= color;
+    ALPHA_TEST(o);
+    return o;
+  }
+}%
+
+  
+// refreshRenderTexture(w: number, h: number): void {
+//     const colorAttachment = new gfx.ColorAttachment();
+//     const depthStencilAttachment = new gfx.DepthStencilAttachment();
+//     const pi = new gfx.RenderPassInfo([colorAttachment], depthStencilAttachment, []);
+
+//     this.rt.reset({
+//         width: w,
+//         height: h,
+//         passInfo: pi
+//     });
+
+//     let spriteframe: SpriteFrame = this.sprite!.spriteFrame!;
+//     let sp: SpriteFrame = new SpriteFrame();
+//     sp.reset({
+//         originalSize: spriteframe.originalSize,
+//         rect: spriteframe.rect,
+//         offset: spriteframe.offset,
+//         isRotate: spriteframe.rotated,
+//         borderTop: spriteframe.insetTop,
+//         borderLeft: spriteframe.insetLeft,
+//         borderBottom: spriteframe.insetBottom,
+//         borderRight: spriteframe.insetRight,
+//     });
+
+//     this.camera!.targetTexture = this.rt;
+//     sp.texture = this.rt;
+//     this.sprite!.spriteFrame = sp;
+// }

@@ -1,0 +1,15 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1334
+    }
+  },
+  "__version__": "1.0.2",
+  "layer": [
+    {
+      "name": "SHADOW_2D",
+      "value": 1
+    }
+  ]
+}

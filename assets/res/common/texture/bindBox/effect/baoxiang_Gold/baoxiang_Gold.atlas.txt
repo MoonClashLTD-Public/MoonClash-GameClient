@@ -1,0 +1,433 @@
+
+baoxiang_Gold.png
+size: 1495,1495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold_Chest_dj/Gold_Chest_Dj_T_0001
+  rotate: false
+  xy: 383, 709
+  size: 250, 139
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0002
+  rotate: true
+  xy: 255, 618
+  size: 250, 126
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0003
+  rotate: false
+  xy: 774, 260
+  size: 250, 108
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0004
+  rotate: false
+  xy: 1026, 185
+  size: 250, 105
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0005
+  rotate: true
+  xy: 258, 870
+  size: 250, 128
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0006
+  rotate: false
+  xy: 2, 509
+  size: 250, 160
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0007
+  rotate: false
+  xy: 2, 671
+  size: 250, 172
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0008
+  rotate: false
+  xy: 388, 850
+  size: 250, 174
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0009
+  rotate: false
+  xy: 1031, 986
+  size: 250, 160
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0010
+  rotate: false
+  xy: 775, 370
+  size: 250, 133
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0011
+  rotate: false
+  xy: 1027, 292
+  size: 250, 119
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0012
+  rotate: false
+  xy: 382, 444
+  size: 250, 122
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0013
+  rotate: true
+  xy: 258, 1122
+  size: 250, 129
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0014
+  rotate: false
+  xy: 776, 505
+  size: 250, 136
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0015
+  rotate: false
+  xy: 383, 568
+  size: 250, 139
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/Gold_Chest_Dj_T_0016
+  rotate: false
+  xy: 2, 368
+  size: 250, 139
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_dj/开箱效果背景01
+  rotate: false
+  xy: 390, 1397
+  size: 386, 96
+  orig: 512, 512
+  offset: 53, 122
+  index: -1
+Gold_Chest_dj/开箱效果背景02
+  rotate: false
+  xy: 2, 1374
+  size: 386, 119
+  orig: 512, 512
+  offset: 53, 122
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0001
+  rotate: true
+  xy: 634, 141
+  size: 246, 138
+  orig: 512, 512
+  offset: 145, 274
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0002
+  rotate: true
+  xy: 1280, 289
+  size: 249, 141
+  orig: 512, 512
+  offset: 142, 265
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0003
+  rotate: true
+  xy: 1278, 43
+  size: 244, 133
+  orig: 512, 512
+  offset: 147, 252
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0004
+  rotate: false
+  xy: 774, 162
+  size: 249, 96
+  orig: 512, 512
+  offset: 140, 249
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0005
+  rotate: false
+  xy: 389, 1026
+  size: 252, 101
+  orig: 512, 512
+  offset: 134, 267
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0006
+  rotate: false
+  xy: 1036, 1148
+  size: 254, 111
+  orig: 512, 512
+  offset: 131, 285
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0007
+  rotate: false
+  xy: 777, 1084
+  size: 252, 151
+  orig: 512, 512
+  offset: 135, 296
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0008
+  rotate: true
+  xy: 1292, 1248
+  size: 245, 181
+  orig: 512, 512
+  offset: 146, 298
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0009
+  rotate: true
+  xy: 1292, 1006
+  size: 240, 178
+  orig: 512, 512
+  offset: 153, 288
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0010
+  rotate: true
+  xy: 1283, 771
+  size: 233, 165
+  orig: 512, 512
+  offset: 162, 270
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0011
+  rotate: true
+  xy: 1280, 540
+  size: 229, 152
+  orig: 512, 512
+  offset: 167, 260
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0012
+  rotate: true
+  xy: 307, 2
+  size: 243, 147
+  orig: 512, 512
+  offset: 151, 260
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0013
+  rotate: false
+  xy: 2, 845
+  size: 251, 132
+  orig: 512, 512
+  offset: 141, 266
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0014
+  rotate: true
+  xy: 645, 891
+  size: 248, 129
+  orig: 512, 512
+  offset: 142, 272
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0015
+  rotate: false
+  xy: 456, 4
+  size: 247, 135
+  orig: 512, 512
+  offset: 143, 274
+  index: -1
+Gold_Chest_dj1/Gold_Chest_Dj_G_0016
+  rotate: false
+  xy: 956, 22
+  size: 246, 138
+  orig: 512, 512
+  offset: 145, 274
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0001
+  rotate: false
+  xy: 2, 227
+  size: 250, 139
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0002
+  rotate: true
+  xy: 640, 639
+  size: 250, 134
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0003
+  rotate: true
+  xy: 254, 366
+  size: 250, 126
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0004
+  rotate: false
+  xy: 382, 320
+  size: 250, 122
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0005
+  rotate: false
+  xy: 1028, 413
+  size: 250, 136
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0006
+  rotate: false
+  xy: 776, 932
+  size: 250, 150
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0007
+  rotate: false
+  xy: 1028, 836
+  size: 250, 148
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0008
+  rotate: false
+  xy: 776, 785
+  size: 250, 145
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0009
+  rotate: false
+  xy: 1028, 692
+  size: 250, 142
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0010
+  rotate: false
+  xy: 776, 643
+  size: 250, 140
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx/Gold_Chest_Kx_T_0011
+  rotate: false
+  xy: 1028, 551
+  size: 250, 139
+  orig: 512, 512
+  offset: 131, 153
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0001
+  rotate: false
+  xy: 2, 1244
+  size: 254, 128
+  orig: 512, 512
+  offset: 129, 246
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0002
+  rotate: false
+  xy: 389, 1129
+  size: 254, 125
+  orig: 512, 512
+  offset: 129, 243
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0003
+  rotate: false
+  xy: 1036, 1376
+  size: 254, 117
+  orig: 512, 512
+  offset: 129, 238
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0004
+  rotate: false
+  xy: 1036, 1261
+  size: 254, 113
+  orig: 512, 512
+  offset: 129, 235
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0005
+  rotate: false
+  xy: 2, 1116
+  size: 254, 126
+  orig: 512, 512
+  offset: 129, 244
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0006
+  rotate: false
+  xy: 390, 1256
+  size: 254, 139
+  orig: 512, 512
+  offset: 129, 253
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0007
+  rotate: true
+  xy: 646, 1141
+  size: 254, 129
+  orig: 512, 512
+  offset: 131, 272
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0008
+  rotate: false
+  xy: 2, 979
+  size: 251, 135
+  orig: 512, 512
+  offset: 137, 278
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0009
+  rotate: true
+  xy: 635, 389
+  size: 248, 138
+  orig: 512, 512
+  offset: 142, 276
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0010
+  rotate: false
+  xy: 56, 3
+  size: 249, 136
+  orig: 512, 512
+  offset: 141, 274
+  index: -1
+Gold_Chest_kx1/Gold_Chest_Kx_G_0011
+  rotate: false
+  xy: 705, 5
+  size: 249, 134
+  orig: 512, 512
+  offset: 141, 274
+  index: -1
+dust02
+  rotate: false
+  xy: 254, 247
+  size: 124, 117
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+glow
+  rotate: false
+  xy: 380, 254
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow_hero1
+  rotate: false
+  xy: 778, 1237
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shanguang01a
+  rotate: false
+  xy: 2, 2
+  size: 52, 223
+  orig: 64, 256
+  offset: 4, 13
+  index: -1
+star01
+  rotate: false
+  xy: 446, 255
+  size: 62, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1

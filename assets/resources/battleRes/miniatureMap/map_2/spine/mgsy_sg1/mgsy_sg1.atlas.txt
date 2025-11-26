@@ -1,0 +1,13 @@
+
+mgsy_sg1.png
+size: 17,17
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian01
+  rotate: false
+  xy: 2, 3
+  size: 13, 12
+  orig: 16, 16
+  offset: 1, 2
+  index: -1

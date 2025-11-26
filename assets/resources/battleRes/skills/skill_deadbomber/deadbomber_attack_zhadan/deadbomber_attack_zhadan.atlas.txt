@@ -1,0 +1,13 @@
+
+deadbomber_attack_zhadan.png
+size: 52,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhadan01
+  rotate: false
+  xy: 2, 8
+  size: 48, 42
+  orig: 256, 256
+  offset: 103, 106
+  index: -1

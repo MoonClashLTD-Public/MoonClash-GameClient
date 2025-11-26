@@ -1,0 +1,62 @@
+
+fireball_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 236, 378
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 366, 378
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huoxing
+  rotate: false
+  xy: 373, 310
+  size: 106, 66
+  orig: 111, 74
+  offset: 3, 4
+  index: -1
+shutiao
+  rotate: false
+  xy: 236, 344
+  size: 135, 32
+  orig: 158, 75
+  offset: 18, 24
+  index: -1
+smoke1_00
+  rotate: true
+  xy: 2, 2
+  size: 111, 117
+  orig: 128, 128
+  offset: 10, 6
+  index: -1
+smoke2
+  rotate: false
+  xy: 2, 320
+  size: 232, 186
+  orig: 256, 256
+  offset: 9, 24
+  index: -1
+smoke3
+  rotate: false
+  xy: 2, 115
+  size: 204, 203
+  orig: 256, 256
+  offset: 26, 26
+  index: -1
+smoke4
+  rotate: false
+  xy: 121, 11
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1

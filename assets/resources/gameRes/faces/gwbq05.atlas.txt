@@ -1,0 +1,34 @@
+
+gwbq05.png
+size: 177,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: true
+  xy: 128, 98
+  size: 77, 47
+  orig: 79, 49
+  offset: 1, 1
+  index: -1
+qi1
+  rotate: false
+  xy: 128, 61
+  size: 41, 35
+  orig: 43, 37
+  offset: 1, 1
+  index: -1
+qi2
+  rotate: false
+  xy: 128, 24
+  size: 41, 35
+  orig: 43, 37
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 33
+  size: 124, 142
+  orig: 124, 144
+  offset: 0, 0
+  index: -1

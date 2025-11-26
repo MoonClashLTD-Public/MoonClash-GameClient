@@ -1,0 +1,13 @@
+
+jhxz_yanwu02.png
+size: 132,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan02
+  rotate: false
+  xy: 2, 2
+  size: 122, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

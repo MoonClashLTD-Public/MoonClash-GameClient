@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"battle_power_min": 0,
+		"battle_power_max": 79999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 2,
+		"battle_power_min": 80000,
+		"battle_power_max": 159999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 3,
+		"battle_power_min": 160000,
+		"battle_power_max": 239999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 4,
+		"battle_power_min": 240000,
+		"battle_power_max": 319999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 5,
+		"battle_power_min": 320000,
+		"battle_power_max": 399999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 6,
+		"battle_power_min": 400000,
+		"battle_power_max": 479999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 7,
+		"battle_power_min": 480000,
+		"battle_power_max": 559999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 8,
+		"battle_power_min": 560000,
+		"battle_power_max": 639999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 9,
+		"battle_power_min": 640000,
+		"battle_power_max": 719999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	},
+	{
+		"id": 10,
+		"battle_power_min": 720000,
+		"battle_power_max": 799999,
+		"victory_dna_gwei": 10,
+		"lose_dna_gwei": 0
+	}
+]

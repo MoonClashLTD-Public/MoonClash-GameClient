@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"inn_name": "",
+		"display_name": "_job_11",
+		"res_name": "Hitpoints_icon"
+	},
+	{
+		"id": 2,
+		"inn_name": "",
+		"display_name": "_job_12",
+		"res_name": "Areadamage_icon"
+	},
+	{
+		"id": 3,
+		"inn_name": "",
+		"display_name": "_job_13",
+		"res_name": "Chargedamage_icon"
+	},
+	{
+		"id": 4,
+		"inn_name": "",
+		"display_name": "_job_14",
+		"res_name": "Character_icon"
+	},
+	{
+		"id": 5,
+		"inn_name": "",
+		"display_name": "_job_15",
+		"res_name": "Deploytime_icon"
+	},
+	{
+		"id": 6,
+		"inn_name": "",
+		"display_name": "_job_16",
+		"res_name": "Speed_icon"
+	},
+	{
+		"id": 7,
+		"inn_name": "",
+		"display_name": "_job_17",
+		"res_name": "Conut_icon"
+	},
+	{
+		"id": 8,
+		"inn_name": "",
+		"display_name": "_job_18",
+		"res_name": "Range_icon"
+	},
+	{
+		"id": 9,
+		"inn_name": "",
+		"display_name": "_job_19",
+		"res_name": "Hitspeed_icon"
+	},
+	{
+		"id": 10,
+		"inn_name": "",
+		"display_name": "_job_20",
+		"res_name": "Targets_icon"
+	},
+	{
+		"id": 11,
+		"inn_name": "",
+		"display_name": "_job_21",
+		"res_name": "Deploytime_icon"
+	},
+	{
+		"id": 12,
+		"inn_name": "",
+		"display_name": "_job_22",
+		"res_name": "Skill_icon"
+	},
+	{
+		"id": 13,
+		"inn_name": "",
+		"display_name": "_job_22",
+		"res_name": "Born_icon"
+	},
+	{
+		"id": 14,
+		"inn_name": "",
+		"display_name": "_job_23",
+		"res_name": "Areadamage_icon"
+	},
+	{
+		"id": 15,
+		"inn_name": "",
+		"display_name": "_job_24",
+		"res_name": "Areadamage_icon"
+	},
+	{
+		"id": 16,
+		"inn_name": "",
+		"display_name": "_job_25",
+		"res_name": "Quantity_icon"
+	}
+]

@@ -1,0 +1,433 @@
+
+baoxiang_Silver.png
+size: 1517,1517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold_Chest_dj/开箱效果背景01
+  rotate: false
+  xy: 390, 1419
+  size: 386, 96
+  orig: 512, 512
+  offset: 53, 122
+  index: -1
+Gold_Chest_dj/开箱效果背景02
+  rotate: false
+  xy: 2, 1396
+  size: 386, 119
+  orig: 512, 512
+  offset: 53, 122
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0001
+  rotate: true
+  xy: 220, 17
+  size: 252, 116
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0002
+  rotate: true
+  xy: 1277, 34
+  size: 252, 108
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0003
+  rotate: true
+  xy: 284, 1142
+  size: 252, 97
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0004
+  rotate: true
+  xy: 284, 888
+  size: 252, 95
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0005
+  rotate: true
+  xy: 805, 17
+  size: 252, 109
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0006
+  rotate: false
+  xy: 2, 667
+  size: 253, 135
+  orig: 512, 512
+  offset: 130, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0007
+  rotate: false
+  xy: 348, 711
+  size: 253, 144
+  orig: 512, 512
+  offset: 130, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0008
+  rotate: false
+  xy: 2, 274
+  size: 252, 146
+  orig: 512, 512
+  offset: 131, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0009
+  rotate: true
+  xy: 512, 457
+  size: 252, 134
+  orig: 512, 512
+  offset: 131, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0010
+  rotate: true
+  xy: 690, 17
+  size: 252, 113
+  orig: 512, 512
+  offset: 131, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0011
+  rotate: true
+  xy: 672, 1165
+  size: 252, 104
+  orig: 512, 512
+  offset: 131, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0012
+  rotate: true
+  xy: 1387, 34
+  size: 252, 106
+  orig: 512, 512
+  offset: 131, 149
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0013
+  rotate: true
+  xy: 665, 910
+  size: 253, 110
+  orig: 512, 512
+  offset: 130, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0014
+  rotate: true
+  xy: 574, 17
+  size: 252, 114
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0015
+  rotate: true
+  xy: 338, 17
+  size: 252, 116
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj/Silver_Chest_Dj_T_0016
+  rotate: true
+  xy: 456, 17
+  size: 252, 116
+  orig: 512, 512
+  offset: 131, 150
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0001
+  rotate: false
+  xy: 1041, 764
+  size: 260, 158
+  orig: 512, 512
+  offset: 139, 250
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0002
+  rotate: false
+  xy: 1033, 449
+  size: 256, 159
+  orig: 512, 512
+  offset: 143, 243
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0003
+  rotate: false
+  xy: 257, 574
+  size: 253, 135
+  orig: 512, 512
+  offset: 147, 234
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0004
+  rotate: false
+  xy: 381, 1009
+  size: 266, 108
+  orig: 512, 512
+  offset: 133, 232
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0005
+  rotate: false
+  xy: 778, 1226
+  size: 270, 121
+  orig: 512, 512
+  offset: 128, 246
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0006
+  rotate: false
+  xy: 1060, 1369
+  size: 272, 146
+  orig: 512, 512
+  offset: 125, 263
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0007
+  rotate: true
+  xy: 1334, 1248
+  size: 267, 181
+  orig: 512, 512
+  offset: 131, 267
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0008
+  rotate: true
+  xy: 1305, 750
+  size: 258, 208
+  orig: 512, 512
+  offset: 141, 266
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0009
+  rotate: true
+  xy: 1301, 500
+  size: 248, 205
+  orig: 512, 512
+  offset: 152, 256
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0010
+  rotate: true
+  xy: 1333, 1010
+  size: 236, 177
+  orig: 512, 512
+  offset: 164, 242
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0011
+  rotate: false
+  xy: 1277, 288
+  size: 230, 156
+  orig: 512, 512
+  offset: 170, 235
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0012
+  rotate: false
+  xy: 257, 292
+  size: 243, 158
+  orig: 512, 512
+  offset: 157, 237
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0013
+  rotate: false
+  xy: 1039, 610
+  size: 260, 152
+  orig: 512, 512
+  offset: 140, 244
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0014
+  rotate: false
+  xy: 1041, 924
+  size: 262, 150
+  orig: 512, 512
+  offset: 137, 248
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0015
+  rotate: false
+  xy: 777, 922
+  size: 262, 156
+  orig: 512, 512
+  offset: 137, 250
+  index: -1
+Silver_Chest_dj1/Silver_Chest_Dj_G_0016
+  rotate: false
+  xy: 777, 762
+  size: 260, 158
+  orig: 512, 512
+  offset: 139, 250
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0001
+  rotate: false
+  xy: 767, 387
+  size: 253, 115
+  orig: 512, 512
+  offset: 130, 151
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0002
+  rotate: false
+  xy: 1022, 217
+  size: 253, 113
+  orig: 512, 512
+  offset: 130, 150
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0003
+  rotate: true
+  xy: 2, 16
+  size: 253, 108
+  orig: 512, 512
+  offset: 130, 148
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0004
+  rotate: true
+  xy: 112, 16
+  size: 253, 106
+  orig: 512, 512
+  offset: 130, 147
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0005
+  rotate: false
+  xy: 767, 271
+  size: 253, 114
+  orig: 512, 512
+  offset: 130, 150
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0006
+  rotate: true
+  xy: 648, 655
+  size: 253, 125
+  orig: 512, 512
+  offset: 130, 154
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0007
+  rotate: false
+  xy: 2, 542
+  size: 253, 123
+  orig: 512, 512
+  offset: 130, 154
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0008
+  rotate: false
+  xy: 257, 452
+  size: 253, 120
+  orig: 512, 512
+  offset: 130, 153
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0009
+  rotate: false
+  xy: 2, 422
+  size: 253, 118
+  orig: 512, 512
+  offset: 130, 152
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0010
+  rotate: true
+  xy: 648, 281
+  size: 253, 117
+  orig: 512, 512
+  offset: 130, 151
+  index: -1
+Silver_Chest_kx/Silver_Chest_Kx_T_0011
+  rotate: false
+  xy: 1022, 332
+  size: 253, 115
+  orig: 512, 512
+  offset: 130, 151
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0001
+  rotate: false
+  xy: 390, 1262
+  size: 280, 155
+  orig: 512, 512
+  offset: 116, 231
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0002
+  rotate: false
+  xy: 2, 1092
+  size: 280, 149
+  orig: 512, 512
+  offset: 116, 228
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0003
+  rotate: false
+  xy: 383, 1119
+  size: 280, 141
+  orig: 512, 512
+  offset: 116, 221
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0004
+  rotate: false
+  xy: 2, 953
+  size: 280, 137
+  orig: 512, 512
+  offset: 116, 217
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0005
+  rotate: false
+  xy: 2, 1243
+  size: 280, 151
+  orig: 512, 512
+  offset: 116, 229
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0006
+  rotate: false
+  xy: 778, 1349
+  size: 280, 166
+  orig: 512, 512
+  offset: 116, 241
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0007
+  rotate: false
+  xy: 2, 804
+  size: 278, 147
+  orig: 512, 512
+  offset: 119, 262
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0008
+  rotate: false
+  xy: 1060, 1224
+  size: 271, 143
+  orig: 512, 512
+  offset: 128, 263
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0009
+  rotate: false
+  xy: 381, 857
+  size: 265, 150
+  orig: 512, 512
+  offset: 134, 259
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0010
+  rotate: false
+  xy: 1046, 1076
+  size: 265, 146
+  orig: 512, 512
+  offset: 134, 258
+  index: -1
+Silver_Chest_kx1/Silver_Chest_Kx_G_0011
+  rotate: false
+  xy: 778, 1080
+  size: 266, 144
+  orig: 512, 512
+  offset: 133, 257
+  index: -1
+dust02
+  rotate: false
+  xy: 648, 536
+  size: 124, 117
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+glow
+  rotate: false
+  xy: 282, 822
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow_hero1
+  rotate: false
+  xy: 775, 504
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shanguang01a
+  rotate: true
+  xy: 1291, 446
+  size: 52, 223
+  orig: 64, 256
+  offset: 4, 13
+  index: -1
+star01
+  rotate: true
+  xy: 282, 758
+  size: 62, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1

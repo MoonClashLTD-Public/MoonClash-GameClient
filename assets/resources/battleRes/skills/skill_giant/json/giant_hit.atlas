@@ -1,0 +1,27 @@
+
+giant_hit.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 132, 176
+  size: 58, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+smoke4
+  rotate: false
+  xy: 2, 2
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1

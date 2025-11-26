@@ -1,0 +1,13 @@
+
+magictower_hit_ray.png
+size: 132,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiao
+  rotate: false
+  xy: 2, 2
+  size: 24, 128
+  orig: 32, 128
+  offset: 5, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+king_shifa.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huoxing
+  rotate: false
+  xy: 170, 72
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shandian_00
+  rotate: false
+  xy: 2, 2
+  size: 158, 59
+  orig: 166, 59
+  offset: 4, 0
+  index: -1
+shandian_01
+  rotate: false
+  xy: 2, 63
+  size: 166, 59
+  orig: 166, 59
+  offset: 0, 0
+  index: -1
+shandian_02
+  rotate: false
+  xy: 262, 193
+  size: 164, 59
+  orig: 166, 59
+  offset: 2, 0
+  index: -1
+shandian_03
+  rotate: false
+  xy: 262, 145
+  size: 130, 46
+  orig: 166, 59
+  offset: 29, 0
+  index: -1
+spark2
+  rotate: false
+  xy: 132, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

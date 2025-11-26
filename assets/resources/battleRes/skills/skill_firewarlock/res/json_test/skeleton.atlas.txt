@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 665, 665
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fire_boom003
+  rotate: false
+  xy: 2, 247
+  size: 455, 416
+  orig: 455, 416
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 459, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo001
+  rotate: true
+  xy: 85, 59
+  size: 68, 28
+  orig: 130, 130
+  offset: 31, 2
+  index: -1
+huo002
+  rotate: true
+  xy: 589, 72
+  size: 73, 57
+  orig: 130, 130
+  offset: 29, 0
+  index: -1
+huo003
+  rotate: false
+  xy: 589, 147
+  size: 74, 112
+  orig: 130, 130
+  offset: 27, 1
+  index: -1
+huo004
+  rotate: false
+  xy: 2, 4
+  size: 81, 123
+  orig: 130, 130
+  offset: 24, 1
+  index: -1
+huo005
+  rotate: false
+  xy: 491, 9
+  size: 88, 120
+  orig: 130, 130
+  offset: 19, 0
+  index: -1
+huo006
+  rotate: true
+  xy: 241, 15
+  size: 104, 121
+  orig: 130, 130
+  offset: 11, 1
+  index: -1
+huo007
+  rotate: false
+  xy: 128, 4
+  size: 111, 124
+  orig: 130, 130
+  offset: 8, 1
+  index: -1
+huo008
+  rotate: true
+  xy: 128, 130
+  size: 115, 125
+  orig: 130, 130
+  offset: 6, 1
+  index: -1
+huo009
+  rotate: false
+  xy: 255, 121
+  size: 115, 124
+  orig: 130, 130
+  offset: 1, 1
+  index: -1
+huo010
+  rotate: true
+  xy: 2, 129
+  size: 116, 124
+  orig: 130, 130
+  offset: 1, 1
+  index: -1
+huo011
+  rotate: false
+  xy: 372, 136
+  size: 81, 109
+  orig: 130, 130
+  offset: 1, 4
+  index: -1
+huo012
+  rotate: false
+  xy: 581, 18
+  size: 74, 52
+  orig: 130, 130
+  offset: 0, 63
+  index: -1
+smoke1_00
+  rotate: true
+  xy: 372, 18
+  size: 111, 117
+  orig: 128, 128
+  offset: 10, 6
+  index: -1
+stone1
+  rotate: false
+  xy: 459, 463
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+stone2
+  rotate: false
+  xy: 459, 261
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+king_fly.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandianqiu_00
+  rotate: false
+  xy: 2, 67
+  size: 69, 68
+  orig: 85, 82
+  offset: 5, 7
+  index: -1
+shandianqiu_01
+  rotate: false
+  xy: 64, 5
+  size: 60, 60
+  orig: 85, 82
+  offset: 14, 11
+  index: -1
+shandianqiu_02
+  rotate: false
+  xy: 2, 137
+  size: 76, 66
+  orig: 85, 82
+  offset: 3, 7
+  index: -1
+shandianqiu_03
+  rotate: false
+  xy: 2, 2
+  size: 60, 63
+  orig: 85, 82
+  offset: 14, 8
+  index: -1
+shandianqiu_04
+  rotate: false
+  xy: 80, 143
+  size: 76, 60
+  orig: 85, 82
+  offset: 4, 11
+  index: -1
+shandianqiu_05
+  rotate: true
+  xy: 158, 143
+  size: 60, 62
+  orig: 85, 82
+  offset: 14, 9
+  index: -1

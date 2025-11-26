@@ -1,0 +1,44 @@
+{
+  "ver": "1.2.1",
+  "importer": "render-texture",
+  "imported": true,
+  "uuid": "5bae2a0b-3d94-47e8-a4ea-fc7e085fe4f6",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "importer": "rt-sprite-frame",
+      "uuid": "5bae2a0b-3d94-47e8-a4ea-fc7e085fe4f6@f9941",
+      "displayName": "shadowRT",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "imageUuidOrDatabaseUri": "5bae2a0b-3d94-47e8-a4ea-fc7e085fe4f6",
+        "width": 750,
+        "height": 1334
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "width": 750,
+    "height": 1334,
+    "anisotropy": 0,
+    "minfilter": "linear",
+    "magfilter": "linear",
+    "mipfilter": "none",
+    "wrapModeS": "repeat",
+    "wrapModeT": "repeat",
+    "redirect": "5bae2a0b-3d94-47e8-a4ea-fc7e085fe4f6@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+fireball_hit_stone.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone_00
+  rotate: false
+  xy: 2, 2
+  size: 76, 70
+  orig: 82, 76
+  offset: 3, 0
+  index: -1
+stone_01
+  rotate: false
+  xy: 80, 12
+  size: 72, 60
+  orig: 82, 76
+  offset: 8, 7
+  index: -1

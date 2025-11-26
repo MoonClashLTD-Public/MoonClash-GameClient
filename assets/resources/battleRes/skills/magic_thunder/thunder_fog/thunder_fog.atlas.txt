@@ -1,0 +1,55 @@
+
+thunder_fog.png
+size: 390,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: false
+  xy: 132, 28
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: true
+  xy: 260, 207
+  size: 86, 75
+  orig: 88, 77
+  offset: 1, 1
+  index: -1
+stone2
+  rotate: true
+  xy: 255, 56
+  size: 74, 104
+  orig: 76, 106
+  offset: 1, 1
+  index: -1
+stone3
+  rotate: false
+  xy: 255, 5
+  size: 78, 49
+  orig: 80, 51
+  offset: 1, 1
+  index: -1
+stone4
+  rotate: true
+  xy: 260, 295
+  size: 93, 77
+  orig: 95, 79
+  offset: 1, 1
+  index: -1

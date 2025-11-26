@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"equip_id": 1,
+		"rarity": 1,
+		"dgg_gwei": 0,
+		"dna_gwei": 1000000000
+	},
+	{
+		"id": 2,
+		"equip_id": 1,
+		"rarity": 2,
+		"dgg_gwei": 0,
+		"dna_gwei": 3000000000
+	},
+	{
+		"id": 3,
+		"equip_id": 1,
+		"rarity": 3,
+		"dgg_gwei": 0,
+		"dna_gwei": 9000000000
+	},
+	{
+		"id": 4,
+		"equip_id": 1,
+		"rarity": 4,
+		"dgg_gwei": 0,
+		"dna_gwei": 12000000000
+	},
+	{
+		"id": 5,
+		"equip_id": 2,
+		"rarity": 1,
+		"dgg_gwei": 0,
+		"dna_gwei": 1000000000
+	},
+	{
+		"id": 6,
+		"equip_id": 2,
+		"rarity": 2,
+		"dgg_gwei": 0,
+		"dna_gwei": 3000000000
+	},
+	{
+		"id": 7,
+		"equip_id": 2,
+		"rarity": 3,
+		"dgg_gwei": 0,
+		"dna_gwei": 9000000000
+	},
+	{
+		"id": 8,
+		"equip_id": 2,
+		"rarity": 4,
+		"dgg_gwei": 0,
+		"dna_gwei": 12000000000
+	},
+	{
+		"id": 9,
+		"equip_id": 3,
+		"rarity": 1,
+		"dgg_gwei": 0,
+		"dna_gwei": 1000000000
+	},
+	{
+		"id": 10,
+		"equip_id": 3,
+		"rarity": 2,
+		"dgg_gwei": 0,
+		"dna_gwei": 3000000000
+	},
+	{
+		"id": 11,
+		"equip_id": 3,
+		"rarity": 3,
+		"dgg_gwei": 0,
+		"dna_gwei": 9000000000
+	},
+	{
+		"id": 12,
+		"equip_id": 3,
+		"rarity": 4,
+		"dgg_gwei": 0,
+		"dna_gwei": 12000000000
+	}
+]

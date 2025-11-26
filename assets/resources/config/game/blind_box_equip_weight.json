@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"blind_box_id": 2,
+		"equip_id": 1,
+		"weight": 100
+	},
+	{
+		"id": 2,
+		"blind_box_id": 2,
+		"equip_id": 2,
+		"weight": 100
+	},
+	{
+		"id": 3,
+		"blind_box_id": 2,
+		"equip_id": 3,
+		"weight": 100
+	}
+]

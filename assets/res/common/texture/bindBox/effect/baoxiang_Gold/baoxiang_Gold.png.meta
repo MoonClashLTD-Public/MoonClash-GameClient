@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ab54ad5a-cc66-435b-8f94-22ade5c05718",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ab54ad5a-cc66-435b-8f94-22ade5c05718@6c48a",
+      "displayName": "baoxiang_Gold",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "ab54ad5a-cc66-435b-8f94-22ade5c05718",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "ab54ad5a-cc66-435b-8f94-22ade5c05718@f9941",
+      "displayName": "baoxiang_Gold",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -10,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 1471,
+        "height": 1491,
+        "rawWidth": 1495,
+        "rawHeight": 1495,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ab54ad5a-cc66-435b-8f94-22ade5c05718@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "ab54ad5a-cc66-435b-8f94-22ade5c05718@f9941",
+    "compressSettings": {
+      "useCompressTexture": false,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

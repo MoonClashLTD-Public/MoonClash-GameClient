@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"amount": 1,
+		"weight": 9920
+	},
+	{
+		"id": 2,
+		"amount": 2,
+		"weight": 79
+	},
+	{
+		"id": 3,
+		"amount": 3,
+		"weight": 1
+	}
+]

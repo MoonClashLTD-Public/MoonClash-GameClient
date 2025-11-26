@@ -1,0 +1,322 @@
+[
+	{
+		"id": 1,
+		"type": 0,
+		"power": 0,
+		"level": 1,
+		"king_tower_hero_config_id": 101,
+		"guard_tower_hero_config_id": 201
+	},
+	{
+		"id": 2,
+		"type": 0,
+		"power": 80000,
+		"level": 2,
+		"king_tower_hero_config_id": 102,
+		"guard_tower_hero_config_id": 202
+	},
+	{
+		"id": 3,
+		"type": 0,
+		"power": 160000,
+		"level": 3,
+		"king_tower_hero_config_id": 103,
+		"guard_tower_hero_config_id": 203
+	},
+	{
+		"id": 4,
+		"type": 0,
+		"power": 240000,
+		"level": 4,
+		"king_tower_hero_config_id": 104,
+		"guard_tower_hero_config_id": 204
+	},
+	{
+		"id": 5,
+		"type": 0,
+		"power": 320000,
+		"level": 5,
+		"king_tower_hero_config_id": 105,
+		"guard_tower_hero_config_id": 205
+	},
+	{
+		"id": 6,
+		"type": 0,
+		"power": 400000,
+		"level": 6,
+		"king_tower_hero_config_id": 106,
+		"guard_tower_hero_config_id": 206
+	},
+	{
+		"id": 7,
+		"type": 0,
+		"power": 480000,
+		"level": 7,
+		"king_tower_hero_config_id": 107,
+		"guard_tower_hero_config_id": 207
+	},
+	{
+		"id": 8,
+		"type": 0,
+		"power": 560000,
+		"level": 8,
+		"king_tower_hero_config_id": 108,
+		"guard_tower_hero_config_id": 208
+	},
+	{
+		"id": 9,
+		"type": 0,
+		"power": 640000,
+		"level": 9,
+		"king_tower_hero_config_id": 109,
+		"guard_tower_hero_config_id": 209
+	},
+	{
+		"id": 10,
+		"type": 0,
+		"power": 720000,
+		"level": 10,
+		"king_tower_hero_config_id": 110,
+		"guard_tower_hero_config_id": 210
+	},
+	{
+		"id": 1001,
+		"type": 1,
+		"power": 0,
+		"level": 1,
+		"king_tower_hero_config_id": 101,
+		"guard_tower_hero_config_id": 201
+	},
+	{
+		"id": 1002,
+		"type": 1,
+		"power": 0,
+		"level": 2,
+		"king_tower_hero_config_id": 102,
+		"guard_tower_hero_config_id": 202
+	},
+	{
+		"id": 1003,
+		"type": 1,
+		"power": 0,
+		"level": 3,
+		"king_tower_hero_config_id": 103,
+		"guard_tower_hero_config_id": 203
+	},
+	{
+		"id": 1004,
+		"type": 1,
+		"power": 0,
+		"level": 4,
+		"king_tower_hero_config_id": 104,
+		"guard_tower_hero_config_id": 204
+	},
+	{
+		"id": 1005,
+		"type": 1,
+		"power": 0,
+		"level": 5,
+		"king_tower_hero_config_id": 105,
+		"guard_tower_hero_config_id": 205
+	},
+	{
+		"id": 1006,
+		"type": 1,
+		"power": 0,
+		"level": 6,
+		"king_tower_hero_config_id": 106,
+		"guard_tower_hero_config_id": 206
+	},
+	{
+		"id": 1007,
+		"type": 1,
+		"power": 0,
+		"level": 7,
+		"king_tower_hero_config_id": 107,
+		"guard_tower_hero_config_id": 207
+	},
+	{
+		"id": 1008,
+		"type": 1,
+		"power": 0,
+		"level": 8,
+		"king_tower_hero_config_id": 108,
+		"guard_tower_hero_config_id": 208
+	},
+	{
+		"id": 1009,
+		"type": 1,
+		"power": 0,
+		"level": 9,
+		"king_tower_hero_config_id": 109,
+		"guard_tower_hero_config_id": 209
+	},
+	{
+		"id": 1010,
+		"type": 1,
+		"power": 0,
+		"level": 10,
+		"king_tower_hero_config_id": 110,
+		"guard_tower_hero_config_id": 210
+	},
+	{
+		"id": 1011,
+		"type": 1,
+		"power": 0,
+		"level": 1,
+		"king_tower_hero_config_id": 301,
+		"guard_tower_hero_config_id": 401
+	},
+	{
+		"id": 1012,
+		"type": 1,
+		"power": 0,
+		"level": 2,
+		"king_tower_hero_config_id": 302,
+		"guard_tower_hero_config_id": 402
+	},
+	{
+		"id": 1013,
+		"type": 1,
+		"power": 0,
+		"level": 3,
+		"king_tower_hero_config_id": 303,
+		"guard_tower_hero_config_id": 403
+	},
+	{
+		"id": 1014,
+		"type": 1,
+		"power": 0,
+		"level": 4,
+		"king_tower_hero_config_id": 304,
+		"guard_tower_hero_config_id": 404
+	},
+	{
+		"id": 1015,
+		"type": 1,
+		"power": 0,
+		"level": 5,
+		"king_tower_hero_config_id": 305,
+		"guard_tower_hero_config_id": 405
+	},
+	{
+		"id": 1016,
+		"type": 1,
+		"power": 0,
+		"level": 6,
+		"king_tower_hero_config_id": 306,
+		"guard_tower_hero_config_id": 406
+	},
+	{
+		"id": 1017,
+		"type": 1,
+		"power": 0,
+		"level": 7,
+		"king_tower_hero_config_id": 307,
+		"guard_tower_hero_config_id": 407
+	},
+	{
+		"id": 1018,
+		"type": 1,
+		"power": 0,
+		"level": 8,
+		"king_tower_hero_config_id": 308,
+		"guard_tower_hero_config_id": 408
+	},
+	{
+		"id": 1019,
+		"type": 1,
+		"power": 0,
+		"level": 9,
+		"king_tower_hero_config_id": 309,
+		"guard_tower_hero_config_id": 409
+	},
+	{
+		"id": 1020,
+		"type": 1,
+		"power": 0,
+		"level": 10,
+		"king_tower_hero_config_id": 310,
+		"guard_tower_hero_config_id": 410
+	},
+	{
+		"id": 1021,
+		"type": 1,
+		"power": 0,
+		"level": 1,
+		"king_tower_hero_config_id": 501,
+		"guard_tower_hero_config_id": 601
+	},
+	{
+		"id": 1022,
+		"type": 1,
+		"power": 0,
+		"level": 2,
+		"king_tower_hero_config_id": 502,
+		"guard_tower_hero_config_id": 602
+	},
+	{
+		"id": 1023,
+		"type": 1,
+		"power": 0,
+		"level": 3,
+		"king_tower_hero_config_id": 503,
+		"guard_tower_hero_config_id": 603
+	},
+	{
+		"id": 1024,
+		"type": 1,
+		"power": 0,
+		"level": 4,
+		"king_tower_hero_config_id": 504,
+		"guard_tower_hero_config_id": 604
+	},
+	{
+		"id": 1025,
+		"type": 1,
+		"power": 0,
+		"level": 5,
+		"king_tower_hero_config_id": 505,
+		"guard_tower_hero_config_id": 605
+	},
+	{
+		"id": 1026,
+		"type": 1,
+		"power": 0,
+		"level": 6,
+		"king_tower_hero_config_id": 506,
+		"guard_tower_hero_config_id": 606
+	},
+	{
+		"id": 1027,
+		"type": 1,
+		"power": 0,
+		"level": 7,
+		"king_tower_hero_config_id": 507,
+		"guard_tower_hero_config_id": 607
+	},
+	{
+		"id": 1028,
+		"type": 1,
+		"power": 0,
+		"level": 8,
+		"king_tower_hero_config_id": 508,
+		"guard_tower_hero_config_id": 608
+	},
+	{
+		"id": 1029,
+		"type": 1,
+		"power": 0,
+		"level": 9,
+		"king_tower_hero_config_id": 509,
+		"guard_tower_hero_config_id": 609
+	},
+	{
+		"id": 1030,
+		"type": 1,
+		"power": 0,
+		"level": 10,
+		"king_tower_hero_config_id": 510,
+		"guard_tower_hero_config_id": 610
+	}
+]

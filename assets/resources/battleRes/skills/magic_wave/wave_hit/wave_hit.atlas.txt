@@ -1,0 +1,153 @@
+
+wave_hit.png
+size: 533,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 390, 403
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_01
+  rotate: false
+  xy: 260, 337
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_02
+  rotate: true
+  xy: 2, 4
+  size: 48, 59
+  orig: 64, 64
+  offset: 0, 5
+  index: -1
+shuihua1/shuihua1_03
+  rotate: false
+  xy: 326, 337
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_04
+  rotate: false
+  xy: 392, 337
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_05
+  rotate: true
+  xy: 363, 5
+  size: 54, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_06
+  rotate: true
+  xy: 236, 2
+  size: 57, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_07
+  rotate: true
+  xy: 322, 276
+  size: 59, 60
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+shuihua1/shuihua1_08
+  rotate: true
+  xy: 450, 278
+  size: 57, 64
+  orig: 64, 64
+  offset: 7, 0
+  index: -1
+shuihua1/shuihua1_09
+  rotate: false
+  xy: 458, 337
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_10
+  rotate: false
+  xy: 260, 275
+  size: 60, 60
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+shuihua1/shuihua1_11
+  rotate: true
+  xy: 301, 2
+  size: 57, 60
+  orig: 64, 64
+  offset: 7, 0
+  index: -1
+shuihua1/shuihua1_12
+  rotate: false
+  xy: 456, 212
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_13
+  rotate: false
+  xy: 456, 146
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_14
+  rotate: false
+  xy: 456, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua1/shuihua1_15
+  rotate: true
+  xy: 384, 277
+  size: 58, 64
+  orig: 64, 64
+  offset: 6, 0
+  index: -1
+shuihua1/shuihua1_16
+  rotate: false
+  xy: 456, 14
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuiwen2
+  rotate: false
+  xy: 2, 275
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yanwu01
+  rotate: false
+  xy: 260, 403
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwu04a
+  rotate: true
+  xy: 236, 61
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+yanwu04b
+  rotate: true
+  xy: 2, 54
+  size: 219, 232
+  orig: 219, 242
+  offset: 0, 10
+  index: -1

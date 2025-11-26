@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "09c7ae6e-02e7-4609-923a-0087bd7eaea6",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "09c7ae6e-02e7-4609-923a-0087bd7eaea6@6c48a",
+      "displayName": "面板",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "09c7ae6e-02e7-4609-923a-0087bd7eaea6",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "09c7ae6e-02e7-4609-923a-0087bd7eaea6@f9941",
+      "displayName": "面板",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -0.5,
+        "offsetY": 1,
+        "trimX": 2,
+        "trimY": 1,
+        "width": 98,
+        "height": 148,
+        "rawWidth": 103,
+        "rawHeight": 152,
+        "borderTop": 115,
+        "borderBottom": 30,
+        "borderLeft": 45,
+        "borderRight": 46,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "09c7ae6e-02e7-4609-923a-0087bd7eaea6@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "09c7ae6e-02e7-4609-923a-0087bd7eaea6@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

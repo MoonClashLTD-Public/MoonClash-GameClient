@@ -1,0 +1,503 @@
+[
+	{
+		"id": 1,
+		"inn_name": "",
+		"title_key": "_mail_t_1",
+		"text_key": "_mail_text_1_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 2,
+		"inn_name": "",
+		"title_key": "_mail_t_1",
+		"text_key": "_mail_text_1_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 3,
+		"inn_name": "",
+		"title_key": "_mail_t_2",
+		"text_key": "_mail_text_2_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 4,
+		"inn_name": "",
+		"title_key": "_mail_t_2",
+		"text_key": "_mail_text_2_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 5,
+		"inn_name": "",
+		"title_key": "_mail_t_3",
+		"text_key": "_mail_text_3_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 6,
+		"inn_name": "",
+		"title_key": "_mail_t_3",
+		"text_key": "_mail_text_3_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 7,
+		"inn_name": "",
+		"title_key": "_mail_t_4",
+		"text_key": "_mail_text_4_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 8,
+		"inn_name": "",
+		"title_key": "_mail_t_4",
+		"text_key": "_mail_text_4_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 9,
+		"inn_name": "",
+		"title_key": "_mail_t_5",
+		"text_key": "_mail_text_5_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 10,
+		"inn_name": "",
+		"title_key": "_mail_t_5",
+		"text_key": "_mail_text_5_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 11,
+		"inn_name": "",
+		"title_key": "_mail_t_6",
+		"text_key": "_mail_text_6_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 12,
+		"inn_name": "",
+		"title_key": "_mail_t_6",
+		"text_key": "_mail_text_6_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 13,
+		"inn_name": "",
+		"title_key": "_mail_t_7",
+		"text_key": "_mail_text_7_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 14,
+		"inn_name": "",
+		"title_key": "_mail_t_7",
+		"text_key": "_mail_text_7_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 15,
+		"inn_name": "",
+		"title_key": "_mail_t_8",
+		"text_key": "_mail_text_8_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 16,
+		"inn_name": "",
+		"title_key": "_mail_t_8",
+		"text_key": "_mail_text_8_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 17,
+		"inn_name": "",
+		"title_key": "_mail_t_8",
+		"text_key": "_mail_text_8_3",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 18,
+		"inn_name": "",
+		"title_key": "_mail_t_8",
+		"text_key": "_mail_text_8_4",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 19,
+		"inn_name": "",
+		"title_key": "_mail_t_9",
+		"text_key": "_mail_text_9_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 20,
+		"inn_name": "",
+		"title_key": "_mail_t_9",
+		"text_key": "_mail_text_9_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 21,
+		"inn_name": "",
+		"title_key": "_mail_t_9",
+		"text_key": "_mail_text_9_3",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 22,
+		"inn_name": "",
+		"title_key": "_mail_t_9",
+		"text_key": "_mail_text_9_4",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 23,
+		"inn_name": "",
+		"title_key": "_mail_t_10",
+		"text_key": "_mail_text_10_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 24,
+		"inn_name": "",
+		"title_key": "_mail_t_10",
+		"text_key": "_mail_text_10_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 25,
+		"inn_name": "",
+		"title_key": "_mail_t_11",
+		"text_key": "_mail_text_11_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 26,
+		"inn_name": "",
+		"title_key": "_mail_t_11",
+		"text_key": "_mail_text_11_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 27,
+		"inn_name": "",
+		"title_key": "_mail_t_12",
+		"text_key": "_mail_text_12_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 28,
+		"inn_name": "",
+		"title_key": "_mail_t_12",
+		"text_key": "_mail_text_12_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 29,
+		"inn_name": "",
+		"title_key": "_mail_t_13",
+		"text_key": "_mail_text_13_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 30,
+		"inn_name": "",
+		"title_key": "_mail_t_13",
+		"text_key": "_mail_text_13_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 31,
+		"inn_name": "",
+		"title_key": "_mail_t_14",
+		"text_key": "_mail_text_14_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 32,
+		"inn_name": "",
+		"title_key": "_mail_t_14",
+		"text_key": "_mail_text_14_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 33,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_1",
+		"icon": "email_icon",
+		"args": [
+			"_nft_56",
+			"_nft_57",
+			"_nft_58",
+			"_nft_59",
+			"_nft_60",
+			"_nft_61",
+			"_nft_62",
+			"_nft_63",
+			"_nft_64",
+			"_nft_65",
+			"_nft_66",
+			"_nft_67"
+		]
+	},
+	{
+		"id": 34,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 35,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 36,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 37,
+		"inn_name": "",
+		"title_key": "_mail_t_17",
+		"text_key": "_mail_text_17_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 38,
+		"inn_name": "",
+		"title_key": "_mail_t_17",
+		"text_key": "_mail_text_17_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 39,
+		"inn_name": "",
+		"title_key": "_mail_t_17",
+		"text_key": "_mail_text_17_3",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 40,
+		"inn_name": "",
+		"title_key": "_mail_t_18",
+		"text_key": "_mail_text_18_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 41,
+		"inn_name": "",
+		"title_key": "_mail_t_18",
+		"text_key": "_mail_text_18_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 42,
+		"inn_name": "",
+		"title_key": "_mail_t_19",
+		"text_key": "_mail_text_19_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 43,
+		"inn_name": "",
+		"title_key": "_mail_t_19",
+		"text_key": "_mail_text_19_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 44,
+		"inn_name": "",
+		"title_key": "_mail_t_20",
+		"text_key": "_mail_text_20_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 45,
+		"inn_name": "",
+		"title_key": "_mail_t_20",
+		"text_key": "_mail_text_20_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 46,
+		"inn_name": "",
+		"title_key": "_mail_t_21",
+		"text_key": "_mail_text_21_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 47,
+		"inn_name": "",
+		"title_key": "_mail_t_21",
+		"text_key": "_mail_text_21_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 48,
+		"inn_name": "",
+		"title_key": "_mail_t_22",
+		"text_key": "_mail_text_22_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 49,
+		"inn_name": "",
+		"title_key": "_mail_t_23",
+		"text_key": "_mail_text_23_1",
+		"icon": "email_icon",
+		"args": [
+			"_mail_t_5",
+			"_mail_t_2"
+		]
+	},
+	{
+		"id": 50,
+		"inn_name": "",
+		"title_key": "_mail_t_23",
+		"text_key": "_mail_text_23_2",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 51,
+		"inn_name": "",
+		"title_key": "_mail_t_24",
+		"text_key": "_mail_text_24_1",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 52,
+		"inn_name": "",
+		"title_key": "_mail_t_25",
+		"text_key": "_mail_text_25_1",
+		"icon": "email_icon",
+		"args": [
+			"_mail_t_2",
+			"_mail_t_3",
+			"_mail_t_5",
+			"_mail_t_6"
+		]
+	},
+	{
+		"id": 53,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_3",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 54,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_4",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 55,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_3",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 56,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_4",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 57,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_5",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 58,
+		"inn_name": "",
+		"title_key": "_mail_t_15",
+		"text_key": "_mail_text_15_6",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 59,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_5",
+		"icon": "email_icon",
+		"args": []
+	},
+	{
+		"id": 60,
+		"inn_name": "",
+		"title_key": "_mail_t_16",
+		"text_key": "_mail_text_16_6",
+		"icon": "email_icon",
+		"args": []
+	}
+]

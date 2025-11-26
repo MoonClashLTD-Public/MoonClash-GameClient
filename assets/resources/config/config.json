@@ -1,0 +1,22 @@
+{
+    "config": {
+        "isDev": false,
+        "version": "1.0.5",
+        "package": "game.kwar.com",
+        "httpServer": "",
+        "hotUpdateServer": "",
+        "httpTimeout": 10000,
+        "frameRate": 59
+    },
+    "language": {
+        "type": [
+            "zh",
+            "en",
+            "ko"
+        ],
+        "path": {
+            "json": "language/json",
+            "texture": "language/texture"
+        }
+    }
+}

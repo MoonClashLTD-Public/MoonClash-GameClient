@@ -1,0 +1,43 @@
+{
+  "__version__": "1.3.2",
+  "splash-setting": {
+    "displayWatermark": false,
+    "clearColor": {
+      "x": 0.8784313725490196,
+      "y": 0.8784313725490196,
+      "z": 0.8784313725490196,
+      "w": 1
+    },
+    "totalTime": 0,
+    "displayRatio": 0
+  },
+  "textureCompressConfig": {
+    "userPreset": {
+      "ac5iz26VhEUKywr8xbB+B9": {
+        "name": "user",
+        "options": {
+          "web": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "ios": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "miniGame": {
+            "png": {
+              "quality": 80
+            }
+          },
+          "android": {
+            "png": {
+              "quality": 80
+            }
+          }
+        }
+      }
+    }
+  }
+}

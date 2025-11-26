@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bb6e8069-8f26-4adb-ba47-cb64d322e298",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bb6e8069-8f26-4adb-ba47-cb64d322e298@6c48a",
+      "displayName": "Buttom_universal_r",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "bb6e8069-8f26-4adb-ba47-cb64d322e298",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "bb6e8069-8f26-4adb-ba47-cb64d322e298@f9941",
+      "displayName": "Buttom_universal_r",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 31,
+        "height": 85,
+        "rawWidth": 31,
+        "rawHeight": 85,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 15,
+        "borderRight": 16,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bb6e8069-8f26-4adb-ba47-cb64d322e298@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "bb6e8069-8f26-4adb-ba47-cb64d322e298@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

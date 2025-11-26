@@ -1,0 +1,27 @@
+
+mgsy_yjp.png
+size: 627,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yjp1
+  rotate: false
+  xy: 193, 460
+  size: 197, 165
+  orig: 514, 514
+  offset: 180, 233
+  index: -1
+yjp2
+  rotate: false
+  xy: 2, 467
+  size: 189, 158
+  orig: 514, 514
+  offset: 153, 205
+  index: -1
+yjp3
+  rotate: true
+  xy: 392, 430
+  size: 195, 233
+  orig: 514, 514
+  offset: 189, 120
+  index: -1

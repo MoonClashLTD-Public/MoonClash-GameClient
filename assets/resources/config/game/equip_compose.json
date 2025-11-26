@@ -1,0 +1,488 @@
+[
+	{
+		"id": 1,
+		"rarity_a": 1,
+		"rarity_b": 2,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 5000
+			},
+			{
+				"rarity": 2,
+				"weight": 5000
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 2,
+		"rarity_a": 1,
+		"rarity_b": 3,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 3300
+			},
+			{
+				"rarity": 2,
+				"weight": 3300
+			},
+			{
+				"rarity": 3,
+				"weight": 3300
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 3,
+		"rarity_a": 1,
+		"rarity_b": 4,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 2500
+			},
+			{
+				"rarity": 2,
+				"weight": 2500
+			},
+			{
+				"rarity": 3,
+				"weight": 2500
+			},
+			{
+				"rarity": 4,
+				"weight": 2500
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 4,
+		"rarity_a": 2,
+		"rarity_b": 2,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 10000
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 5,
+		"rarity_a": 2,
+		"rarity_b": 3,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 5000
+			},
+			{
+				"rarity": 3,
+				"weight": 5000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 6,
+		"rarity_a": 2,
+		"rarity_b": 4,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 3300
+			},
+			{
+				"rarity": 3,
+				"weight": 3300
+			},
+			{
+				"rarity": 4,
+				"weight": 3400
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 7,
+		"rarity_a": 3,
+		"rarity_b": 3,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 10000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 8,
+		"rarity_a": 3,
+		"rarity_b": 4,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 5000
+			},
+			{
+				"rarity": 4,
+				"weight": 5000
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 9,
+		"rarity_a": 4,
+		"rarity_b": 4,
+		"extra_material_proto_id": 0,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 10000
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 10,
+		"rarity_a": 1,
+		"rarity_b": 2,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 4000
+			},
+			{
+				"rarity": 2,
+				"weight": 6000
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 11,
+		"rarity_a": 1,
+		"rarity_b": 3,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 3000
+			},
+			{
+				"rarity": 2,
+				"weight": 3000
+			},
+			{
+				"rarity": 3,
+				"weight": 4000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 12,
+		"rarity_a": 1,
+		"rarity_b": 4,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 2300
+			},
+			{
+				"rarity": 2,
+				"weight": 2300
+			},
+			{
+				"rarity": 3,
+				"weight": 2300
+			},
+			{
+				"rarity": 4,
+				"weight": 3100
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 13,
+		"rarity_a": 2,
+		"rarity_b": 2,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 10000
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 14,
+		"rarity_a": 2,
+		"rarity_b": 3,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 4000
+			},
+			{
+				"rarity": 3,
+				"weight": 6000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 15,
+		"rarity_a": 2,
+		"rarity_b": 4,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 3000
+			},
+			{
+				"rarity": 3,
+				"weight": 3000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 16,
+		"rarity_a": 3,
+		"rarity_b": 3,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 10000
+			},
+			{
+				"rarity": 4,
+				"weight": 0
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 17,
+		"rarity_a": 3,
+		"rarity_b": 4,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 4000
+			},
+			{
+				"rarity": 4,
+				"weight": 6000
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	},
+	{
+		"id": 18,
+		"rarity_a": 4,
+		"rarity_b": 4,
+		"extra_material_proto_id": 3,
+		"rarity_weights": [
+			{
+				"rarity": 1,
+				"weight": 0
+			},
+			{
+				"rarity": 2,
+				"weight": 0
+			},
+			{
+				"rarity": 3,
+				"weight": 0
+			},
+			{
+				"rarity": 4,
+				"weight": 10000
+			}
+		],
+		"cost": {
+			"materials": null
+		}
+	}
+]

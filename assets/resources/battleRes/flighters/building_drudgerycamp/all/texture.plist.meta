@@ -1,0 +1,86 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf",
+  "files": [
+    ".json",
+    ".plist"
+  ],
+  "subMetas": {
+    "26626": {
+      "importer": "sprite-frame",
+      "uuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf@26626",
+      "displayName": "",
+      "id": "26626",
+      "name": "drudgerycamp_r",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": -9.5,
+        "trimX": 111,
+        "trimY": 1,
+        "width": 108,
+        "height": 129,
+        "rawWidth": 256,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "77b92403-b020-48f6-a5b5-f7927fc80cae@6c48a",
+        "atlasUuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a560f": {
+      "importer": "sprite-frame",
+      "uuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf@a560f",
+      "displayName": "",
+      "id": "a560f",
+      "name": "drudgerycamp_b",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": -9.5,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 108,
+        "height": 129,
+        "rawWidth": 256,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "77b92403-b020-48f6-a5b5-f7927fc80cae@6c48a",
+        "atlasUuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "texture.png",
+    "format": 2,
+    "uuid": "63cceb6e-62f0-48e0-90b6-0b7d682041bf",
+    "textureUuid": "77b92403-b020-48f6-a5b5-f7927fc80cae@6c48a"
+  }
+}

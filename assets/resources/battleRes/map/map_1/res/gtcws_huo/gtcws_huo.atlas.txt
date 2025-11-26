@@ -1,0 +1,41 @@
+
+gtcws_huo.png
+size: 518, 518
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+burntembers3a
+  rotate: false
+  xy: 2, 130
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burntembers3b
+  rotate: false
+  xy: 260, 130
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow01
+  rotate: false
+  xy: 105, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: false
+  xy: 235, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yan02
+  rotate: false
+  xy: 2, 417
+  size: 101, 99
+  orig: 128, 128
+  offset: 7, 18
+  index: -1

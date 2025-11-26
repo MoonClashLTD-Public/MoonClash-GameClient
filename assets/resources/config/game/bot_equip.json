@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"difficulty": 1,
+		"rarity": 1,
+		"quality": 1,
+		"equips": [
+			{
+				"proto_id": 1,
+				"prob": 100
+			},
+			{
+				"proto_id": 2,
+				"prob": 100
+			},
+			{
+				"proto_id": 3,
+				"prob": 100
+			}
+		]
+	},
+	{
+		"id": 2,
+		"difficulty": 2,
+		"rarity": 2,
+		"quality": 1,
+		"equips": [
+			{
+				"proto_id": 1,
+				"prob": 5000
+			},
+			{
+				"proto_id": 2,
+				"prob": 5000
+			},
+			{
+				"proto_id": 3,
+				"prob": 5000
+			}
+		]
+	},
+	{
+		"id": 3,
+		"difficulty": 3,
+		"rarity": 3,
+		"quality": 2,
+		"equips": [
+			{
+				"proto_id": 1,
+				"prob": 5000
+			},
+			{
+				"proto_id": 2,
+				"prob": 5000
+			},
+			{
+				"proto_id": 3,
+				"prob": 5000
+			}
+		]
+	},
+	{
+		"id": 4,
+		"difficulty": 4,
+		"rarity": 3,
+		"quality": 2,
+		"equips": [
+			{
+				"proto_id": 1,
+				"prob": 5000
+			},
+			{
+				"proto_id": 2,
+				"prob": 5000
+			},
+			{
+				"proto_id": 3,
+				"prob": 5000
+			}
+		]
+	},
+	{
+		"id": 5,
+		"difficulty": 5,
+		"rarity": 4,
+		"quality": 3,
+		"equips": [
+			{
+				"proto_id": 1,
+				"prob": 5000
+			},
+			{
+				"proto_id": 2,
+				"prob": 5000
+			},
+			{
+				"proto_id": 3,
+				"prob": 5000
+			}
+		]
+	}
+]

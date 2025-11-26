@@ -1,0 +1,27 @@
+
+thunder_ray.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning1
+  rotate: false
+  xy: 2, 2
+  size: 87, 256
+  orig: 128, 256
+  offset: 21, 0
+  index: -1
+lightning2
+  rotate: false
+  xy: 157, 2
+  size: 53, 256
+  orig: 128, 256
+  offset: 36, 0
+  index: -1
+lightning3
+  rotate: false
+  xy: 91, 2
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1

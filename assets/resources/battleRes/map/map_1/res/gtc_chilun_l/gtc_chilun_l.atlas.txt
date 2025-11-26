@@ -1,0 +1,13 @@
+
+gtc_chilun_l.png
+size: 218,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lun_l
+  rotate: false
+  xy: 2, 2
+  size: 207, 214
+  orig: 258, 258
+  offset: 27, 22
+  index: -1

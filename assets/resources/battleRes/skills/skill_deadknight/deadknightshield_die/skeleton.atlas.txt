@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowtail1
+  rotate: false
+  xy: 2, 2
+  size: 27, 104
+  orig: 32, 128
+  offset: 3, 12
+  index: -1

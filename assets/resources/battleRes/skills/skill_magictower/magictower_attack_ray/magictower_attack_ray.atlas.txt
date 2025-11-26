@@ -1,0 +1,27 @@
+
+magictower_attack_ray.png
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd01a
+  rotate: true
+  xy: 2, 834
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1
+bd01b
+  rotate: true
+  xy: 404, 834
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1
+cleanbeam
+  rotate: false
+  xy: 806, 806
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

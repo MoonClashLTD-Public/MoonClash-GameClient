@@ -1,0 +1,55 @@
+
+fireball_hit_smoke.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_4
+  rotate: false
+  xy: 2, 132
+  size: 142, 141
+  orig: 164, 164
+  offset: 10, 11
+  index: -1
+crack
+  rotate: false
+  xy: 250, 236
+  size: 117, 77
+  orig: 131, 98
+  offset: 8, 6
+  index: -1
+glow
+  rotate: false
+  xy: 191, 315
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke111
+  rotate: false
+  xy: 2, 275
+  size: 187, 168
+  orig: 200, 200
+  offset: 7, 19
+  index: -1
+smoke1_00
+  rotate: false
+  xy: 321, 315
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: true
+  xy: 146, 152
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1

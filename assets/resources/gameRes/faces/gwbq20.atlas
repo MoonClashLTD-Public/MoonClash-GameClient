@@ -1,0 +1,90 @@
+
+gwbq20.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 342, 41
+  size: 28, 23
+  orig: 30, 25
+  offset: 1, 1
+  index: -1
+huangguan
+  rotate: false
+  xy: 269, 71
+  size: 77, 55
+  orig: 80, 57
+  offset: 2, 1
+  index: -1
+meimao1
+  rotate: false
+  xy: 19, 3
+  size: 15, 8
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+meimao2
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 134, 21
+  size: 67, 105
+  orig: 69, 107
+  offset: 1, 1
+  index: -1
+tanhao
+  rotate: false
+  xy: 255, 5
+  size: 27, 45
+  orig: 29, 47
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 13
+  size: 113, 130
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 203, 52
+  size: 64, 74
+  orig: 65, 78
+  offset: 1, 2
+  index: -1
+toufa2
+  rotate: false
+  xy: 284, 3
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 134, 3
+  size: 16, 20
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 342, 16
+  size: 18, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 203, 21
+  size: 50, 29
+  orig: 52, 31
+  offset: 1, 1
+  index: -1

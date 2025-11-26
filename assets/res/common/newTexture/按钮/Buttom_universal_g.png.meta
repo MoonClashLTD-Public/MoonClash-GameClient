@@ -1,0 +1,79 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b@6c48a",
+      "displayName": "Buttom_universal_g",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b@f9941",
+      "displayName": "Buttom_universal_g",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 32,
+        "height": 85,
+        "rawWidth": 32,
+        "rawHeight": 85,
+        "borderTop": 41,
+        "borderBottom": 42,
+        "borderLeft": 15,
+        "borderRight": 16,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "b606f7e3-3a39-4800-ab18-8cbecacc9b7b@f9941",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "ac5iz26VhEUKywr8xbB+B9"
+    }
+  }
+}

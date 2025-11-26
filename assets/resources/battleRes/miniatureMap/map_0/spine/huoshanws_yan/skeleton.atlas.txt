@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 648, 648
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+burntembers3a
+  rotate: false
+  xy: 132, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burntembers3b
+  rotate: false
+  xy: 390, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: false
+  xy: 2, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

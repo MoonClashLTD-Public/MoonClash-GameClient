@@ -1,0 +1,97 @@
+
+gwbq14.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_1
+  rotate: false
+  xy: 137, 2
+  size: 76, 45
+  orig: 79, 48
+  offset: 1, 2
+  index: -1
+14_10
+  rotate: false
+  xy: 199, 56
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+14_11
+  rotate: false
+  xy: 137, 49
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+14_12
+  rotate: false
+  xy: 241, 23
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+14_13
+  rotate: true
+  xy: 2, 16
+  size: 109, 133
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+14_2
+  rotate: false
+  xy: 260, 108
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+14_3
+  rotate: false
+  xy: 2, 6
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+14_4
+  rotate: true
+  xy: 36, 7
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+14_5
+  rotate: false
+  xy: 262, 2
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+14_6
+  rotate: false
+  xy: 20, 5
+  size: 14, 9
+  orig: 16, 11
+  offset: 1, 1
+  index: -1
+14_7
+  rotate: true
+  xy: 44, 8
+  size: 6, 5
+  orig: 8, 7
+  offset: 1, 1
+  index: -1
+14_8
+  rotate: false
+  xy: 241, 2
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+14_9
+  rotate: true
+  xy: 215, 11
+  size: 43, 24
+  orig: 45, 26
+  offset: 1, 1
+  index: -1

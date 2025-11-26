@@ -1,0 +1,7238 @@
+[
+	{
+		"key": "name",
+		"value": "내부 이름"
+	},
+	{
+		"key": "_err_0",
+		"value": "정상"
+	},
+	{
+		"key": "_err_1",
+		"value": "일반 오류입니다."
+	},
+	{
+		"key": "_err_2",
+		"value": "링크 시간 초과입니다."
+	},
+	{
+		"key": "_err_3",
+		"value": "데이터 베이스 오류입니다."
+	},
+	{
+		"key": "_err_4",
+		"value": "작업이 완료될 때까지 기다려 주십시오."
+	},
+	{
+		"key": "_err_5",
+		"value": "구성 누락입니다."
+	},
+	{
+		"key": "_err_100",
+		"value": "디버깅 오류 0. 인터페이스 0으로 돌아갑니다."
+	},
+	{
+		"key": "_err_101",
+		"value": "디버깅 오류 2"
+	},
+	{
+		"key": "_err_102",
+		"value": "디버깅 오류 3"
+	},
+	{
+		"key": "_err_103",
+		"value": "디버깅 오류 4"
+	},
+	{
+		"key": "_err_104",
+		"value": "디버깅 오류 5"
+	},
+	{
+		"key": "_err_105",
+		"value": "ETH 형식이 wei단위로 전송되지 않았습니다,"
+	},
+	{
+		"key": "_err_106",
+		"value": "이 NFT 소유자가 유효하지 않습니다."
+	},
+	{
+		"key": "_err_107",
+		"value": "거래 처리중"
+	},
+	{
+		"key": "_err_108",
+		"value": "주문이 찾을 수 없습니다."
+	},
+	{
+		"key": "_err_109",
+		"value": "현재 주문을 구매할 수 없습니다."
+	},
+	{
+		"key": "_err_110",
+		"value": "자신의 아이템이 구매할 수 없습니다."
+	},
+	{
+		"key": "_err_111",
+		"value": "이 프레이어가 존재하지 않습니다."
+	},
+	{
+		"key": "_err_112",
+		"value": "골드 수량이 유효하지 않습니다."
+	},
+	{
+		"key": "_err_113",
+		"value": "다이아몬드 개수가 유효하지 않습니다."
+	},
+	{
+		"key": "_err_114",
+		"value": "대여 가능시간이 초과입니다."
+	},
+	{
+		"key": "_err_115",
+		"value": "친구 수량 상한 도달입이다."
+	},
+	{
+		"key": "_err_116",
+		"value": "최대 친구 신청 도달입니다."
+	},
+	{
+		"key": "_err_117",
+		"value": "친구 신청 보냈습니다."
+	},
+	{
+		"key": "_err_118",
+		"value": "유효하지 않은 초대 코드입니다,"
+	},
+	{
+		"key": "_err_119",
+		"value": "사용된 초대 코드입니다."
+	},
+	{
+		"key": "_err_120",
+		"value": "공유 작업을 해야 출금이 가능합니다."
+	},
+	{
+		"key": "_err_121",
+		"value": "출금 작업이 냉각중, 잠시만 기다리십시오."
+	},
+	{
+		"key": "_err_122",
+		"value": "지갑 주소가 잘못되었습니다. 지갑 주소의 대소문자 또는 숫자가 올바른지 확인하세요."
+	},
+	{
+		"key": "_err_123",
+		"value": "Token 형식이 유효하지 않습니다."
+	},
+	{
+		"key": "_err_126",
+		"value": "오늘 PVE에 사용했던 카드입니다. 거래할 수 없습니다."
+	},
+	{
+		"key": "_err_127",
+		"value": "오늘 PVE에 사용했던 카드입니다. 거래할 수 없습니다."
+	},
+	{
+		"key": "_err_128",
+		"value": "오늘 PVE에 사용했던 아이템입니다. 거래할 수 없습니다."
+	},
+	{
+		"key": "_err_129",
+		"value": "게임 시작하기 전에 블라인드 상자를 열 수 없습니다."
+	},
+	{
+		"key": "_err_130",
+		"value": "IP 형식 유효하지 않습니다."
+	},
+	{
+		"key": "_err_131",
+		"value": "해당 IP가 차단돼었습니다."
+	},
+	{
+		"key": "_err_132",
+		"value": "해당 계정이 차단돼었습니다."
+	},
+	{
+		"key": "_err_133",
+		"value": "이 주문이 처리중입니다.(아마도 거래중, 거래 폐지등)"
+	},
+	{
+		"key": "_err_134",
+		"value": "묶인 커드는 거래하거나 상장할 수 없습니다."
+	},
+	{
+		"key": "_err_135",
+		"value": "한정 카드는 업그레이드할 수 없습니다. "
+	},
+	{
+		"key": "_err_136",
+		"value": "업그레이드에 사용할 수 없는 특별 발급 카드."
+	},
+	{
+		"key": "_err_137",
+		"value": "지갑 전송 주소가 잘못되었습니다."
+	},
+	{
+		"key": "_err_138",
+		"value": "본인에게 송금할 수 없음"
+	},
+	{
+		"key": "_err_139",
+		"value": "금액이 최소 이체 금액에 미달하여 이체할 수 없습니다."
+	},
+	{
+		"key": "_err_140",
+		"value": "하루에 한 명의 친구만 삭제할 수 있습니다."
+	},
+	{
+		"key": "_err_450",
+		"value": "Json 바인딩 실패했습니다."
+	},
+	{
+		"key": "_err_500",
+		"value": "알 수 없는 오류"
+	},
+	{
+		"key": "_err_600",
+		"value": "서버 API 오류"
+	},
+	{
+		"key": "_err_601",
+		"value": "작업 제출 시간 초과"
+	},
+	{
+		"key": "_err_602",
+		"value": "GAS비용 부족합니다. 지갑을 확인하십시오."
+	},
+	{
+		"key": "_err_970",
+		"value": "온체인 데이터 처리중입니다. 잠시후 다시 시도하십시오."
+	},
+	{
+		"key": "_err_971",
+		"value": "골드 잠금 실패했습니다."
+	},
+	{
+		"key": "_err_972",
+		"value": "DGG 잠금 실패했습니다."
+	},
+	{
+		"key": "_err_981",
+		"value": "정화석 부족"
+	},
+	{
+		"key": "_err_982",
+		"value": "재련석 부족"
+	},
+	{
+		"key": "_err_983",
+		"value": "행운석 부족"
+	},
+	{
+		"key": "_err_984",
+		"value": "기억상실약 부족"
+	},
+	{
+		"key": "_err_985",
+		"value": "눈부신 풀 부족"
+	},
+	{
+		"key": "_err_986",
+		"value": "각성석 부족"
+	},
+	{
+		"key": "_err_987",
+		"value": "구운 칠면조 부족"
+	},
+	{
+		"key": "_err_988",
+		"value": "아이템이 존재하지 않음"
+	},
+	{
+		"key": "_err_989",
+		"value": "숫돌 부족"
+	},
+	{
+		"key": "_err_992",
+		"value": "승격된 사용자 수가 부족합니다"
+	},
+	{
+		"key": "_err_993",
+		"value": "보물 상자 초대 포인드 부족"
+	},
+	{
+		"key": "_err_997",
+		"value": "다이아몬드 결핍"
+	},
+	{
+		"key": "_err_998",
+		"value": "골드 부족"
+	},
+	{
+		"key": "_err_999",
+		"value": "프로토타입 데이터가 존재하지 않음"
+	},
+	{
+		"key": "_err_1001",
+		"value": "서버 오브라인 상태입니다."
+	},
+	{
+		"key": "_err_1002",
+		"value": "서버 풀 상태 입니다,"
+	},
+	{
+		"key": "_err_1003",
+		"value": "이 서버에서 캐릭터를 생성할 수습니다."
+	},
+	{
+		"key": "_err_1004",
+		"value": "이 서버에서 생성 가능할 개릭터 수량 제한 도달했습니다."
+	},
+	{
+		"key": "_err_1005",
+		"value": "이미 사용된 ID입니다."
+	},
+	{
+		"key": "_err_1006",
+		"value": "캐릭터 레벨이 너무 낮습니다."
+	},
+	{
+		"key": "_err_1007",
+		"value": "캐릭터 레벨이 너무 높습니다."
+	},
+	{
+		"key": "_err_1008",
+		"value": "캐릭터 매칭중"
+	},
+	{
+		"key": "_err_1009",
+		"value": "스테이지가 존재하지 않음"
+	},
+	{
+		"key": "_err_1100",
+		"value": "친구가 오프라인 상대입니다. 초대한 배틀에 참여할 수 없습니다."
+	},
+	{
+		"key": "_err_1101",
+		"value": "친구가 게임중입니다. 초대한 배틀에 참여할 수 없습니다."
+	},
+	{
+		"key": "_err_1102",
+		"value": "친구가 배틀 초대를 거부했습니다."
+	},
+	{
+		"key": "_err_1103",
+		"value": "친구의 카드 수량 부족입니다."
+	},
+	{
+		"key": "_err_1104",
+		"value": "친구가 오프라인 상대입니다."
+	},
+	{
+		"key": "_err_1105",
+		"value": "친구가 경기 초대를 취소했습니다."
+	},
+	{
+		"key": "_err_1106",
+		"value": "친구의 카드 수량 부족입니다."
+	},
+	{
+		"key": "_err_1107",
+		"value": "친구가 배틀중입니다."
+	},
+	{
+		"key": "_err_1108",
+		"value": "초대가 존재하지 않음"
+	},
+	{
+		"key": "_err_1500",
+		"value": "이 카드가 존재하지 않음"
+	},
+	{
+		"key": "_err_1501",
+		"value": "덱이 존재하지 않음"
+	},
+	{
+		"key": "_err_1502",
+		"value": "덱 부족"
+	},
+	{
+		"key": "_err_1503",
+		"value": "카드는 이미 덱에 있습니다."
+	},
+	{
+		"key": "_err_1504",
+		"value": "덱 수량 오류"
+	},
+	{
+		"key": "_err_1505",
+		"value": "덱 수 제한 도달"
+	},
+	{
+		"key": "_err_1506",
+		"value": "사용할 카드가 존재하지 않음"
+	},
+	{
+		"key": "_err_1507",
+		"value": "카드가 최고 레벨 도달"
+	},
+	{
+		"key": "_err_1508",
+		"value": "같은 유형의 카드가 이미 사용 중입니다."
+	},
+	{
+		"key": "_err_1509",
+		"value": "카드 체력 부족"
+	},
+	{
+		"key": "_err_1510",
+		"value": "카드 업그레이드 기능 냉각중"
+	},
+	{
+		"key": "_err_1511",
+		"value": "오늘의 카드 체력 회복 최대치에 도달했습니다."
+	},
+	{
+		"key": "_err_1600",
+		"value": "아이템이 존재하지 않음"
+	},
+	{
+		"key": "_err_1601",
+		"value": "아이템 세트가 존재하지 않음"
+	},
+	{
+		"key": "_err_1602",
+		"value": "아이탬 세트 누락"
+	},
+	{
+		"key": "_err_1603",
+		"value": "아이템은 이미 세트에 있습니다."
+	},
+	{
+		"key": "_err_1604",
+		"value": "아이템 세트 수량 오류"
+	},
+	{
+		"key": "_err_1605",
+		"value": "최대 내구도 초과"
+	},
+	{
+		"key": "_err_1606",
+		"value": "사용 가능한 아이탬이 없습니다."
+	},
+	{
+		"key": "_err_1607",
+		"value": "아이템 내구도 부족"
+	},
+	{
+		"key": "_err_1608",
+		"value": "오늘의 아이템 내구도 회복 최대치에 도달했습니다."
+	},
+	{
+		"key": "_err_1701",
+		"value": "빈 서프라이즈 보물 상자입니다."
+	},
+	{
+		"key": "_err_1702",
+		"value": " 서프라이즈 보물 상자 부족"
+	},
+	{
+		"key": "_err_2000",
+		"value": "배틀 서버가 다운되었습니다."
+	},
+	{
+		"key": "_err_2001",
+		"value": "배틀 생성에 실패했습니다. 더 많은 참가자가 필요합니다."
+	},
+	{
+		"key": "_err_2002",
+		"value": "카드가 6장 미만으로 배틀 진행할 수 없습니다."
+	},
+	{
+		"key": "_err_2003",
+		"value": "참가자 중 한 명이 이미 배틀 중입니다."
+	},
+	{
+		"key": "_err_2004",
+		"value": "소유하지 않은 카드를 요청했습니다."
+	},
+	{
+		"key": "_err_2005",
+		"value": "식물이 부족합니다. 카드를 사용할 수 없습니다."
+	},
+	{
+		"key": "_err_2006",
+		"value": "카드가 냉각중입나다. 잠시후 시도하십시오."
+	},
+	{
+		"key": "_err_2007",
+		"value": "잘못된 카드 캐스팅 위치입니다."
+	},
+	{
+		"key": "_err_2008",
+		"value": "카드가 대기중입니다."
+	},
+	{
+		"key": "_err_2009",
+		"value": "전투력이 스테이지 기준보다 낮습니다."
+	},
+	{
+		"key": "_err_2010",
+		"value": "전투력이 스테이지 기준보다 높습니다."
+	},
+	{
+		"key": "_err_2011",
+		"value": "지원 카드 이상입니다."
+	},
+	{
+		"key": "_err_3000",
+		"value": "내부 서버 사용중입니다."
+	},
+	{
+		"key": "_err_3001",
+		"value": "잔금이 부족합니다.지갑을 확인하십시오."
+	},
+	{
+		"key": "_err_4000",
+		"value": "오늘 답변됨."
+	},
+	{
+		"key": "_err_4001",
+		"value": "질문에 성공적으로 답변했습니다."
+	},
+	{
+		"key": "_err_4002",
+		"value": "질문에 답변하지 못함."
+	},
+	{
+		"key": "_err_4003",
+		"value": "누락된 질문."
+	},
+	{
+		"key": "_err_4100",
+		"value": "자금이 부족합니다."
+	},
+	{
+		"key": "_err_4101",
+		"value": "가격은 변동성이 크며 현재 거래할 수 없습니다."
+	},
+	{
+		"key": "_err_4102",
+		"value": "이미 초대한 사람 정보."
+	},
+	{
+		"key": "_err_4103",
+		"value": "바인딩 조건이 현재 충족되지 않았습니다."
+	},
+	{
+		"key": "_err_4110",
+		"value": "경기가 존재하지 않습니다"
+	},
+	{
+		"key": "_err_4111",
+		"value": "대상 플레이어가 현재 오프라인 상태임"
+	},
+	{
+		"key": "_err_4112",
+		"value": "목표 코멘테이터가 현재 오프라인 상태임"
+	},
+	{
+		"key": "_err_4113",
+		"value": "동일한 게임을 다시 만들 수 없습니다"
+	},
+	{
+		"key": "_err_4114",
+		"value": "참가자의 현재 카드 덱이 불충분함"
+	},
+	{
+		"key": "update_tips_check_update",
+		"value": "업데이트를 확인하십시오."
+	},
+	{
+		"key": "update_tips_update",
+		"value": "업데이트 팁"
+	},
+	{
+		"key": "update_tips_new_version",
+		"value": "새 버전을 업데이트해야 합니다."
+	},
+	{
+		"key": "update_tips_update_fail",
+		"value": "업데이트를 실패했습니다."
+	},
+	{
+		"key": "update_tips_update_success",
+		"value": "업데이트를 완성되었습니다."
+	},
+	{
+		"key": "update_tips_force",
+		"value": "강제 업데이트 필요합니다."
+	},
+	{
+		"key": "update_nowifi_tip",
+		"value": "현재 업데이트에 대한 연결 불량입니다."
+	},
+	{
+		"key": "update_btn_retry",
+		"value": "다시 시도하십시오."
+	},
+	{
+		"key": "update_tips_err",
+		"value": "업데이트 오류 다시 시도하십시오."
+	},
+	{
+		"key": "common_prompt_ok",
+		"value": "확인"
+	},
+	{
+		"key": "common_prompt_confirm",
+		"value": "확인"
+	},
+	{
+		"key": "common_prompt_cancal",
+		"value": "취소"
+	},
+	{
+		"key": "common_prompt_back",
+		"value": "돌아가기"
+	},
+	{
+		"key": "common_prompt_use",
+		"value": "사용"
+	},
+	{
+		"key": "common_prompt_title_sys",
+		"value": "시스템 메시지"
+	},
+	{
+		"key": "common_prompt_content",
+		"value": "시스템 메시지 내용"
+	},
+	{
+		"key": "common_prompt",
+		"value": "공공 메시지"
+	},
+	{
+		"key": "common_wait",
+		"value": "온체인 작업중. 잠시만 기다리십시오."
+	},
+	{
+		"key": "common_click_close",
+		"value": "닫으려면 화면을 터치하십시오.온체인 작업은 백그라운드에서 처리됩니다."
+	},
+	{
+		"key": "notify_show",
+		"value": "메시지"
+	},
+	{
+		"key": "btn_rich_text",
+		"value": "RTF(풍부한 형식)"
+	},
+	{
+		"key": "btn_demo_lang",
+		"value": "영어"
+	},
+	{
+		"key": "btn_common_prompt",
+		"value": "일반 힌트"
+	},
+	{
+		"key": "btn_notify_show",
+		"value": "힌트"
+	},
+	{
+		"key": "input_err_email_tip",
+		"value": "맞은 메일을 입력하십시오."
+	},
+	{
+		"key": "input_btm_err_email",
+		"value": "맞은 메일주소를 입력하십시오."
+	},
+	{
+		"key": "input_btm_err_pwd",
+		"value": "8-15자"
+	},
+	{
+		"key": "pop_btn_1",
+		"value": "메시지"
+	},
+	{
+		"key": "pop_btn_2",
+		"value": "사용"
+	},
+	{
+		"key": "pop_btn_3",
+		"value": "제거"
+	},
+	{
+		"key": "pop_btn_4",
+		"value": "열기"
+	},
+	{
+		"key": "pop_btn_5",
+		"value": "협조"
+	},
+	{
+		"key": "pop_btn_6",
+		"value": "사용"
+	},
+	{
+		"key": "pop_btn_7",
+		"value": "사용"
+	},
+	{
+		"key": "netInstableOpen",
+		"value": "온체인 작업중. 기다리십시오."
+	},
+	{
+		"key": "btn_audio_open1",
+		"value": "음악"
+	},
+	{
+		"key": "btn_audio_open2",
+		"value": "음향 효과"
+	},
+	{
+		"key": "loading_load_json",
+		"value": "텍스트 로드"
+	},
+	{
+		"key": "loading_load_game",
+		"value": "로딩 중"
+	},
+	{
+		"key": "loading_load_player",
+		"value": "사용자 정보 얻기"
+	},
+	{
+		"key": "role_name",
+		"value": "이름"
+	},
+	{
+		"key": "role_lv",
+		"value": "레벨"
+	},
+	{
+		"key": "role_hp",
+		"value": "HP"
+	},
+	{
+		"key": "role_power",
+		"value": "힘"
+	},
+	{
+		"key": "role_physical",
+		"value": "체질"
+	},
+	{
+		"key": "role_agile",
+		"value": "민첩"
+	},
+	{
+		"key": "login_discord",
+		"value": "지역 사회"
+	},
+	{
+		"key": "no_login_tip",
+		"value": "먼저 로그인 하십시오"
+	},
+	{
+		"key": "login_err",
+		"value": "서버 연결 실패했습니다."
+	},
+	{
+		"key": "login_login",
+		"value": "로그인"
+	},
+	{
+		"key": "login_register",
+		"value": "회원가입"
+	},
+	{
+		"key": "login_auto_login",
+		"value": "들어가기"
+	},
+	{
+		"key": "login_switch_account",
+		"value": "계정 전환"
+	},
+	{
+		"key": "register_email",
+		"value": "이메일"
+	},
+	{
+		"key": "register_pwd",
+		"value": "비밀번호"
+	},
+	{
+		"key": "register_code",
+		"value": "6자리 인증번호를 입력하십시오."
+	},
+	{
+		"key": "register_btn_code",
+		"value": "보내기"
+	},
+	{
+		"key": "register_code1",
+		"value": "초대 코드를 입력하십시오(선택사항)"
+	},
+	{
+		"key": "register_btn_code1",
+		"value": "선택사항"
+	},
+	{
+		"key": "register_btn_confrim",
+		"value": "인증"
+	},
+	{
+		"key": "change_pwd_title",
+		"value": "비밀번호 재설정"
+	},
+	{
+		"key": "change_pwd_btn_confrim",
+		"value": "인증"
+	},
+	{
+		"key": "change_pwd_old_pwd",
+		"value": "이전 비밀번호를 입력하십시오."
+	},
+	{
+		"key": "change_pwd_new_pwd",
+		"value": "새로운 비밀번호를 입력하십시오."
+	},
+	{
+		"key": "register_btn_validation",
+		"value": "확인"
+	},
+	{
+		"key": "register_btn_back",
+		"value": "돌어가기"
+	},
+	{
+		"key": "register_btn_registered",
+		"value": "회원가입"
+	},
+	{
+		"key": "register_confirmationcode",
+		"value": "인증번호"
+	},
+	{
+		"key": "register_desc",
+		"value": "<outline color=black width=2><color=#ffffff>읽고 동의</color><color=#6fcffd>《Degen 사용자 공지사항》</color></outline>"
+	},
+	{
+		"key": "email_placeholder",
+		"value": "미메일 주소"
+	},
+	{
+		"key": "password_placeholder",
+		"value": "비밀번호를 입력하십시오."
+	},
+	{
+		"key": "password_new_placeholder",
+		"value": "새로운 비밀번호를 입력하십시오."
+	},
+	{
+		"key": "terms_of_service_title",
+		"value": "서비스 약관"
+	},
+	{
+		"key": "fighting_page_arena",
+		"value": "경기"
+	},
+	{
+		"key": "fighting_page_challenge",
+		"value": "도전"
+	},
+	{
+		"key": "setting_name",
+		"value": "이름"
+	},
+	{
+		"key": "setting_ID",
+		"value": "UID"
+	},
+	{
+		"key": "setting_music",
+		"value": "음악"
+	},
+	{
+		"key": "setting_sound",
+		"value": "음향 효과"
+	},
+	{
+		"key": "setting_open",
+		"value": "켜기"
+	},
+	{
+		"key": "setting_close",
+		"value": "끄기"
+	},
+	{
+		"key": "setting_lang",
+		"value": "언어"
+	},
+	{
+		"key": "setting_title_lang",
+		"value": "언어어"
+	},
+	{
+		"key": "setting_zh",
+		"value": "중국어 번체"
+	},
+	{
+		"key": "setting_en",
+		"value": "English"
+	},
+	{
+		"key": "setting_ko",
+		"value": "한국어"
+	},
+	{
+		"key": "setting_options",
+		"value": "옵션"
+	},
+	{
+		"key": "setting_btn_cs",
+		"value": "고객 서비스"
+	},
+	{
+		"key": "setting_btn_wp",
+		"value": "백서"
+	},
+	{
+		"key": "setting_btn_pwd",
+		"value": "비밀번호 재설정"
+	},
+	{
+		"key": "setting_back_login",
+		"value": "로그 아웃"
+	},
+	{
+		"key": "setting_btn_pwd1",
+		"value": "비밀번호"
+	},
+	{
+		"key": "setting_btn_pwd2",
+		"value": "비밀번호 재설정"
+	},
+	{
+		"key": "setting_verification_bind1",
+		"value": "유효성 검사기"
+	},
+	{
+		"key": "setting_verification_bind2",
+		"value": "바인딩"
+	},
+	{
+		"key": "setting_verification_bind3",
+		"value": "언바인딩"
+	},
+	{
+		"key": "share_title_invite",
+		"value": "수입"
+	},
+	{
+		"key": "share_content",
+		"value": "내용 공유"
+	},
+	{
+		"key": "share_title_invite_0",
+		"value": "회윈가입 인수"
+	},
+	{
+		"key": "share_title_invite_1",
+		"value": "소비 인수"
+	},
+	{
+		"key": "share_title_invite_2",
+		"value": "골드 획득"
+	},
+	{
+		"key": "share_btn_code",
+		"value": "초대 코드 "
+	},
+	{
+		"key": "share_btn_key",
+		"value": "복제 링크"
+	},
+	{
+		"key": "share_btn_detailed",
+		"value": "더 보기"
+	},
+	{
+		"key": "share_title",
+		"value": "초대 코드 "
+	},
+	{
+		"key": "share_copy_succ",
+		"value": "성공적으로 복사"
+	},
+	{
+		"key": "share_copy",
+		"value": "초대 코드 북사 성공!"
+	},
+	{
+		"key": "share_desc_0",
+		"value": "초대 코드를 얻으려면 카드 레벨을 올리십시오."
+	},
+	{
+		"key": "share_desc_0_0",
+		"value": "초대 코드를 얻으려면 카드 레벨을 구매하십시오."
+	},
+	{
+		"key": "share_desc_1",
+		"value": "<outline color=black width=2><color=#40de54>%{code}</color> <color=#fb0000>(중고)</color></outline>"
+	},
+	{
+		"key": "share_desc_2",
+		"value": "<outline color=black width=2><color=#ffffff>획득: </color><color=#40de54>%{code}</color></outline>"
+	},
+	{
+		"key": "share_btn_share",
+		"value": "원클릭 공유"
+	},
+	{
+		"key": "share_code_1",
+		"value": "1. 블라인드 상자를 열고 카드와 장비를 업그레이드하면 초대 코드를 받게 됩니다.\n2. 각 프레이어은 동시에 1개의 초대 코드만 가질 수 있습니다.\n3. 초대 코드는 1명의 플레이어만 초대할 수 있습니다.\n4. 프레이어를 초대하면 풍부한 보상을 받을 수 있습니다."
+	},
+	{
+		"key": "share_Pop_1",
+		"value": "1. 등록 초대를 받은 각 플레이어에 대해 10포인트가 적립됩니다.\n2. 초대된 플레이어가 구매한 행운의 상자 1개당 100포인트가 적립됩니다."
+	},
+	{
+		"key": "share_invitation_1",
+		"value": "이 게임을 플레이하면서 엄청난 돈을 벌 수 있습니다!"
+	},
+	{
+		"key": "share_invitation_2",
+		"value": "%{url}"
+	},
+	{
+		"key": "share_editbox_tips",
+		"value": "300자를 초과할 수 없습니다."
+	},
+	{
+		"key": "share_code_tips1",
+		"value": "%{event} %{date}에 %{name}님을 초대했습니다."
+	},
+	{
+		"key": "share_code_tips2",
+		"value": " %{num} 포인트 적립되었습니다."
+	},
+	{
+		"key": "share_code_event1",
+		"value": "블라인드 상자"
+	},
+	{
+		"key": "share_code_event2",
+		"value": "카드 업데이트"
+	},
+	{
+		"key": "share_code_event3",
+		"value": "아이템 제작"
+	},
+	{
+		"key": "share_explain_1",
+		"value": "프레이어님 아직 초대 코드 획득하지 않았습니다."
+	},
+	{
+		"key": "share_explain_2",
+		"value": "프레이어님 아직 포인트를 획득하지 않았습니다."
+	},
+	{
+		"key": "wallet_desc_0",
+		"value": "<outline color=black width=2><color=#ffffff>Arbitrum ETH:</color><color=#77f349>%{num}</color></outline>"
+	},
+	{
+		"key": "wallet_desc_1",
+		"value": "<outline color=black width=2><color=#ffffff>대략:%{num}dollars</color></outline>"
+	},
+	{
+		"key": "wallet_btn_receive",
+		"value": "접수"
+	},
+	{
+		"key": "wallet_btn_transfer",
+		"value": "이전"
+	},
+	{
+		"key": "wallet_btn_exchange",
+		"value": "교환"
+	},
+	{
+		"key": "wallet_btn_withdraw",
+		"value": "출금"
+	},
+	{
+		"key": "wallet_btn_sell",
+		"value": "판매"
+	},
+	{
+		"key": "wallet_btn_cancelsell",
+		"value": "제거"
+	},
+	{
+		"key": "wallet_btn_rent",
+		"value": "임대"
+	},
+	{
+		"key": "wallet_title_sell",
+		"value": "판매"
+	},
+	{
+		"key": "wallet_title_rent",
+		"value": "임대"
+	},
+	{
+		"key": "wallet_title_transfer",
+		"value": "전이"
+	},
+	{
+		"key": "wallet_title_wallet",
+		"value": "지갑"
+	},
+	{
+		"key": "wallet_title_card",
+		"value": "카드"
+	},
+	{
+		"key": "wallet_title_equipment",
+		"value": "아이템"
+	},
+	{
+		"key": "wallet_title_item",
+		"value": "도구"
+	},
+	{
+		"key": "wallet_title_rdate",
+		"value": "반납날짜"
+	},
+	{
+		"key": "wallet_title_date",
+		"value": "제가날짜"
+	},
+	{
+		"key": "wallet_flag_rented",
+		"value": "임대됌"
+	},
+	{
+		"key": "wallet_flag_ownrented",
+		"value": "내가 임대한"
+	},
+	{
+		"key": "wallet_flag_forsale",
+		"value": "판매 대기"
+	},
+	{
+		"key": "wallet_flag_forrent",
+		"value": "임대 대기"
+	},
+	{
+		"key": "wallet_flag_ready",
+		"value": "상장 가능"
+	},
+	{
+		"key": "wallet_flag_notready",
+		"value": "체력 부족"
+	},
+	{
+		"key": "wallet_flag_assisting",
+		"value": "지원 카드"
+	},
+	{
+		"key": "wallet_flag_locked",
+		"value": "잠금"
+	},
+	{
+		"key": "wallet_flag_pveweek",
+		"value": "PVE 상태"
+	},
+	{
+		"key": "wallet_btn_all",
+		"value": "모두"
+	},
+	{
+		"key": "wallet_btn_forsale",
+		"value": "판매"
+	},
+	{
+		"key": "wallet_btn_forrent",
+		"value": "임대"
+	},
+	{
+		"key": "wallet_btn_forrented",
+		"value": "임대한"
+	},
+	{
+		"key": "wallet_btn_onlease",
+		"value": "임대중"
+	},
+	{
+		"key": "wallet_btn_timesort",
+		"value": "시간 순서"
+	},
+	{
+		"key": "wallet_btn_namesort",
+		"value": "이름 순서"
+	},
+	{
+		"key": "wallet_btn_qualsort",
+		"value": "품질 순서"
+	},
+	{
+		"key": "wallet_btn_levelsort",
+		"value": "레벨 순서"
+	},
+	{
+		"key": "wallet_btn_charsort",
+		"value": "성격 수량 순서"
+	},
+	{
+		"key": "wallet_btn_latest",
+		"value": "최신 "
+	},
+	{
+		"key": "wallet_btn_oldest",
+		"value": "최초"
+	},
+	{
+		"key": "wallet_btn_lowest",
+		"value": "최저"
+	},
+	{
+		"key": "wallet_btn_highest",
+		"value": "최고 "
+	},
+	{
+		"key": "wallet_btn_open",
+		"value": "블라인드 보물 상자 열기"
+	},
+	{
+		"key": "wallet_title_0",
+		"value": "게임 자산"
+	},
+	{
+		"key": "wallet_title_3",
+		"value": "지갑 자산"
+	},
+	{
+		"key": "wallet_title_1",
+		"value": "지갑"
+	},
+	{
+		"key": "wallet_title_4",
+		"value": "우펀"
+	},
+	{
+		"key": "wallet_title_5",
+		"value": "받기만"
+	},
+	{
+		"key": "wallet_title_6",
+		"value": "주소"
+	},
+	{
+		"key": "wallet_title_7",
+		"value": "게임 자산"
+	},
+	{
+		"key": "wallet_title_8",
+		"value": "지갑 자산"
+	},
+	{
+		"key": "wallet_title_9",
+		"value": "출금 금액"
+	},
+	{
+		"key": "wallet_title_10",
+		"value": "GAS 비용"
+	},
+	{
+		"key": "wallet_desc_needshare",
+		"value": "성공적으로 공유해야 출금 작업을 계속 진행할 수 있습니다."
+	},
+	{
+		"key": "wallet_desc_withdrawsucc",
+		"value": "출금 성공!"
+	},
+	{
+		"key": "wallet_btn_toshare",
+		"value": "공유"
+	},
+	{
+		"key": "wallet_gdgg",
+		"value": "다이어몬드"
+	},
+	{
+		"key": "wallet_gdna",
+		"value": "골드"
+	},
+	{
+		"key": "wallet_dggv2",
+		"value": "DGG"
+	},
+	{
+		"key": "wallet_dgg",
+		"value": "다이어몬드"
+	},
+	{
+		"key": "wallet_dna",
+		"value": "골드"
+	},
+	{
+		"key": "wallet_bnb",
+		"value": "ETH"
+	},
+	{
+		"key": "wallet_balance",
+		"value": "잔액：%{num}"
+	},
+	{
+		"key": "wallet_btn_copy",
+		"value": "주소 북사"
+	},
+	{
+		"key": "wallet_desc_2",
+		"value": "현재 Arbitrum One 체인 ETH 및 degen Nft만 허용됩니다."
+	},
+	{
+		"key": "wallet_desc_3",
+		"value": "Arbitrum One 체인 (ETH)"
+	},
+	{
+		"key": "wallet_desc_4",
+		"value": "가격"
+	},
+	{
+		"key": "wallet_desc_11",
+		"value": "수량"
+	},
+	{
+		"key": "wallet_desc_5",
+		"value": "수수료:%{num1}ETH≈%{num2}USD"
+	},
+	{
+		"key": "wallet_desc_6",
+		"value": "임대로 결산 가격"
+	},
+	{
+		"key": "wallet_desc_7",
+		"value": "제거시간 설정"
+	},
+	{
+		"key": "wallet_desc_8",
+		"value": "다른 주소로 이전"
+	},
+	{
+		"key": "wallet_desc_9",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "wallet_desc_10",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "wallet_year",
+		"value": "년"
+	},
+	{
+		"key": "wallet_month",
+		"value": "월"
+	},
+	{
+		"key": "wallet_day",
+		"value": "일"
+	},
+	{
+		"key": "wallet_title_price",
+		"value": "가격:"
+	},
+	{
+		"key": "wallet_title_poundage",
+		"value": "수수료:"
+	},
+	{
+		"key": "wallet_buy",
+		"value": "구매"
+	},
+	{
+		"key": "wallet_rent",
+		"value": "임대"
+	},
+	{
+		"key": "market_title_spe",
+		"value": "종류"
+	},
+	{
+		"key": "market_title_lv",
+		"value": "레벨"
+	},
+	{
+		"key": "market_title_card",
+		"value": "카드"
+	},
+	{
+		"key": "market_title_attr",
+		"value": "성격"
+	},
+	{
+		"key": "market_title_quality",
+		"value": "품질질 순서"
+	},
+	{
+		"key": "market_btn_arms",
+		"value": "히어로"
+	},
+	{
+		"key": "market_btn_building",
+		"value": "건물"
+	},
+	{
+		"key": "market_btn_spell",
+		"value": "마법"
+	},
+	{
+		"key": "market_btn_weapon",
+		"value": "무기"
+	},
+	{
+		"key": "market_btn_armor",
+		"value": "방패"
+	},
+	{
+		"key": "market_btn_jewelry",
+		"value": "부속품"
+	},
+	{
+		"key": "market_btn_boxcard",
+		"value": "카드 블라인드 상자"
+	},
+	{
+		"key": "market_btn_boxequipment",
+		"value": "아이템 블라이드 상자"
+	},
+	{
+		"key": "market_btn_boxtreasure",
+		"value": "보물 상자"
+	},
+	{
+		"key": "market_btn_item",
+		"value": "도구"
+	},
+	{
+		"key": "market_title_buy",
+		"value": "구매"
+	},
+	{
+		"key": "market_title_rent",
+		"value": "임대"
+	},
+	{
+		"key": "market_title_time",
+		"value": "임대시간:"
+	},
+	{
+		"key": "market_title_day",
+		"value": "일"
+	},
+	{
+		"key": "market_title_day1",
+		"value": "(%{num}"
+	},
+	{
+		"key": "market_title_day2",
+		"value": "일)"
+	},
+	{
+		"key": "market_title_day3",
+		"value": "일)"
+	},
+	{
+		"key": "market_title_price",
+		"value": "총가격:"
+	},
+	{
+		"key": "market_title_poundage",
+		"value": "수수료:"
+	},
+	{
+		"key": "market_title_purpose",
+		"value": "도구종류"
+	},
+	{
+		"key": "market_btn_itemcard",
+		"value": "덱 연관"
+	},
+	{
+		"key": "market_btn_itemequip",
+		"value": "아이템 연관"
+	},
+	{
+		"key": "market_btn_reset",
+		"value": "초기화"
+	},
+	{
+		"key": "market_btn_ok",
+		"value": "확인"
+	},
+	{
+		"key": "market_desc_time",
+		"value": "나머지는 %{num}일 동안 대여할 수 있습니다."
+	},
+	{
+		"key": "market_desc_rent",
+		"value": "<outline color=black width=2><color=#81fa5a>%{num}</color><color=#ffffff>/일</color></outline>"
+	},
+	{
+		"key": "market_desc_day",
+		"value": "/일"
+	},
+	{
+		"key": "market_equip_quality1",
+		"value": "일반"
+	},
+	{
+		"key": "market_equip_quality2",
+		"value": "훌륭"
+	},
+	{
+		"key": "market_equip_quality3",
+		"value": "에픽"
+	},
+	{
+		"key": "market_equip_quality4",
+		"value": "전설"
+	},
+	{
+		"key": "market_fail",
+		"value": "제거 실패"
+	},
+	{
+		"key": "market_fail1",
+		"value": "상장 실패"
+	},
+	{
+		"key": "market_fail3",
+		"value": "구매 실패"
+	},
+	{
+		"key": "market_fail4",
+		"value": "임대 실패"
+	},
+	{
+		"key": "logining_title",
+		"value": "로그인 계정"
+	},
+	{
+		"key": "logining_confirm",
+		"value": "확인"
+	},
+	{
+		"key": "logining_forgot",
+		"value": "비밀번호를 잊어버리셨습니까?"
+	},
+	{
+		"key": "Password_reset_title",
+		"value": "비밀번호 재설정정"
+	},
+	{
+		"key": "tvgame_btn_start",
+		"value": "시작"
+	},
+	{
+		"key": "tvgame_title",
+		"value": "경기"
+	},
+	{
+		"key": "tvgame_desc_player",
+		"value": "플레이어 ID를 입력하세요"
+	},
+	{
+		"key": "tvgame_title_invite",
+		"value": "초대"
+	},
+	{
+		"key": "tvgame_btn_invite",
+		"value": "초대"
+	},
+	{
+		"key": "friend_title_0",
+		"value": "나의 도움"
+	},
+	{
+		"key": "friend_title_1",
+		"value": "친구"
+	},
+	{
+		"key": "friend_title_2",
+		"value": "지원 카드"
+	},
+	{
+		"key": "friend_title_3",
+		"value": "새로운 친구"
+	},
+	{
+		"key": "friend_title_4",
+		"value": "수익"
+	},
+	{
+		"key": "friend_title_5",
+		"value": "배당"
+	},
+	{
+		"key": "friend_title_6",
+		"value": "카드"
+	},
+	{
+		"key": "friend_add_tips",
+		"value": "친구 추가 요청을 보냈습니다."
+	},
+	{
+		"key": "friend_editbox",
+		"value": "ID/지갑주소"
+	},
+	{
+		"key": "friend_btn_save",
+		"value": "저장"
+	},
+	{
+		"key": "friend_btn_info",
+		"value": "메시지"
+	},
+	{
+		"key": "friend_btn_remove",
+		"value": "삭제"
+	},
+	{
+		"key": "friend_btn_record",
+		"value": "명세"
+	},
+	{
+		"key": "friend_btn_refuse",
+		"value": "거부"
+	},
+	{
+		"key": "friend_btn_pass",
+		"value": "동의"
+	},
+	{
+		"key": "friend_btn_add",
+		"value": "추가"
+	},
+	{
+		"key": "friend_btn_manage",
+		"value": "관리"
+	},
+	{
+		"key": "friend_btn_played",
+		"value": "메시지"
+	},
+	{
+		"key": "friend_level",
+		"value": "Lv. %{level}"
+	},
+	{
+		"key": "friend_assisted_0",
+		"value": "<outline color=black width=2><color=#ffffff>%{time}협조 </color><color=#74db66>%{name}</color></outline>"
+	},
+	{
+		"key": "friend_assisted_1",
+		"value": "협조기록"
+	},
+	{
+		"key": "friend_assisted_2",
+		"value": "획득:"
+	},
+	{
+		"key": "friend_explain_1",
+		"value": "아직 수입을 획득하지 않았습니다."
+	},
+	{
+		"key": "friend_explain_2",
+		"value": "친구 추가후 상대의 지원 카드을 사용해서 PVE 도전을 참가할 수 있습니다."
+	},
+	{
+		"key": "match_tips_0",
+		"value": "현재 잠긴 카드가 있습니다."
+	},
+	{
+		"key": "match_tips_1",
+		"value": "현재 잠긴 아이템이 있습니다,"
+	},
+	{
+		"key": "match_tips_5",
+		"value": "덱 부족"
+	},
+	{
+		"key": "blind_page_title_0",
+		"value": "카드 블라인드 상자"
+	},
+	{
+		"key": "blind_page_title_1",
+		"value": "아이템 블라인드 상자"
+	},
+	{
+		"key": "blind_page_alert_0",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "blind_page_alert_1",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "cardsys_top_pvp",
+		"value": "PVP"
+	},
+	{
+		"key": "cardsys_top_upgrade",
+		"value": "업데이트"
+	},
+	{
+		"key": "cardsys_card_level",
+		"value": "Lv：%{level}"
+	},
+	{
+		"key": "cardsys_card_type_num",
+		"value": "수량: %{num}"
+	},
+	{
+		"key": "cardsys_average",
+		"value": "평균"
+	},
+	{
+		"key": "cardsys_tip_card_group",
+		"value": "덱"
+	},
+	{
+		"key": "cardsys_tip_no_card",
+		"value": "소유하지 않은 카드"
+	},
+	{
+		"key": "cardsys_pvp",
+		"value": "PVE"
+	},
+	{
+		"key": "cardsys_pve",
+		"value": "PVE"
+	},
+	{
+		"key": "cardsys_pvp_limit",
+		"value": "PVP"
+	},
+	{
+		"key": "cardsys_upgrade_use_tip",
+		"value": "필수 리소스"
+	},
+	{
+		"key": "cardsys_btn_replenish",
+		"value": "덱 회복"
+	},
+	{
+		"key": "cardsys_btn_info",
+		"value": "메시지"
+	},
+	{
+		"key": "cardsys_btn_remove",
+		"value": "제거"
+	},
+	{
+		"key": "cardsys_btn_sperad",
+		"value": "전개"
+	},
+	{
+		"key": "cardsys_btn_back",
+		"value": "돌아가기기"
+	},
+	{
+		"key": "cardsys_btn_stamina",
+		"value": "회복"
+	},
+	{
+		"key": "cardsys_btn_use",
+		"value": "사용"
+	},
+	{
+		"key": "cardsys_btn_reset",
+		"value": "초기화"
+	},
+	{
+		"key": "cardsys_btn_upgrade",
+		"value": "업데이트"
+	},
+	{
+		"key": "cardsys_top_repair_power",
+		"value": "체력 회복"
+	},
+	{
+		"key": "cardsys_skill",
+		"value": "생활 기능:"
+	},
+	{
+		"key": "cardsys_born",
+		"value": "출생지:"
+	},
+	{
+		"key": "cardsys_select",
+		"value": "소비할 카드 선택"
+	},
+	{
+		"key": "cardsys_synthetic_connsumption",
+		"value": "소비할 리소스 선택"
+	},
+	{
+		"key": "equipment_top_pvp",
+		"value": "아이템"
+	},
+	{
+		"key": "equipment_top_fusion",
+		"value": "합성"
+	},
+	{
+		"key": "equipment_top_composite",
+		"value": "합성"
+	},
+	{
+		"key": "equipment_pvp",
+		"value": "PVE"
+	},
+	{
+		"key": "equipment_pvp_limit",
+		"value": "PVP"
+	},
+	{
+		"key": "equipment_top_repair_power",
+		"value": "내구도 회복"
+	},
+	{
+		"key": "equipment_recycle_title",
+		"value": "회수 가치:"
+	},
+	{
+		"key": "equipment_quantity",
+		"value": "수량"
+	},
+	{
+		"key": "equipment_tip_composute",
+		"value": "합성"
+	},
+	{
+		"key": "equipment_btn_info",
+		"value": "메시지"
+	},
+	{
+		"key": "equipment_btn_remove",
+		"value": "제거"
+	},
+	{
+		"key": "equipment_btn_recycle",
+		"value": "회수"
+	},
+	{
+		"key": "equipment_btn_back",
+		"value": "돌아가기"
+	},
+	{
+		"key": "equipment_btn_items",
+		"value": "정련"
+	},
+	{
+		"key": "equipment_btn_repair",
+		"value": "수리"
+	},
+	{
+		"key": "equipment_btn_composute",
+		"value": "합성"
+	},
+	{
+		"key": "equipment_btn_reset",
+		"value": "재련"
+	},
+	{
+		"key": "equipment_btn_equip",
+		"value": "사용"
+	},
+	{
+		"key": "equipment_btn_use",
+		"value": "사용"
+	},
+	{
+		"key": "equipment_btn_check",
+		"value": "사용"
+	},
+	{
+		"key": "equipment_btn_replenish",
+		"value": "아이템 수리"
+	},
+	{
+		"key": "equipment_seek_tip",
+		"value": "수리할 point수를 선택하십시오."
+	},
+	{
+		"key": "equipment_no_select_attr",
+		"value": "초기화할 속성을 선택하십시오."
+	},
+	{
+		"key": "equipment_prop_num",
+		"value": "<outline color=000 width=2><color=#DF9BFF>%{curr}</color><color=#ffffff>/%{max}</color></outline>"
+	},
+	{
+		"key": "equipment_attrs_tip",
+		"value": "<outline color=000 width=2><color=#20FF3A>우수 아이템의 확률:%{weight}%</color>\n<color=#54DDFF>훌륭 아이템의 확률:%{weight}%</color>\n<color=#F554FF>에픽 아이템의 확률:%{weight}%</color>\n<color=#FF8813>전설 아이템의 확률:%{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_level",
+		"value": "Lv.%{level}"
+	},
+	{
+		"key": "equip_repair_err_name",
+		"value": "회수 작업 실패했습니다."
+	},
+	{
+		"key": "equip_repair_err_content",
+		"value": "프레이어님의 %{name} 아이템 회수 처리 실패했습니다."
+	},
+	{
+		"key": "equip_repair_confim_content",
+		"value": "%{name} 장비 중 %{num}개를 회수하시겠습니까?"
+	},
+	{
+		"key": "equip_compose_err_name",
+		"value": "합성 작업 실패했습니다."
+	},
+	{
+		"key": "equip_compose_err_content",
+		"value": "프레이어님의 %{name} 아이템 합성 처리 실패했습니다."
+	},
+	{
+		"key": "equip_select",
+		"value": "소비할 아이템을 선택하십시오."
+	},
+	{
+		"key": "equip_synthetic_connsumption",
+		"value": "소비할 리소스 선택하십시오."
+	},
+	{
+		"key": "email_title",
+		"value": "이메일"
+	},
+	{
+		"key": "email_time",
+		"value": "<color=#ffffff>카운트다운:</color><color=#DF40D2>%{num}일</color>"
+	},
+	{
+		"key": "email_btn_delete_read",
+		"value": "읽은 메일 삭제"
+	},
+	{
+		"key": "email_btn_read_all",
+		"value": "원클릭 읽기"
+	},
+	{
+		"key": "email_btn_claim_all",
+		"value": "원클릭 수령"
+	},
+	{
+		"key": "email_btn_claim",
+		"value": "확인"
+	},
+	{
+		"key": "email_tips_0",
+		"value": "새로운 메시지 없습니다."
+	},
+	{
+		"key": "email_tips_1",
+		"value": "받은 메일 없습니다."
+	},
+	{
+		"key": "pve_title",
+		"value": "PVE"
+	},
+	{
+		"key": "pve_tip_cards",
+		"value": "카드"
+	},
+	{
+		"key": "pve_level",
+		"value": "스테이지 %{level}"
+	},
+	{
+		"key": "pve_level_des",
+		"value": "스테이지 메시지"
+	},
+	{
+		"key": "pve_difficulty",
+		"value": "<outline color=black width=2><color=#e6e6e6>난이도</color><color=#FF0000>%{difficulty}</color></outline>"
+	},
+	{
+		"key": "pve_easy",
+		"value": "<outline color=black width=2><color=#3cde4f>정상</color></outline>"
+	},
+	{
+		"key": "pve_power_need",
+		"value": "<outline color=black width=2><color=#e6e6e6>전투력 요구 사항</color><color=#12FF00>%{num}</color></outline>"
+	},
+	{
+		"key": "pve_power_need2",
+		"value": "<outline color=black width=2><color=#e6e6e6>전투력 요구 사항</color><color=#FF0000>%{num}</color></outline>"
+	},
+	{
+		"key": "pve_rewards",
+		"value": "클리어 보상"
+	},
+	{
+		"key": "pve_rewards_tip",
+		"value": "(매일 새로 고침)"
+	},
+	{
+		"key": "pve_battle",
+		"value": "배틀"
+	},
+	{
+		"key": "pve_btn_assist",
+		"value": "협조"
+	},
+	{
+		"key": "pve_btn_use",
+		"value": "사용"
+	},
+	{
+		"key": "pve_pop_combat",
+		"value": "전투력"
+	},
+	{
+		"key": "pve_pop_et",
+		"value": "아이템 전투력"
+	},
+	{
+		"key": "pve_pop_card_rating",
+		"value": "카드 전투력"
+	},
+	{
+		"key": "card_attr_hp",
+		"value": "HP:"
+	},
+	{
+		"key": "card_attr_atk",
+		"value": "기존 공격력:"
+	},
+	{
+		"key": "card_attr_buildingAtk",
+		"value": "건물에 대한 공격:"
+	},
+	{
+		"key": "card_attr_groundAtk",
+		"value": "대지 공격:"
+	},
+	{
+		"key": "card_attr_flyerAtk",
+		"value": "대공 공격:"
+	},
+	{
+		"key": "card_attr_TowerAtk",
+		"value": "대타워 공격:"
+	},
+	{
+		"key": "card_attr_motionSpeed",
+		"value": "이동 속도:"
+	},
+	{
+		"key": "card_attr_atkSpeed",
+		"value": "공격 속도:"
+	},
+	{
+		"key": "card_attr_bornCastMs",
+		"value": "배포 시간:"
+	},
+	{
+		"key": "card_attr_AtDistance",
+		"value": "공격 범위:"
+	},
+	{
+		"key": "card_attr_EffectRadius",
+		"value": "AOE피해:"
+	},
+	{
+		"key": "card_attr_EffectTypeCall",
+		"value": "소환"
+	},
+	{
+		"key": "card_attr_time",
+		"value": "지속 시간"
+	},
+	{
+		"key": "card_attr_Target",
+		"value": "목표:"
+	},
+	{
+		"key": "card_attr_Target1",
+		"value": "전체"
+	},
+	{
+		"key": "card_attr_Target2",
+		"value": "지상"
+	},
+	{
+		"key": "card_attr_Target3",
+		"value": "건물"
+	},
+	{
+		"key": "card_attr_Target4",
+		"value": "마법"
+	},
+	{
+		"key": "card_unitType_1",
+		"value": "(건물)"
+	},
+	{
+		"key": "card_unitType_2",
+		"value": "(지상 단위)"
+	},
+	{
+		"key": "card_unitType_3",
+		"value": "（비행 단위）"
+	},
+	{
+		"key": "card_unitType_4",
+		"value": "(마법)"
+	},
+	{
+		"key": "card_unitType_5",
+		"value": "(보호탑/킹 타워)"
+	},
+	{
+		"key": "sec",
+		"value": "초"
+	},
+	{
+		"key": "tip_composute_desc1",
+		"value": "곧 소비될"
+	},
+	{
+		"key": "tip_composute_desc2",
+		"value": "계속할까?"
+	},
+	{
+		"key": "tip_prop_mask_def_name",
+		"value": "도구 이름"
+	},
+	{
+		"key": "tip_prop_mask_def_desc",
+		"value": "도구 설명"
+	},
+	{
+		"key": "tip_card_upgrade",
+		"value": "%{prop}도구를 사용해서 %{name}에 대해서 업데이트를 확인합니까?"
+	},
+	{
+		"key": "tip_card_upgrade_fail_title",
+		"value": "업데이트 실패했습니다."
+	},
+	{
+		"key": "tip_card_upgrade_fail_content",
+		"value": "%{key}카드에 대한 업데이트 실패했습니다."
+	},
+	{
+		"key": "tip_card_reset_power_fail_title",
+		"value": "회복 실패"
+	},
+	{
+		"key": "tip_card_reset_power_fail_content",
+		"value": "%{key}카드 체력 회복 실패"
+	},
+	{
+		"key": "tip_card_reset_group_power_fail_content",
+		"value": "현재 덱 체력 회복 실패"
+	},
+	{
+		"key": "tip_card_reset_fail_title",
+		"value": "초기화 실패"
+	},
+	{
+		"key": "tip_card_reset_fail_content",
+		"value": "%{key}카드에 대한 초기화 실패"
+	},
+	{
+		"key": "tip_card_reset_ok_title",
+		"value": "초기화 성공"
+	},
+	{
+		"key": "tip_card_reset_ok_content",
+		"value": "%{key}카드에 대한 초기화 성공"
+	},
+	{
+		"key": "tip_card_power_full",
+		"value": "이 카드는 체력 회복 불필요합니다."
+	},
+	{
+		"key": "tip_card_power_content",
+		"value": "%{prop}도구를 사용해서 %{name}카드에 대해서 체력 회복을 확인합니까?"
+	},
+	{
+		"key": "tip_card_group_power_full",
+		"value": "이 덱는 체력 회복 불필요합니다."
+	},
+	{
+		"key": "tip_card_group_power_content",
+		"value": "%{prop}도구를 사용해서 현재 덱에 대해서 %{power}포인트의 체력을 회복 확인합니까?"
+	},
+	{
+		"key": "tip_card_group_reset_power_fail_title",
+		"value": "체력 회복 실패"
+	},
+	{
+		"key": "tip_card_group_reset_power_fail_content",
+		"value": "덱 체력 회복 실패했습니다."
+	},
+	{
+		"key": "tip_equip_reset_fail_title",
+		"value": "초기화 실패했습니다."
+	},
+	{
+		"key": "tip_equip_reset_fail_content",
+		"value": "%{key} 아이템에 대한 초기화 실패했습니다."
+	},
+	{
+		"key": "tip_equip_reset_ok_title",
+		"value": "초기화 성공했습니다."
+	},
+	{
+		"key": "tip_equip_reset_ok_content",
+		"value": "%{key} 아이템에 대한 초기화 성공했습니다."
+	},
+	{
+		"key": "tip_equip_reset_power_fail_title",
+		"value": "회복 실패했습니다."
+	},
+	{
+		"key": "tip_equip_reset_power_fail_content",
+		"value": "%{key} 아이템 내구도 회복 실패했습니다."
+	},
+	{
+		"key": "tip_equip_reset_group_power_fail_content",
+		"value": "현재 덱 내구도 회복 실패했습니다."
+	},
+	{
+		"key": "tip_equip_power_content",
+		"value": "%{prop}도구를 사용해서 아이템에 대헤서 %{nam}내구도 회복을 확인합니까?"
+	},
+	{
+		"key": "tip_equip_power_group_content",
+		"value": "%{prop}도구를 사용해서 현재 덱에 대해서 %{power}포인트의 내구도 회복 확인합니까?"
+	},
+	{
+		"key": "tip_equip_power_full",
+		"value": "이 카드는 내구도 회복 불필요합니다."
+	},
+	{
+		"key": "tip_equip_power_group_full",
+		"value": "이 덱는 내구도 회복 불필요합니다."
+	},
+	{
+		"key": "tip_no_prop",
+		"value": "이 도구를 가지지 않습니다."
+	},
+	{
+		"key": "tip_trade",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "tip_prop_content",
+		"value": "%{prop}도구를 이용해서 %{name}카드에 대해서 초기화 작업 확인합니까?"
+	},
+	{
+		"key": "tip_equip_prop_content",
+		"value": "%{prop}도구를 이용해서 %{name}아이템에 대해서 재련 작업을 확인합니까?"
+	},
+	{
+		"key": "tip_equip_prop_content2",
+		"value": "%{prop}도구를 이용해서 %{name}아이템에 대해서 정화 작업을 확인합니까?"
+	},
+	{
+		"key": "tip_ok",
+		"value": "작업 성공"
+	},
+	{
+		"key": "tip_err_max_level",
+		"value": "최대 레밸"
+	},
+	{
+		"key": "tip_err_full_power",
+		"value": "최대 체력"
+	},
+	{
+		"key": "tip_err_full_durability",
+		"value": "최대 내구도"
+	},
+	{
+		"key": "toast_merge_same_rarity_one",
+		"value": "둘 다 훌륭임으로 제작할 수 없습니다."
+	},
+	{
+		"key": "prop_user_err",
+		"value": "%{propName}도구 부족"
+	},
+	{
+		"key": "setting_editbox_tips",
+		"value": "4자를 초과할 수 없습니다."
+	},
+	{
+		"key": "bron",
+		"value": "출생지지"
+	},
+	{
+		"key": "equip_all",
+		"value": "전부"
+	},
+	{
+		"key": "equip_compost_weight_1",
+		"value": "<outline color=000 width=1><color=#20FF3A>우수 아이템의 확률:%{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_2",
+		"value": "<outline color=000 width=1><color=#54DDFF>훌융 아이템의 확률:%{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_3",
+		"value": "<outline color=000 width=1><color=#F554FF>에픽 아이템의 확률:%{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_4",
+		"value": "<outline color=000 width=1><color=#FF8813>전설 아이템의 확률:%{weight}%</color></outline>"
+	},
+	{
+		"key": "wallet_tips",
+		"value": "프레이어님 지갑내의 %{num1}ETH는 %{addr}주소에 성공적으로 입금했습니다."
+	},
+	{
+		"key": "wallet_tips1",
+		"value": "프레이어님은 시장에 가서 상품#%{id}을 확인할 수 있습니다."
+	},
+	{
+		"key": "wallet_tips2",
+		"value": "이전 성공"
+	},
+	{
+		"key": "wallet_tips3",
+		"value": "교환 비율 청구 실패"
+	},
+	{
+		"key": "not_enough_nda",
+		"value": "프레이어님의 골드 부족합니다."
+	},
+	{
+		"key": "not_enough_bnb",
+		"value": "프레이어님의 ETH 부족합니다."
+	},
+	{
+		"key": "not_enough_dggv2",
+		"value": "프레이어님의 DGG 부족합니다."
+	},
+	{
+		"key": "not_enough_dgg",
+		"value": "다이아몬드가 충분하지 않습니다."
+	},
+	{
+		"key": "blind_box_buy_tips",
+		"value": "%{num1}골드와Gas:≈%{gas}를 소비해서 %{num2}개 블라인드 상자를 여시겠습니까?"
+	},
+	{
+		"key": "blind_box_buy_tips1",
+		"value": "Gas:≈%{gas}를 소비해서 %{num2}개 서프라이즈 보물 상자를 여시겠습니까?  골드을 얻게 되면 GAS 소비하지 않습니다."
+	},
+	{
+		"key": "blind_box_buy_tips2",
+		"value": "Gas:≈%{gas}를 소비해서 행운 블라인드 상자를 여시겠습니까?"
+	},
+	{
+		"key": "wallet_title_time",
+		"value": "날짜:"
+	},
+	{
+		"key": "friend_tips_remove",
+		"value": "친구 삭제 확인하시겠습니까?"
+	},
+	{
+		"key": "wallet_transfer_tips",
+		"value": "체인의 동작을 처리하는 중입니다. 잠시만 기다려 주십시오. "
+	},
+	{
+		"key": "battle_btn_continue",
+		"value": "계속"
+	},
+	{
+		"key": "battle_btn_exit",
+		"value": "나가기"
+	},
+	{
+		"key": "wallet_title_11",
+		"value": "이전 수량:"
+	},
+	{
+		"key": "wallet_title_12",
+		"value": "교환 수량:"
+	},
+	{
+		"key": "wallet_title_13",
+		"value": "구매 수량:"
+	},
+	{
+		"key": "wallet_title_14",
+		"value": "제거 수량:"
+	},
+	{
+		"key": "wallet_title_15",
+		"value": "이전 수량:"
+	},
+	{
+		"key": "market_desc_buy",
+		"value": "지금은 이 항목의 %{num}만 구매할 수 있습니다."
+	},
+	{
+		"key": "market_tips_err",
+		"value": "정확한 정보를 입력해주십시오."
+	},
+	{
+		"key": "battle_tips_full",
+		"value": "식물이 가득합니다."
+	},
+	{
+		"key": "match_tips_2",
+		"value": "방어 후 반격하는 것은 전쟁에서 일반적인 전략입니다."
+	},
+	{
+		"key": "match_tips_3",
+		"value": "매칭하는 중... 잠시만 기다려 주세요."
+	},
+	{
+		"key": "match_tips_4",
+		"value": "상대방 검색"
+	},
+	{
+		"key": "bind_verification1_title",
+		"value": "바인드 유효성 검사기"
+	},
+	{
+		"key": "bind_verification1_skip",
+		"value": "넘어가기"
+	},
+	{
+		"key": "bind_verification1_next",
+		"value": "다음"
+	},
+	{
+		"key": "bind_verification1_dec1",
+		"value": "1. 모바일 장치에 Google Validator 앱 또는 기타 유효성 검사기 앱을 설치합니다.\n2. 유효성 검사기 앱에 수동으로 계정을 새 계정으로 추가합니다.\n3. QR 코드를 스캔하여 계정을 직접 바인딩합니다."
+	},
+	{
+		"key": "bind_verification1_dec2",
+		"value": "QR 코드를 스캔할 수 없는 경우 \"DEGEN\"을 사용자 이름으로 사용하고 수동으로 키를 입력하십시오."
+	},
+	{
+		"key": "bind_verification2_title",
+		"value": "바인드 유효성 검사기 설정"
+	},
+	{
+		"key": "bind_verification2_unbind_title",
+		"value": "언바인드와 인증"
+	},
+	{
+		"key": "Setting Secondary Verification",
+		"value": "유효성 검사기"
+	},
+	{
+		"key": "bind_verification2_txt1",
+		"value": "6자리 인증 번호 입력하십시오."
+	},
+	{
+		"key": "bind_verification2_return",
+		"value": "돌아가기"
+	},
+	{
+		"key": "bind_verification2_validation",
+		"value": "인증"
+	},
+	{
+		"key": "bind_verification2_confirm",
+		"value": "확인"
+	},
+	{
+		"key": "bind_verification2_unbind",
+		"value": "언바인드"
+	},
+	{
+		"key": "bind_verification2_input_code",
+		"value": "6자리 인증 번호 입력하십시오."
+	},
+	{
+		"key": "bind_verification2_success",
+		"value": "DEGEN을 유효성 검사기 앱에 성공적으로 연결했습니다."
+	},
+	{
+		"key": "Confirm Password",
+		"value": "비밀번호를 다시 입력하십시오."
+	},
+	{
+		"key": "verification_pwd",
+		"value": "비밀번호 확인"
+	},
+	{
+		"key": "aws_code_copy",
+		"value": "복사 성공"
+	},
+	{
+		"key": "tip_change_pwd_ok",
+		"value": "수정 성공"
+	},
+	{
+		"key": "aws_loading",
+		"value": "로딩 중..."
+	},
+	{
+		"key": "card_info_timer",
+		"value": "%{d}d %{m}m %{s}s"
+	},
+	{
+		"key": "tip_card_group_has_lease",
+		"value": "덱 중에 임대 카드가 존재합니다. 덱 회복 진행할 수없습니다."
+	},
+	{
+		"key": "no_material_box",
+		"value": "보물 상자가 없습니다."
+	},
+	{
+		"key": "king_level_tips",
+		"value": "덱와 아이템의 전투력은 킹 타워의 레벨을 결정합니다."
+	},
+	{
+		"key": "king_level_tips_explain",
+		"value": "1. 각 카드 레벨은 10000 전투력으로 계산됩니다.\n2. 아이템의 각 녹색 품질 속성은 3000 전투력으로 계산됩니다.\n3. 각 청색 품질의 속성은 6000 전투력으로 계산됩니다.\n4. 각 보라색 품질의 속성은 10000 전투력으로 계산됩니다.\n5. 각 오렌지 품질의 속성은 15000 전투력으로 계산됩니다."
+	},
+	{
+		"key": "king_level_title",
+		"value": "킹 타워 레벨"
+	},
+	{
+		"key": "king_level_title_0",
+		"value": "덱 전투력"
+	},
+	{
+		"key": "king_level_title_1",
+		"value": "아이템 전투력"
+	},
+	{
+		"key": "king_level_title_2",
+		"value": "킹 타워 HP"
+	},
+	{
+		"key": "king_level_title_3",
+		"value": "킹 타워 공격력"
+	},
+	{
+		"key": "pve_battle_tip",
+		"value": "현재 PVE 덱 부족"
+	},
+	{
+		"key": "pve_battle_tip_1",
+		"value": "PVE 참가했던 카드가 1일내 거래할 수 없습니다. 계속하시겠습니까?"
+	},
+	{
+		"key": "pve_battle_btn",
+		"value": "출전 확인"
+	},
+	{
+		"key": "card_type_nomal",
+		"value": "소비 순서"
+	},
+	{
+		"key": "card_type_by_level",
+		"value": "레벨 순서서"
+	},
+	{
+		"key": "net_server_disconnected",
+		"value": "서버 다운"
+	},
+	{
+		"key": "gas_cost",
+		"value": "GAS 비용:≈%{gas}"
+	},
+	{
+		"key": "not_enough_gas",
+		"value": "GAS 비용 부족합니다. 지갑을 확인하십시오."
+	},
+	{
+		"key": "cardsys_btn_upgrade_cd",
+		"value": "%{d}일 %{h}시:%{m}분:%{s}초"
+	},
+	{
+		"key": "_card_1",
+		"value": "제국 전사"
+	},
+	{
+		"key": "_card_2",
+		"value": "정령 사수"
+	},
+	{
+		"key": "_card_3",
+		"value": "가고일"
+	},
+	{
+		"key": "_card_4",
+		"value": "고역"
+	},
+	{
+		"key": "_card_5",
+		"value": "공성 거인"
+	},
+	{
+		"key": "_card_6",
+		"value": "총병"
+	},
+	{
+		"key": "_card_7",
+		"value": "수확기"
+	},
+	{
+		"key": "_card_8",
+		"value": "오크 슬링어"
+	},
+	{
+		"key": "_card_9",
+		"value": "망령 그룹"
+	},
+	{
+		"key": "_card_10",
+		"value": "척탄병"
+	},
+	{
+		"key": "_card_11",
+		"value": "중망치병"
+	},
+	{
+		"key": "_card_12",
+		"value": "비행 수확기"
+	},
+	{
+		"key": "_card_13",
+		"value": "아기 화룡"
+	},
+	{
+		"key": "_card_14",
+		"value": "오크 공성차"
+	},
+	{
+		"key": "_card_15",
+		"value": "망령 비룡"
+	},
+	{
+		"key": "_card_16",
+		"value": "불의 마법사"
+	},
+	{
+		"key": "_card_17",
+		"value": "거대한 수확기"
+	},
+	{
+		"key": "_card_18",
+		"value": "늑대 기사"
+	},
+	{
+		"key": "_card_19",
+		"value": "망령 마법사"
+	},
+	{
+		"key": "_card_20",
+		"value": "비룡 기사"
+	},
+	{
+		"key": "_card_21",
+		"value": "건물 폭격기"
+	},
+	{
+		"key": "_card_22",
+		"value": "제국 기사"
+	},
+	{
+		"key": "_card_23",
+		"value": "망령 기사"
+	},
+	{
+		"key": "_card_24",
+		"value": "자푹 로봇"
+	},
+	{
+		"key": "_card_25",
+		"value": "망령 군단"
+	},
+	{
+		"key": "_card_26",
+		"value": "해골 사수"
+	},
+	{
+		"key": "_card_27",
+		"value": "오크 광전사"
+	},
+	{
+		"key": "_card_28",
+		"value": "고역 폭탄"
+	},
+	{
+		"key": "_card_29",
+		"value": "오크 타워"
+	},
+	{
+		"key": "_card_30",
+		"value": "망령 묘지"
+	},
+	{
+		"key": "_card_31",
+		"value": "마법 타워"
+	},
+	{
+		"key": "_card_32",
+		"value": "기관청 타워"
+	},
+	{
+		"key": "_card_33",
+		"value": "고역 숙영지"
+	},
+	{
+		"key": "_card_34",
+		"value": "제국 병영"
+	},
+	{
+		"key": "_card_35",
+		"value": "화살비"
+	},
+	{
+		"key": "_card_36",
+		"value": "화구 마법"
+	},
+	{
+		"key": "_card_37",
+		"value": "벼락 마법"
+	},
+	{
+		"key": "_card_38",
+		"value": "지진해일"
+	},
+	{
+		"key": "_card_39",
+		"value": "스노볼 마법"
+	},
+	{
+		"key": "_card_40",
+		"value": "프로즌 노바"
+	},
+	{
+		"key": "_card_41",
+		"value": "제국의 영광을 위해서 싸우는제국 장군 호바트의 충신입니다. 전투에서 단련된 후 공격과 벙어 모두에서 탁월합니다. 그의 가장 유감한 것은 원거리 공격을 배우지 못한 것입니다."
+	},
+	{
+		"key": "_card_42",
+		"value": "정령 장군 비로디스의 자매로서 망령을 극단적 혐오합니다. 양궁의 타고난 재능은 놀랍습니다.정령의 전통은 그들이 자신을 보호하기 위해 갑옷을 착용할 수 없습니다."
+	},
+	{
+		"key": "_card_43",
+		"value": "마족의 최하위, 무리를 지어 있을 때만 일정한 억지력을 발휘할 수 있습니다. 비행을 잘하기 때문에 정찰부대에 배치됐는데, 태어날 때부터 시력이 좋지 않아 적의 앞을 자주 날아가 그를 찾았다."
+	},
+	{
+		"key": "_card_44",
+		"value": "오크 중 가장 부지런한 구성원으로 거의 모든 집안일을 해야 하며, 게으르면 감독관에게 발각되면 채찍질을 당합니다.정령을 볼 때만 눈이 빛나고 승리에 대한 열망이 가득합니다."
+	},
+	{
+		"key": "_card_45",
+		"value": "인종적 재능은 그에게 강력한 신체를 가져다 주었지만, 또한 그를 초근시로 만들어 건물을 관찰만 하게 만들었고, 적절한 상황에서 그는 무자비한 공성 기계가 될 것입니다."
+	},
+	{
+		"key": "_card_46",
+		"value": "드워프들의 도움에 보답하기 위해 기계족은 그들에게 딱 맞는 머스켓을 만들었습니다.강력한 머스켓은 사냥에만 사용되는 것이 아니라 표적이 된 후에는 탈출할 방법이 없습니다."
+	},
+	{
+		"key": "_card_47",
+		"value": "기사도의 도를 지키는 기계 씨족은 성별 개념이 없고, 근접 데미지가 극히 높으며, 전투 후 인간이 농지에서 농작물을 처리하는 것을 도울 것입니다."
+	},
+	{
+		"key": "_card_48",
+		"value": "오크 부족의 중추, 방어구 없이도 충분한 화력을 짊어지기 위해 적들이 무시하면 큰일 납니다."
+	},
+	{
+		"key": "_card_49",
+		"value": "네크로폴리스에서 막 깨어난 망령의 연약하지만 민첩한 육체는 적의 판단을 방해할 수 있습니다."
+	},
+	{
+		"key": "_card_50",
+		"value": "폭발을 연구하는 망령 마법사지만 마법에는 별로 관심이 없는 것 같고, 폭발이 진짜 예술이라고 믿는 그는 연약한 몸 때문에 공중에 폭탄을 던질 수 없습니다."
+	},
+	{
+		"key": "_card_51",
+		"value": "인간 제국 엘리트 중의 엘리트입니다. 그는 뛰어난 전투 기술을 가지고 있으며 그녀의 만트라는 \"나는 10명과 싸울 수 있습니다!\"입니다. 그녀가 공중에서 적과 싸우는 방법을 배우지 못한 것이 유감입니다."
+	},
+	{
+		"key": "_card_52",
+		"value": "기계족의 공중전 부대는 하늘에서 제국의 불리함을 만회하지만, 자신의 프로펠러로만 적을 공격할 수 있다는 점이 부끄러웁니다."
+	},
+	{
+		"key": "_card_53",
+		"value": "누가 아기가 될 수 없습니까? 아기 화룡은 100살이지만 아직 용족 사이에서는 갓난아기이며 전장에서 뿜어내는 화염은 지역 피해를 입힐 수 있습니다."
+	},
+	{
+		"key": "_card_54",
+		"value": "오크전용 호러 공성장비입니다. 급격한 가속은 방어하기 힘들게 함 건물에 타격을 가하면 많은 피해를 입힐것 자동차가 파괴된후 오크는 도끼를 들고 홀로 끝까지 싸웁니다."
+	},
+	{
+		"key": "_card_55",
+		"value": "어떤 본드래곤이 대 마법사한테서 패배를 당한 후 그들은 따로 행동하지 않으며 그들이 불의 숨결은 범위 피해를 입힙니다."
+	},
+	{
+		"key": "_card_56",
+		"value": "그녀는 화염을 다루는 데 능숙한 대마법사로 그녀의 우상은 \"레나 임바스\"라는 마법사라고 들었습니다. 그녀는 종종 \"드래곤 슬래시\"라는 마법을 사용할 수 있다는 환상을 가지고 있습니다."
+	},
+	{
+		"key": "_card_57",
+		"value": "기계 씨족의 결정적인 무기인 강력한 방어력과 근접 피해로 인해 무적이지만 느린 움직임과 공격이 아킬레스건입니다."
+	},
+	{
+		"key": "_card_58",
+		"value": "바람처럼 빠르고 불처럼 난폭한 늑대 기병은 약탈을 위해 태어났습니다. 그의 빠른 근접 공격은 건물만 목표로 삼고 강을 뛰어넘을 수 있어 뛰어난 약탈자입니다."
+	},
+	{
+		"key": "_card_59",
+		"value": "지옥에서 돌아온 망령은 언제라도 망령 그룹을 소환할 수 있는 망령 마법사임으로, 광역 피해를 입힐 수 있는 뛰어난 망령 마법도 가지고 있습니다."
+	},
+	{
+		"key": "_card_60",
+		"value": "오크의 주요 공중 유닛인 그들의 슬로건은 \"천국의 정의\"이지만 행글라이더는 항상 강하지 않고 실제 드래곤 윙만큼 사용하기 쉽지 않습니다."
+	},
+	{
+		"key": "_card_61",
+		"value": "건물에 대항하는기계 씨족의 궁극의 무기는 건물 위에 나타나기를 원하지 않을 것입니다. 무시무시한 피해 외에도 건물이 파괴되면 지역 피해를 입힐 수 있는 거대한 폭탄을 떨어뜨릴 것입니다."
+	},
+	{
+		"key": "_card_62",
+		"value": "그녀는 다른 사람들이 그녀를 과소 평가하지 않도록 그녀의 아름다움을 숨기고 그녀의 파괴력을 과소 평가해서는 안되며 돌격 후 다음 공격은 엄청난 단일 대상 피해를 입힐 수 있습니다."
+	},
+	{
+		"key": "_card_63",
+		"value": "그녀는 더 이상 망령으로서 죽음에 대해 신경 쓰지 않지만 방패의 여분의 방패는 그녀를 더 편안하게 만들 수 있으며 무기를 휘두를 때마다 범위 피해를 줄 수 있으며 망령 말도 상당한 돌격 피해를 줄 수 있습니다."
+	},
+	{
+		"key": "_card_64",
+		"value": "기계 씨족이 만든 무인 공성기는 소모가 적고 움직임이 빨라 죽은 듯이 건물을 향해 돌진할 수 있으며, 폭발만이 혼을 주뇌로 되돌려 놓을 수 있습니다."
+	},
+	{
+		"key": "_card_65",
+		"value": "소환된 여러 망령 그룹, 개미들이 더 많은 코끼리들을 죽였고, 여러 망령 그룹들의 협력은 망령 군대의 힘을 크게 증가시킬 수 있습니다."
+	},
+	{
+		"key": "_card_66",
+		"value": "망령의 정예 저격수로 지난해 무릎에 화살을 맞았지만 사거리에는 영향을 미치지 않았고, 몸은 연약하지만 의외로 연사력이 빠릅니다."
+	},
+	{
+		"key": "_card_67",
+		"value": "자유가 아니면 죽음을 달라는 슬로건을 내건 정예 오크의 개량형으로, 일반 오크보다 강인한 신체와 공격력, 공격 속도를 자랑합니다."
+	},
+	{
+		"key": "_card_68",
+		"value": "누군가 포탄을 들고 달로 날아갔다는 소식을 들은 오크들은 고역들을 상자에 넣어주면 고역들은 어디로든 갈 수 있게 되는데 물론 최종 결과는 지도자가 걱정할 일이 아니다."
+	},
+	{
+		"key": "_card_69",
+		"value": "오크 방어 건물은 지상에서 화력을 제압할 수 있지만, 지을 때 채광창을 여는 것을 잊었기 때문에 비행 유닛을 공격할 수 없습니다."
+	},
+	{
+		"key": "_card_70",
+		"value": "망령 군대 건물, 새로운 망령이 큰 묘지에 소환됩니다. 이때 망령은 자신의 운명에 대해 명확하지 않습니다. 묘지가 파괴된 후에도 새로 부활한 4명의 망령을 볼 수 있습니다."
+	},
+	{
+		"key": "_card_71",
+		"value": "인간 방어 건물, 적에 대한 피해는 시간이 지남에 따라 증가하며 적이 아무리 저항하더라도 전멸되는 것은 시간 문제입니다."
+	},
+	{
+		"key": "_card_72",
+		"value": "기계 씨족의 공격건물입니다. 이는 건물을 공격하고 강 건너편에 있는 적의 방어탑을 파괴할 수 있으며, 초장거리와 놀라운 사격 속도를 가지고 있습니다."
+	},
+	{
+		"key": "_card_73",
+		"value": "오크군대 건물입니다. 이는 가끔씩 채찍질을 당한 고역들이 있는데, 이때 고역들은 \"게으르지 말고 빨리 일하라\"고 게으르지 않을 것이다."
+	},
+	{
+		"key": "_card_74",
+		"value": "인간군사 건물, 인간 전사들의 안식처, 그들을 깨우면 성질이 좋지 않을 것 같습니다."
+	},
+	{
+		"key": "_card_75",
+		"value": "모든 사수가 넓은 범위의 적에게 총격을 가하면 포탑에 대한 피해가 크게 줄어듭니다."
+	},
+	{
+		"key": "_card_76",
+		"value": "캐서롤만큼 큰 불 덩어리를 본 적이 있습니까? 좁은 지역에 있는 적에게 많은 피해를 입힐 수 있으며, 방어탑에 대한 피해가 크게 줄어듭니다."
+	},
+	{
+		"key": "_card_77",
+		"value": "피뢰침을 휴대하시기 바랍니다. 번개는 범위 내에서 체력이 가장 높은 세 개의 지역 부대 또는 건물을 공격하여 짧은 기절을 일으키고 방어탑에 대한 피해가 크게 줄어 듭니다."
+	},
+	{
+		"key": "_card_78",
+		"value": "마력의 마법이 돌진하는 파동을 소환해 전방의 모든 것을 무자비하게 잠식시키고 방어탑의 피해를 크게 줄입니다."
+	},
+	{
+		"key": "_card_79",
+		"value": "거대한 눈덩이, 크리스마스 때 맞고 싶지 않으면 지역 피해를 입히고 적의 속도를 늦추고 방어 타워에 대한 피해를 크게 줄입니다."
+	},
+	{
+		"key": "_card_80",
+		"value": "범위 내의 적을 얼려서 이동 및 공격할 수 없게 만듭니다. \"꼼짝마! 가지마!\" 이 목소리가 들리는 듯, 방어탑의 피해가 크게 줄어듭니다."
+	},
+	{
+		"key": "_hero_1",
+		"value": "킹 타워"
+	},
+	{
+		"key": "_hero_2",
+		"value": "성녀 타워"
+	},
+	{
+		"key": "_hero_3",
+		"value": "제국 전사"
+	},
+	{
+		"key": "_hero_4",
+		"value": "정령 사수"
+	},
+	{
+		"key": "_hero_5",
+		"value": "가고일"
+	},
+	{
+		"key": "_hero_6",
+		"value": "고역"
+	},
+	{
+		"key": "_hero_7",
+		"value": "공성 거인"
+	},
+	{
+		"key": "_hero_8",
+		"value": "총병"
+	},
+	{
+		"key": "_hero_9",
+		"value": "수확기"
+	},
+	{
+		"key": "_hero_10",
+		"value": "오크 슬링어"
+	},
+	{
+		"key": "_hero_11",
+		"value": "망령 그룹"
+	},
+	{
+		"key": "_hero_12",
+		"value": "척탄병"
+	},
+	{
+		"key": "_hero_13",
+		"value": "중망치병"
+	},
+	{
+		"key": "_hero_14",
+		"value": "비행 수확기"
+	},
+	{
+		"key": "_hero_15",
+		"value": "아기 화룡"
+	},
+	{
+		"key": "_hero_16",
+		"value": "오크 공성차"
+	},
+	{
+		"key": "_hero_17",
+		"value": "망령 비룡"
+	},
+	{
+		"key": "_hero_18",
+		"value": "불의 마법사"
+	},
+	{
+		"key": "_hero_19",
+		"value": "거대한 수확기"
+	},
+	{
+		"key": "_hero_20",
+		"value": "늑대 기사"
+	},
+	{
+		"key": "_hero_21",
+		"value": "망령 마법사"
+	},
+	{
+		"key": "_hero_22",
+		"value": "비룡 기사"
+	},
+	{
+		"key": "_hero_23",
+		"value": "건물 폭격기"
+	},
+	{
+		"key": "_hero_24",
+		"value": "제국 기사"
+	},
+	{
+		"key": "_hero_25",
+		"value": "망령 기사"
+	},
+	{
+		"key": "_hero_26",
+		"value": "자푹 로봇"
+	},
+	{
+		"key": "_hero_27",
+		"value": "망령 군단"
+	},
+	{
+		"key": "_hero_28",
+		"value": "해골 사수"
+	},
+	{
+		"key": "_hero_29",
+		"value": "오크 광전사"
+	},
+	{
+		"key": "_hero_30",
+		"value": "고역 폭탄"
+	},
+	{
+		"key": "_hero_31",
+		"value": "오크 도끼"
+	},
+	{
+		"key": "_hero_32",
+		"value": "오크 타워"
+	},
+	{
+		"key": "_hero_33",
+		"value": "망령 묘지"
+	},
+	{
+		"key": "_hero_34",
+		"value": "마법 타워"
+	},
+	{
+		"key": "_hero_35",
+		"value": "기관청 타워"
+	},
+	{
+		"key": "_hero_36",
+		"value": "고역 숙영지"
+	},
+	{
+		"key": "_hero_37",
+		"value": "제국 병영"
+	},
+	{
+		"key": "_hero_38",
+		"value": "화살비"
+	},
+	{
+		"key": "_hero_39",
+		"value": "화구 마법"
+	},
+	{
+		"key": "_hero_40",
+		"value": "벼락 마법"
+	},
+	{
+		"key": "_hero_41",
+		"value": "지진해일"
+	},
+	{
+		"key": "_hero_42",
+		"value": "스노볼 마법"
+	},
+	{
+		"key": "_hero_43",
+		"value": "프로즌 노바"
+	},
+	{
+		"key": "_hero_44",
+		"value": "폭탄"
+	},
+	{
+		"key": "_skill_1",
+		"value": "킹 타워 일반 공격"
+	},
+	{
+		"key": "_skill_2",
+		"value": "성녀 타워 일반 공격"
+	},
+	{
+		"key": "_skill_3",
+		"value": "제국 전사 일반 공격"
+	},
+	{
+		"key": "_skill_4",
+		"value": "정령 사수 일반 공격"
+	},
+	{
+		"key": "_skill_5",
+		"value": "가고일  일반 공격"
+	},
+	{
+		"key": "_skill_6",
+		"value": "고역  일반 공격"
+	},
+	{
+		"key": "_skill_7",
+		"value": "공성 거인  일반 공격"
+	},
+	{
+		"key": "_skill_8",
+		"value": "총병 일반 공격"
+	},
+	{
+		"key": "_skill_9",
+		"value": "수확기 일반 공격"
+	},
+	{
+		"key": "_skill_10",
+		"value": "창잡이 일반 공격"
+	},
+	{
+		"key": "_skill_11",
+		"value": "망령 그룹 일반 공격"
+	},
+	{
+		"key": "_skill_12",
+		"value": "척탄병 일반 공격"
+	},
+	{
+		"key": "_skill_13",
+		"value": "중망치병 일반 공격"
+	},
+	{
+		"key": "_skill_14",
+		"value": "비행 수확기 일반 공격"
+	},
+	{
+		"key": "_skill_15",
+		"value": "아기 화룡 일반 공격"
+	},
+	{
+		"key": "_skill_16",
+		"value": "폭행 차량（자살 효과）"
+	},
+	{
+		"key": "_skill_17",
+		"value": "폭행 차량 소환 스킬 1"
+	},
+	{
+		"key": "_skill_18",
+		"value": "폭행 차량 소환 스킬 2"
+	},
+	{
+		"key": "_skill_19",
+		"value": "폭행 차량 소환 스킬 3"
+	},
+	{
+		"key": "_skill_20",
+		"value": "폭행 차량 소환 스킬 4"
+	},
+	{
+		"key": "_skill_21",
+		"value": "폭행 차량 소환 스킬 5"
+	},
+	{
+		"key": "_skill_22",
+		"value": "폭행 차량 소환 스킬 6"
+	},
+	{
+		"key": "_skill_23",
+		"value": "폭행 차량 소환 스킬 7"
+	},
+	{
+		"key": "_skill_24",
+		"value": "폭행 차량 소환 스킬 8"
+	},
+	{
+		"key": "_skill_25",
+		"value": "폭행 차량 소환 스킬 9"
+	},
+	{
+		"key": "_skill_26",
+		"value": "폭행 차량 소환 스킬 10"
+	},
+	{
+		"key": "_skill_27",
+		"value": "폭행 차량 스퍼트 BUFF"
+	},
+	{
+		"key": "_skill_28",
+		"value": "망령 비룡 일반 공격"
+	},
+	{
+		"key": "_skill_29",
+		"value": "불의 마법사 일반 공격"
+	},
+	{
+		"key": "_skill_30",
+		"value": "거대한 수확기 일반 공격"
+	},
+	{
+		"key": "_skill_31",
+		"value": "늑대 기사 일반 공격"
+	},
+	{
+		"key": "_skill_32",
+		"value": "망령 마법사 소환 BUFF 1 "
+	},
+	{
+		"key": "_skill_33",
+		"value": "망령 마법사 소환 BUFF 2 "
+	},
+	{
+		"key": "_skill_34",
+		"value": "망령 마법사 소환 BUFF 3 "
+	},
+	{
+		"key": "_skill_35",
+		"value": "망령 마법사 소환 BUFF 4"
+	},
+	{
+		"key": "_skill_36",
+		"value": "망령 마법사 소환 BUFF 5 "
+	},
+	{
+		"key": "_skill_37",
+		"value": "망령 마법사 소환 BUFF 6 "
+	},
+	{
+		"key": "_skill_38",
+		"value": "망령 마법사 소환 BUFF 7"
+	},
+	{
+		"key": "_skill_39",
+		"value": "망령 마법사 소환 BUFF 8 "
+	},
+	{
+		"key": "_skill_40",
+		"value": "망령 마법사 소환 BUFF 9 "
+	},
+	{
+		"key": "_skill_41",
+		"value": "망령 마법사 소환 BUFF 10"
+	},
+	{
+		"key": "_skill_42",
+		"value": "망령 마법사 일반 공격"
+	},
+	{
+		"key": "_skill_43",
+		"value": "비룡 기사 일반 공격"
+	},
+	{
+		"key": "_skill_44",
+		"value": "건물 폭격기 일반 공격"
+	},
+	{
+		"key": "_skill_45",
+		"value": "건물 폭격기 사망 스킬"
+	},
+	{
+		"key": "_skill_46",
+		"value": "기사 일반 공격"
+	},
+	{
+		"key": "_skill_47",
+		"value": "기사 스퍼트 BUFF"
+	},
+	{
+		"key": "_skill_48",
+		"value": "망령 기사 일반 공격"
+	},
+	{
+		"key": "_skill_49",
+		"value": "망령 기사 스퍼프 BUFF"
+	},
+	{
+		"key": "_skill_50",
+		"value": "자폭 로봇 일반 공격(자살 효과)"
+	},
+	{
+		"key": "_skill_51",
+		"value": "해골 사수 일반 공격"
+	},
+	{
+		"key": "_skill_52",
+		"value": "오크 광전사 일반 공격"
+	},
+	{
+		"key": "_skill_53",
+		"value": "고역 포탄 소환 스킬 1"
+	},
+	{
+		"key": "_skill_54",
+		"value": "고역 포탄 소환 스킬 2"
+	},
+	{
+		"key": "_skill_55",
+		"value": "고역 포탄 소환 스킬 3"
+	},
+	{
+		"key": "_skill_56",
+		"value": "고역 포탄 소환 스킬 4"
+	},
+	{
+		"key": "_skill_57",
+		"value": "고역 포탄 소환 스킬 5"
+	},
+	{
+		"key": "_skill_58",
+		"value": "고역 포탄 소환 스킬 6"
+	},
+	{
+		"key": "_skill_59",
+		"value": "고역 포탄 소환 스킬 7"
+	},
+	{
+		"key": "_skill_60",
+		"value": "고역 포탄 소환 스킬 8"
+	},
+	{
+		"key": "_skill_61",
+		"value": "고역 포탄 소환 스킬 9"
+	},
+	{
+		"key": "_skill_62",
+		"value": "고역 포탄 소환 스킬 10"
+	},
+	{
+		"key": "_skill_63",
+		"value": "오크 도끼 일반 공격"
+	},
+	{
+		"key": "_skill_64",
+		"value": "오크 타워 일반 공격"
+	},
+	{
+		"key": "_skill_65",
+		"value": "오크 타워 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_66",
+		"value": "망령 묘지 소환 BUFF 1"
+	},
+	{
+		"key": "_skill_67",
+		"value": "망령 묘지 소환 BUFF 2"
+	},
+	{
+		"key": "_skill_68",
+		"value": "망령 묘지 소환 BUFF 3"
+	},
+	{
+		"key": "_skill_69",
+		"value": "망령 묘지 소환 BUFF 4"
+	},
+	{
+		"key": "_skill_70",
+		"value": "망령 묘지 소환 BUFF 5"
+	},
+	{
+		"key": "_skill_71",
+		"value": "망령 묘지 소환 BUFF 6"
+	},
+	{
+		"key": "_skill_72",
+		"value": "망령 묘지 소환 BUFF 7"
+	},
+	{
+		"key": "_skill_73",
+		"value": "망령 묘지 소환 BUFF 8"
+	},
+	{
+		"key": "_skill_74",
+		"value": "망령 묘지 소환 BUFF 9"
+	},
+	{
+		"key": "_skill_75",
+		"value": "망령 묘지 소환 BUFF 10"
+	},
+	{
+		"key": "_skill_76",
+		"value": "망령 묘지 사망 소환 BUFF 1"
+	},
+	{
+		"key": "_skill_77",
+		"value": "망령 묘지 사망 소환 BUFF 2"
+	},
+	{
+		"key": "_skill_78",
+		"value": "망령 묘지 사망 소환 BUFF 3"
+	},
+	{
+		"key": "_skill_79",
+		"value": "망령 묘지 사망 소환 BUFF 4"
+	},
+	{
+		"key": "_skill_80",
+		"value": "망령 묘지 사망 소환 BUFF 5"
+	},
+	{
+		"key": "_skill_81",
+		"value": "망령 묘지 사망 소환 BUFF 6"
+	},
+	{
+		"key": "_skill_82",
+		"value": "망령 묘지 사망 소환 BUFF 7"
+	},
+	{
+		"key": "_skill_83",
+		"value": "망령 묘지 사망 소환 BUFF 8"
+	},
+	{
+		"key": "_skill_84",
+		"value": "망령 묘지 사망 소환 BUFF 9"
+	},
+	{
+		"key": "_skill_85",
+		"value": "망령 묘지 사망 소환 BUFF 10"
+	},
+	{
+		"key": "_skill_86",
+		"value": "망령 묘지 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_87",
+		"value": "마법 타워 일반 공격"
+	},
+	{
+		"key": "_skill_88",
+		"value": "마법 타워 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_89",
+		"value": "기관청 타워 일반 공격"
+	},
+	{
+		"key": "_skill_90",
+		"value": "기관청 타워 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_91",
+		"value": "고역 숙영지 소환 BUFF 1"
+	},
+	{
+		"key": "_skill_92",
+		"value": "고역 숙영지 소환 BUFF 2"
+	},
+	{
+		"key": "_skill_93",
+		"value": "고역 숙영지 소환 BUFF 3"
+	},
+	{
+		"key": "_skill_94",
+		"value": "고역 숙영지 소환 BUFF 4"
+	},
+	{
+		"key": "_skill_95",
+		"value": "고역 숙영지 소환 BUFF 5"
+	},
+	{
+		"key": "_skill_96",
+		"value": "고역 숙영지 소환 BUFF 6"
+	},
+	{
+		"key": "_skill_97",
+		"value": "고역 숙영지 소환 BUFF 7"
+	},
+	{
+		"key": "_skill_98",
+		"value": "고역 숙영지 소환 BUFF 8"
+	},
+	{
+		"key": "_skill_99",
+		"value": "고역 숙영지 소환 BUFF 9"
+	},
+	{
+		"key": "_skill_100",
+		"value": "고역 숙영지 소환 BUFF 10"
+	},
+	{
+		"key": "_skill_101",
+		"value": "고역 숙영지 사망 소환 BUFF 1"
+	},
+	{
+		"key": "_skill_102",
+		"value": "고역 숙영지 사망 소환 BUFF 2"
+	},
+	{
+		"key": "_skill_103",
+		"value": "고역 숙영지 사망 소환 BUFF 3"
+	},
+	{
+		"key": "_skill_104",
+		"value": "고역 숙영지 사망 소환 BUFF 4"
+	},
+	{
+		"key": "_skill_105",
+		"value": "고역 숙영지 사망 소환 BUFF 5"
+	},
+	{
+		"key": "_skill_106",
+		"value": "고역 숙영지 사망 소환 BUFF 6"
+	},
+	{
+		"key": "_skill_107",
+		"value": "고역 숙영지 사망 소환 BUFF 7"
+	},
+	{
+		"key": "_skill_108",
+		"value": "고역 숙영지 사망 소환 BUFF 8"
+	},
+	{
+		"key": "_skill_109",
+		"value": "고역 숙영지 사망 소환 BUFF 9"
+	},
+	{
+		"key": "_skill_110",
+		"value": "고역 숙영지 사망 소환 BUFF 10"
+	},
+	{
+		"key": "_skill_111",
+		"value": "고역 속영지 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_112",
+		"value": "제국 병영 사망 소환 1"
+	},
+	{
+		"key": "_skill_113",
+		"value": "제국 병영 사망 소환 2"
+	},
+	{
+		"key": "_skill_114",
+		"value": "제국 병영 사망 소환 3"
+	},
+	{
+		"key": "_skill_115",
+		"value": "제국 병영 사망 소환 4"
+	},
+	{
+		"key": "_skill_116",
+		"value": "제국 병영 사망 소환 5"
+	},
+	{
+		"key": "_skill_117",
+		"value": "제국 병영 사망 소환 6"
+	},
+	{
+		"key": "_skill_118",
+		"value": "제국 병영 사망 소환 7"
+	},
+	{
+		"key": "_skill_119",
+		"value": "제국 병영 사망 소환 8"
+	},
+	{
+		"key": "_skill_120",
+		"value": "제국 병영 사망 소환 9"
+	},
+	{
+		"key": "_skill_121",
+		"value": "제국 병영 사망 소환 10"
+	},
+	{
+		"key": "_skill_122",
+		"value": "제국 병영 HP 자동 소멸 DEBUFF"
+	},
+	{
+		"key": "_skill_123",
+		"value": "화살비 일반 공격"
+	},
+	{
+		"key": "_skill_124",
+		"value": "화구 마법 일반 공격"
+	},
+	{
+		"key": "_skill_125",
+		"value": "벼락 마법 일반 공격"
+	},
+	{
+		"key": "_skill_126",
+		"value": "벼락 마법 BUFF"
+	},
+	{
+		"key": "_skill_127",
+		"value": "지진해일 일반 공격"
+	},
+	{
+		"key": "_skill_128",
+		"value": "스노볼 마법"
+	},
+	{
+		"key": "_skill_129",
+		"value": "스노볼 마법 BUFF"
+	},
+	{
+		"key": "_skill_130",
+		"value": "프로즌 노바 BUFF"
+	},
+	{
+		"key": "_skill_131",
+		"value": "프로즌 노바 스킬"
+	},
+	{
+		"key": "_skill_132",
+		"value": "강한"
+	},
+	{
+		"key": "_skill_133",
+		"value": "경쾌"
+	},
+	{
+		"key": "_skill_134",
+		"value": "속도"
+	},
+	{
+		"key": "_skill_135",
+		"value": "치명"
+	},
+	{
+		"key": "_skill_136",
+		"value": "제활자"
+	},
+	{
+		"key": "_skill_137",
+		"value": "지휘관"
+	},
+	{
+		"key": "_skill_138",
+		"value": "전사"
+	},
+	{
+		"key": "_skill_139",
+		"value": "전문가"
+	},
+	{
+		"key": "_skill_140",
+		"value": "견실+제화살자"
+	},
+	{
+		"key": "_skill_141",
+		"value": "신숙+제화살자"
+	},
+	{
+		"key": "_skill_142",
+		"value": "보조+재화살자"
+	},
+	{
+		"key": "_skill_143",
+		"value": "톱니+제화살자"
+	},
+	{
+		"key": "_skill_144",
+		"value": "견실+대장"
+	},
+	{
+		"key": "_skill_145",
+		"value": "신숙+대장"
+	},
+	{
+		"key": "_skill_146",
+		"value": "보조+대장"
+	},
+	{
+		"key": "_skill_147",
+		"value": "톱니+대장"
+	},
+	{
+		"key": "_skill_148",
+		"value": "견실+민병"
+	},
+	{
+		"key": "_skill_149",
+		"value": "신숙+민병"
+	},
+	{
+		"key": "_skill_150",
+		"value": "보조+민병"
+	},
+	{
+		"key": "_skill_151",
+		"value": "톱니+민병"
+	},
+	{
+		"key": "_skill_152",
+		"value": "견실+베테랑"
+	},
+	{
+		"key": "_skill_153",
+		"value": "신숙+베테랑"
+	},
+	{
+		"key": "_skill_154",
+		"value": "보조+베테랑"
+	},
+	{
+		"key": "_skill_155",
+		"value": "톱니+베테랑"
+	},
+	{
+		"key": "_skill_156",
+		"value": "충성+무력자"
+	},
+	{
+		"key": "_skill_157",
+		"value": "민첩+무력자"
+	},
+	{
+		"key": "_skill_158",
+		"value": "가속+무력자"
+	},
+	{
+		"key": "_skill_159",
+		"value": "악독+무력자"
+	},
+	{
+		"key": "_skill_160",
+		"value": "충성+악당"
+	},
+	{
+		"key": "_skill_161",
+		"value": "민첩+악당"
+	},
+	{
+		"key": "_skill_162",
+		"value": "가속+악당"
+	},
+	{
+		"key": "_skill_163",
+		"value": "악독+악당"
+	},
+	{
+		"key": "_skill_164",
+		"value": "충성+촌민"
+	},
+	{
+		"key": "_skill_165",
+		"value": "민첩+촌민"
+	},
+	{
+		"key": "_skill_166",
+		"value": "가속+촌민"
+	},
+	{
+		"key": "_skill_167",
+		"value": "악독+촌민"
+	},
+	{
+		"key": "_skill_168",
+		"value": "허약+대사"
+	},
+	{
+		"key": "_skill_169",
+		"value": "녹슬+대사"
+	},
+	{
+		"key": "_skill_170",
+		"value": "완만+대사"
+	},
+	{
+		"key": "_skill_171",
+		"value": "맹목+대사"
+	},
+	{
+		"key": "_skill_172",
+		"value": "충성 (만족)"
+	},
+	{
+		"key": "_skill_173",
+		"value": "민첩 (만족)"
+	},
+	{
+		"key": "_skill_174",
+		"value": "가속 (만족)"
+	},
+	{
+		"key": "_skill_175",
+		"value": "악독 (만족)"
+	},
+	{
+		"key": "_skill_176",
+		"value": "사수 (만족)"
+	},
+	{
+		"key": "_skill_177",
+		"value": "통솔자 (만족)"
+	},
+	{
+		"key": "_skill_178",
+		"value": "병사 (만족)"
+	},
+	{
+		"key": "_skill_179",
+		"value": "대사 (만족)"
+	},
+	{
+		"key": "_skill_180",
+		"value": "충성 (반격)"
+	},
+	{
+		"key": "_skill_181",
+		"value": "민첩 (반격)"
+	},
+	{
+		"key": "_skill_182",
+		"value": "가속 (반격)"
+	},
+	{
+		"key": "_skill_183",
+		"value": "악독 (반격)"
+	},
+	{
+		"key": "_skill_184",
+		"value": "사수 (반격)"
+	},
+	{
+		"key": "_skill_185",
+		"value": "통솔자 (반격)"
+	},
+	{
+		"key": "_skill_186",
+		"value": "병사 (반격)"
+	},
+	{
+		"key": "_skill_187",
+		"value": "대사 (반격)"
+	},
+	{
+		"key": "_skill_188",
+		"value": "충성 (척박)"
+	},
+	{
+		"key": "_skill_189",
+		"value": "민첩 (척박)"
+	},
+	{
+		"key": "_skill_190",
+		"value": "가속 (척박)"
+	},
+	{
+		"key": "_skill_191",
+		"value": "악독 (척박)"
+	},
+	{
+		"key": "_skill_192",
+		"value": "사수 (척박)"
+	},
+	{
+		"key": "_skill_193",
+		"value": "통솔자 (척박)"
+	},
+	{
+		"key": "_skill_194",
+		"value": "병사 (척박)"
+	},
+	{
+		"key": "_skill_195",
+		"value": "대사 (척박)"
+	},
+	{
+		"key": "_skill_196",
+		"value": "충성 (충봉)"
+	},
+	{
+		"key": "_skill_197",
+		"value": "민첩 (충봉)"
+	},
+	{
+		"key": "_skill_198",
+		"value": "가속 (충봉)"
+	},
+	{
+		"key": "_skill_199",
+		"value": "악독 (충봉)"
+	},
+	{
+		"key": "_skill_200",
+		"value": "사수 (충봉)"
+	},
+	{
+		"key": "_skill_201",
+		"value": "통솔자 (충봉)"
+	},
+	{
+		"key": "_skill_202",
+		"value": "병사 (충봉)"
+	},
+	{
+		"key": "_skill_203",
+		"value": "대사 (충봉)"
+	},
+	{
+		"key": "_skill_204",
+		"value": "견고"
+	},
+	{
+		"key": "_skill_205",
+		"value": "경쾌"
+	},
+	{
+		"key": "_skill_206",
+		"value": "축복"
+	},
+	{
+		"key": "_skill_207",
+		"value": "치명"
+	},
+	{
+		"key": "_skill_208",
+		"value": "쪽빛"
+	},
+	{
+		"key": "_skill_209",
+		"value": "심홍색"
+	},
+	{
+		"key": "_skill_210",
+		"value": "청록색"
+	},
+	{
+		"key": "_skill_211",
+		"value": "정밀"
+	},
+	{
+		"key": "_skill_212",
+		"value": "경화+하늘색"
+	},
+	{
+		"key": "_skill_213",
+		"value": "신숙+하늘색"
+	},
+	{
+		"key": "_skill_214",
+		"value": "활력+하늘색"
+	},
+	{
+		"key": "_skill_215",
+		"value": "톱니+하늘색"
+	},
+	{
+		"key": "_skill_216",
+		"value": "경화+대추색"
+	},
+	{
+		"key": "_skill_217",
+		"value": "신숙+대추색"
+	},
+	{
+		"key": "_skill_218",
+		"value": "활력+대추색"
+	},
+	{
+		"key": "_skill_219",
+		"value": "톱니+대추색"
+	},
+	{
+		"key": "_skill_220",
+		"value": "경화+회록색"
+	},
+	{
+		"key": "_skill_221",
+		"value": "신숙+회록색"
+	},
+	{
+		"key": "_skill_222",
+		"value": "활력+회록색"
+	},
+	{
+		"key": "_skill_223",
+		"value": "톱니+회록색"
+	},
+	{
+		"key": "_skill_224",
+		"value": "경화+정확"
+	},
+	{
+		"key": "_skill_225",
+		"value": "신숙+정확"
+	},
+	{
+		"key": "_skill_226",
+		"value": "활력+정확"
+	},
+	{
+		"key": "_skill_227",
+		"value": "톱니+정확"
+	},
+	{
+		"key": "_skill_228",
+		"value": "금속+청회색"
+	},
+	{
+		"key": "_skill_229",
+		"value": "신숙+청회색"
+	},
+	{
+		"key": "_skill_230",
+		"value": "숭고+청회색"
+	},
+	{
+		"key": "_skill_231",
+		"value": "악독+청회색"
+	},
+	{
+		"key": "_skill_232",
+		"value": "금속+청회색"
+	},
+	{
+		"key": "_skill_233",
+		"value": "민척+회홍색"
+	},
+	{
+		"key": "_skill_234",
+		"value": "숭고+회홍색"
+	},
+	{
+		"key": "_skill_235",
+		"value": "악독+회홍색"
+	},
+	{
+		"key": "_skill_236",
+		"value": "금속+회록색"
+	},
+	{
+		"key": "_skill_237",
+		"value": "민첫+회롯색"
+	},
+	{
+		"key": "_skill_238",
+		"value": "숭고+회록색"
+	},
+	{
+		"key": "_skill_239",
+		"value": "악독+회록색"
+	},
+	{
+		"key": "_skill_240",
+		"value": "취약+완미"
+	},
+	{
+		"key": "_skill_241",
+		"value": "녹슬+완미"
+	},
+	{
+		"key": "_skill_242",
+		"value": "부식+완미"
+	},
+	{
+		"key": "_skill_243",
+		"value": "맹목+완미"
+	},
+	{
+		"key": "_skill_244",
+		"value": "금속 (만족)"
+	},
+	{
+		"key": "_skill_245",
+		"value": "민첩 (만족)"
+	},
+	{
+		"key": "_skill_246",
+		"value": "숭고 (만족)"
+	},
+	{
+		"key": "_skill_247",
+		"value": "악독 (만족)"
+	},
+	{
+		"key": "_skill_248",
+		"value": "사파이어 (만족)"
+	},
+	{
+		"key": "_skill_249",
+		"value": "루비 (만족)"
+	},
+	{
+		"key": "_skill_250",
+		"value": "에메랄드 (만족)"
+	},
+	{
+		"key": "_skill_251",
+		"value": "완미 (만족)"
+	},
+	{
+		"key": "_skill_252",
+		"value": "금속 (반격)"
+	},
+	{
+		"key": "_skill_253",
+		"value": "민첩 (반격)"
+	},
+	{
+		"key": "_skill_254",
+		"value": "숭고 (반격)"
+	},
+	{
+		"key": "_skill_255",
+		"value": "악독 (반격)"
+	},
+	{
+		"key": "_skill_256",
+		"value": "사파이어 (반격)"
+	},
+	{
+		"key": "_skill_257",
+		"value": "루비 (반격)"
+	},
+	{
+		"key": "_skill_258",
+		"value": "에메랄드 (반격)"
+	},
+	{
+		"key": "_skill_259",
+		"value": "완미 (반격)"
+	},
+	{
+		"key": "_skill_260",
+		"value": "금속 (척박)"
+	},
+	{
+		"key": "_skill_261",
+		"value": "민첩 (척박)"
+	},
+	{
+		"key": "_skill_262",
+		"value": "숭고 (척박)"
+	},
+	{
+		"key": "_skill_263",
+		"value": "악독 (척박)"
+	},
+	{
+		"key": "_skill_264",
+		"value": "사파이어 (척박)"
+	},
+	{
+		"key": "_skill_265",
+		"value": "루비 (척박)"
+	},
+	{
+		"key": "_skill_266",
+		"value": "에메랄드 (척박)"
+	},
+	{
+		"key": "_skill_267",
+		"value": "완미 (척박)"
+	},
+	{
+		"key": "_skill_268",
+		"value": "금속 (충봉)"
+	},
+	{
+		"key": "_skill_269",
+		"value": "민첩 (충봉)"
+	},
+	{
+		"key": "_skill_270",
+		"value": "숭고 (충봉)"
+	},
+	{
+		"key": "_skill_271",
+		"value": "악독 (충봉)"
+	},
+	{
+		"key": "_skill_272",
+		"value": "사파이어 (충봉)"
+	},
+	{
+		"key": "_skill_273",
+		"value": "루비 (충봉)"
+	},
+	{
+		"key": "_skill_274",
+		"value": "에메랄드 (충봉)"
+	},
+	{
+		"key": "_skill_275",
+		"value": "완미 (충봉)"
+	},
+	{
+		"key": "_skill_276",
+		"value": "견고"
+	},
+	{
+		"key": "_skill_277",
+		"value": "축복"
+	},
+	{
+		"key": "_skill_278",
+		"value": "치명 "
+	},
+	{
+		"key": "_skill_279",
+		"value": "교월"
+	},
+	{
+		"key": "_skill_280",
+		"value": "경화+전원"
+	},
+	{
+		"key": "_skill_281",
+		"value": "활력+전원"
+	},
+	{
+		"key": "_skill_282",
+		"value": "경화+활력"
+	},
+	{
+		"key": "_skill_283",
+		"value": "톱니+활력"
+	},
+	{
+		"key": "_skill_284",
+		"value": "경화+톱니"
+	},
+	{
+		"key": "_skill_285",
+		"value": "전원+활력"
+	},
+	{
+		"key": "_skill_286",
+		"value": "금속+건조"
+	},
+	{
+		"key": "_skill_287",
+		"value": "숭고+건조"
+	},
+	{
+		"key": "_skill_288",
+		"value": "악독+건조"
+	},
+	{
+		"key": "_skill_289",
+		"value": "금속+부식"
+	},
+	{
+		"key": "_skill_290",
+		"value": "초자연+부식"
+	},
+	{
+		"key": "_skill_291",
+		"value": "악독+부식"
+	},
+	{
+		"key": "_skill_292",
+		"value": "금속+맹목"
+	},
+	{
+		"key": "_skill_293",
+		"value": "숭고+맹목"
+	},
+	{
+		"key": "_skill_294",
+		"value": "초자연+맹목"
+	},
+	{
+		"key": "_skill_295",
+		"value": "취약+초자연"
+	},
+	{
+		"key": "_skill_296",
+		"value": "취약+숭고"
+	},
+	{
+		"key": "_skill_297",
+		"value": "취약+악독"
+	},
+	{
+		"key": "_skill_298",
+		"value": "금속 (만족)"
+	},
+	{
+		"key": "_skill_299",
+		"value": "숭고 (만족)"
+	},
+	{
+		"key": "_skill_300",
+		"value": "악독 (만족)"
+	},
+	{
+		"key": "_skill_301",
+		"value": "초자연 (만족)"
+	},
+	{
+		"key": "_skill_302",
+		"value": "금속 (반격)"
+	},
+	{
+		"key": "_skill_303",
+		"value": "숭고 (반격)"
+	},
+	{
+		"key": "_skill_304",
+		"value": "악독 (반격)"
+	},
+	{
+		"key": "_skill_305",
+		"value": "초자연 (반격)"
+	},
+	{
+		"key": "_skill_306",
+		"value": "금속 (척박)"
+	},
+	{
+		"key": "_skill_307",
+		"value": "숭고 (척박)"
+	},
+	{
+		"key": "_skill_308",
+		"value": "악독 (척박)"
+	},
+	{
+		"key": "_skill_309",
+		"value": "초자연 (척박)"
+	},
+	{
+		"key": "_skill_310",
+		"value": "금속 (충봉)"
+	},
+	{
+		"key": "_skill_311",
+		"value": "숭고 (충봉)"
+	},
+	{
+		"key": "_skill_312",
+		"value": "악독 (충봉)"
+	},
+	{
+		"key": "_skill_313",
+		"value": "초자연 (총봉)"
+	},
+	{
+		"key": "_skill_314",
+		"value": "치명"
+	},
+	{
+		"key": "_skill_315",
+		"value": "쪽빛"
+	},
+	{
+		"key": "_skill_316",
+		"value": "청록색"
+	},
+	{
+		"key": "_skill_317",
+		"value": "프리즘"
+	},
+	{
+		"key": "_skill_318",
+		"value": "톱니+무지개"
+	},
+	{
+		"key": "_skill_319",
+		"value": "하늘색+무지개"
+	},
+	{
+		"key": "_skill_320",
+		"value": "경화+활력"
+	},
+	{
+		"key": "_skill_321",
+		"value": "톱니+활력"
+	},
+	{
+		"key": "_skill_322",
+		"value": "하늘색+석록"
+	},
+	{
+		"key": "_skill_323",
+		"value": "석록+무지개"
+	},
+	{
+		"key": "_skill_324",
+		"value": "악독+암담"
+	},
+	{
+		"key": "_skill_325",
+		"value": "사파이어+암담"
+	},
+	{
+		"key": "_skill_326",
+		"value": "에메랑드+암담"
+	},
+	{
+		"key": "_skill_327",
+		"value": "악독+청회색"
+	},
+	{
+		"key": "_skill_328",
+		"value": "다채+청회색"
+	},
+	{
+		"key": "_skill_329",
+		"value": "악독+회록색"
+	},
+	{
+		"key": "_skill_330",
+		"value": "다채+회록색"
+	},
+	{
+		"key": "_skill_331",
+		"value": "사파이어+맹목"
+	},
+	{
+		"key": "_skill_332",
+		"value": "에메랄드+맹목"
+	},
+	{
+		"key": "_skill_333",
+		"value": "다채+맹목"
+	},
+	{
+		"key": "_skill_334",
+		"value": "악독 (만족)"
+	},
+	{
+		"key": "_skill_335",
+		"value": "사파이어 (만족)"
+	},
+	{
+		"key": "_skill_336",
+		"value": "에메랄드 (만족)"
+	},
+	{
+		"key": "_skill_337",
+		"value": "다채 (만족)"
+	},
+	{
+		"key": "_skill_338",
+		"value": "악독 (반격)"
+	},
+	{
+		"key": "_skill_339",
+		"value": "사파이어 (반격)"
+	},
+	{
+		"key": "_skill_340",
+		"value": "에메랄드 (반격)"
+	},
+	{
+		"key": "_skill_341",
+		"value": "다채 (반격)"
+	},
+	{
+		"key": "_skill_342",
+		"value": "악독 (척박)"
+	},
+	{
+		"key": "_skill_343",
+		"value": "사파이어 (척박)"
+	},
+	{
+		"key": "_skill_344",
+		"value": "에메랄드 (척박)"
+	},
+	{
+		"key": "_skill_345",
+		"value": "다채 (척박)"
+	},
+	{
+		"key": "_skill_346",
+		"value": "악독 (충봉)"
+	},
+	{
+		"key": "_skill_347",
+		"value": "사파이어 (충봉)"
+	},
+	{
+		"key": "_skill_348",
+		"value": "에메랄드 (충봉)"
+	},
+	{
+		"key": "_skill_349",
+		"value": "다채 (충봉)"
+	},
+	{
+		"key": "_skill_350",
+		"value": "치명"
+	},
+	{
+		"key": "_skill_351",
+		"value": "행운"
+	},
+	{
+		"key": "_skill_352",
+		"value": "톱니+안정"
+	},
+	{
+		"key": "_skill_353",
+		"value": "악독+짧음"
+	},
+	{
+		"key": "_skill_354",
+		"value": "맹목+세월"
+	},
+	{
+		"key": "_skill_355",
+		"value": "악독 (만족)"
+	},
+	{
+		"key": "_skill_356",
+		"value": "세월 (만족)"
+	},
+	{
+		"key": "_skill_357",
+		"value": "악독 (반격)"
+	},
+	{
+		"key": "_skill_358",
+		"value": "세월 (반격)"
+	},
+	{
+		"key": "_skill_359",
+		"value": "악독 (척박)"
+	},
+	{
+		"key": "_skill_360",
+		"value": "세월 (척박)"
+	},
+	{
+		"key": "_skill_361",
+		"value": "악독 (충봉)"
+	},
+	{
+		"key": "_skill_362",
+		"value": "세월 (충봉)"
+	},
+	{
+		"key": "_skill_2001",
+		"value": "피해:<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2002",
+		"value": "자폭 피해：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2003",
+		"value": "충봉 이동 속도"
+	},
+	{
+		"key": "_skill_2004",
+		"value": "충봉 피해：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2005",
+		"value": "소환 효과：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2006",
+		"value": "적에게 사용<outline color=black width=1><color=#3cde4f> %{key}</color></outline>BUFF"
+	},
+	{
+		"key": "_skill_2007",
+		"value": "적에게 사용<outline color=black width=1><color=#3cde4f> %{key}</color></outline>BUFF"
+	},
+	{
+		"key": "_skill_2008",
+		"value": "공격 간격격：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2035",
+		"value": "생존시간：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2091",
+		"value": "적에게 사용<outline color=black width=1><color=#3cde4f> %{key}</color></outline>BUFF"
+	},
+	{
+		"key": "_skill_2092",
+		"value": "이동 속도 감소：<outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2093",
+		"value": "이동 금지"
+	},
+	{
+		"key": "_skill_2094",
+		"value": "공격 금지"
+	},
+	{
+		"key": "_skill_2095",
+		"value": "<color=#485668>HP 상한 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2096",
+		"value": "<color=#485668>HP 상한 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2097",
+		"value": "<color=#485668>HP 상한 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2098",
+		"value": "<color=#485668>HP 상한 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2099",
+		"value": "<color=#485668>공격 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2100",
+		"value": "<color=#485668>공격 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2101",
+		"value": "<color=#485668>공격 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2102",
+		"value": "<color=#485668>공격 간격 감소：</color><outline color=black width=1><color=#ec2424> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2103",
+		"value": "<color=#485668>이동 속도 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2104",
+		"value": "<color=#485668>이동 속도 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2105",
+		"value": "<color=#485668>이동 속도 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2106",
+		"value": "<color=#485668>이동 속도 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2107",
+		"value": "<color=#485668>배치 대기 시간 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2108",
+		"value": "<color=#485668>배치 대기 시간 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2109",
+		"value": "<color=#485668>배치 대기 시간 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2110",
+		"value": "<color=#485668>배치 대기 시간 감소：</color><outline color=black width=1><color=#ec2424> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2111",
+		"value": "<color=#485668>피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2112",
+		"value": "<color=#485668>피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2113",
+		"value": "<color=#485668>피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2114",
+		"value": "<color=#485668>피해 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2115",
+		"value": "<color=#485668>지상 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2116",
+		"value": "<color=#485668>지상 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2117",
+		"value": "<color=#485668>지상 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2118",
+		"value": "<color=#485668>지상 단위에 대한 피해 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2119",
+		"value": "<color=#485668>비행 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2120",
+		"value": "<color=#485668>비행 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2121",
+		"value": "<color=#485668>비행 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2122",
+		"value": "<color=#485668>비행 단위에 대한 피해 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2123",
+		"value": "<color=#485668>건물 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2124",
+		"value": "<color=#485668>건물 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2125",
+		"value": "<color=#485668>건물 단위에 대한 피해 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2126",
+		"value": "<color=#485668>건물 단위에 대한 피해 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2127",
+		"value": "<color=#485668>HP 지속 소멸 감소：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2128",
+		"value": "<color=#485668>HP 지속 소멸 감소：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2129",
+		"value": "<color=#485668>HP 지속 소멸 감소：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2130",
+		"value": "<color=#485668>HP 지속 소멸 감소：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2131",
+		"value": "<color=#485668>소환 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2132",
+		"value": "<color=#485668>소환 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2133",
+		"value": "<color=#485668>소환 간격 감소：</color><outline color=black width=1><color=#3cde4f> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2134",
+		"value": "<color=#485668>소환 간격 감소：</color><outline color=black width=1><color=#ec2424> %{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2135",
+		"value": "<color=#485668>지속 시간 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2136",
+		"value": "<color=#485668>지속 시간 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2137",
+		"value": "<color=#485668>지속 시간 증가：</color><outline color=black width=1><color=#3cde4f> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2138",
+		"value": "<color=#485668>지속 시간 증가：</color><outline color=black width=1><color=#ec2424> %{key}</color></outline>"
+	},
+	{
+		"key": "_skill_4000",
+		"value": "점프 스킬 효과"
+	},
+	{
+		"key": "_skill_4001",
+		"value": "<color=#485668>어떤 상태에서</color>"
+	},
+	{
+		"key": "_skill_4002",
+		"value": "<color=#485668>기력 회복 속도가 정상일 때</color>"
+	},
+	{
+		"key": "_skill_4003",
+		"value": "<color=#485668>기력 회복 속도가 2배가 될 때</color>"
+	},
+	{
+		"key": "_skill_4004",
+		"value": "<color=#485668>방어탑이 상대보다 많을때</color>"
+	},
+	{
+		"key": "_skill_4005",
+		"value": "<color=#485668>방어탑이 상대보다 적을때</color>"
+	},
+	{
+		"key": "_skill_4006",
+		"value": "<color=#485668>방어탑이 상대보다 같을때</color>"
+	},
+	{
+		"key": "_equip_1",
+		"value": "무기"
+	},
+	{
+		"key": "_equip_2",
+		"value": "방패"
+	},
+	{
+		"key": "_equip_3",
+		"value": "부속품"
+	},
+	{
+		"key": "_equip_4",
+		"value": "마법 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_5",
+		"value": "마법 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_6",
+		"value": "마법 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_7",
+		"value": "기력 회복 속도 증가： %{key}"
+	},
+	{
+		"key": "_equip_8",
+		"value": "기력 회복 속도 증가： %{key}"
+	},
+	{
+		"key": "_equip_9",
+		"value": "기력 회복 속도 증가： %{key}"
+	},
+	{
+		"key": "_equip_10",
+		"value": "기력 회복 속도 증가： %{key}"
+	},
+	{
+		"key": "_equip_11",
+		"value": "공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_12",
+		"value": "공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_13",
+		"value": "공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_14",
+		"value": "모두 피해 중가：%{key}"
+	},
+	{
+		"key": "_equip_15",
+		"value": "모두 피해 중가：%{key}"
+	},
+	{
+		"key": "_equip_16",
+		"value": "모두 피해 중가：%{key}"
+	},
+	{
+		"key": "_equip_17",
+		"value": "서프라이즈 보물 상자 드랍율 증가： %{key}"
+	},
+	{
+		"key": "_equip_18",
+		"value": "최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_19",
+		"value": "최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_20",
+		"value": "최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_21",
+		"value": "최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_22",
+		"value": "최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_23",
+		"value": "지상 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_24",
+		"value": "지상 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_25",
+		"value": "비행 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_26",
+		"value": "비행 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_27",
+		"value": "건물 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_28",
+		"value": "건물 부대 최대 HP 증가：%{key}"
+	},
+	{
+		"key": "_equip_29",
+		"value": "건물 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_30",
+		"value": "건물 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_31",
+		"value": "무두 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_32",
+		"value": "공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_33",
+		"value": "무두 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_34",
+		"value": "공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_35",
+		"value": "건물에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_36",
+		"value": "지상 부대에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_37",
+		"value": "비행 부대에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_38",
+		"value": "건물에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_39",
+		"value": "지상 부대에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_40",
+		"value": "비행 부대에 대한 피해 증가：%{key}"
+	},
+	{
+		"key": "_equip_41",
+		"value": "지상 부대 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_42",
+		"value": "비행 부대 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_43",
+		"value": "지상 부대 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_44",
+		"value": "비행 부대 공격 간격 감소： %{negateKey}"
+	},
+	{
+		"key": "_equip_1001",
+		"value": "어떤 상태에서"
+	},
+	{
+		"key": "_equip_1002",
+		"value": "기력 회복 속도가 정상일 때"
+	},
+	{
+		"key": "_equip_1003",
+		"value": "기력 회복 속도가 2배가 될 때"
+	},
+	{
+		"key": "_equip_1004",
+		"value": "방어탑이 상대보다 많을 때"
+	},
+	{
+		"key": "_equip_1005",
+		"value": "방어탑이 상대보다 적을 때"
+	},
+	{
+		"key": "_equip_1006",
+		"value": "방어탑이 상대보다 같을 때"
+	},
+	{
+		"key": "_equip_2001",
+		"value": "장모"
+	},
+	{
+		"key": "_equip_2002",
+		"value": "거대 도끼"
+	},
+	{
+		"key": "_equip_2003",
+		"value": "중망치"
+	},
+	{
+		"key": "_equip_2004",
+		"value": "왕권"
+	},
+	{
+		"key": "_equip_2005",
+		"value": "둥근 방패"
+	},
+	{
+		"key": "_equip_2006",
+		"value": "경량 방패"
+	},
+	{
+		"key": "_equip_2007",
+		"value": "중량 방패"
+	},
+	{
+		"key": "_equip_2008",
+		"value": "마법 방패"
+	},
+	{
+		"key": "_equip_2009",
+		"value": "마스크"
+	},
+	{
+		"key": "_equip_2010",
+		"value": "보안경"
+	},
+	{
+		"key": "_equip_2011",
+		"value": "왕관"
+	},
+	{
+		"key": "_equip_2012",
+		"value": "권력 요대"
+	},
+	{
+		"key": "_equip_3001",
+		"value": "마법 강도 초급: (반격)"
+	},
+	{
+		"key": "_equip_3002",
+		"value": "마법 강도 중급: (반격)"
+	},
+	{
+		"key": "_equip_3003",
+		"value": "마법 강도 고급: (반격)"
+	},
+	{
+		"key": "_equip_3004",
+		"value": "마법 강도 최고급: (반격)"
+	},
+	{
+		"key": "_equip_3005",
+		"value": "마법 강도 초급: (충봉)"
+	},
+	{
+		"key": "_equip_3006",
+		"value": "마법 강도 중급: (충봉)"
+	},
+	{
+		"key": "_equip_3007",
+		"value": "마법 강도 고급: (충봉)"
+	},
+	{
+		"key": "_equip_3008",
+		"value": "마법 강도 최고급: (충봉)"
+	},
+	{
+		"key": "_equip_3009",
+		"value": "마법 강도 초급: (대치)"
+	},
+	{
+		"key": "_equip_3010",
+		"value": "마법 강도 중급: (대치)"
+	},
+	{
+		"key": "_equip_3011",
+		"value": "마법 강도 중급: (대치)"
+	},
+	{
+		"key": "_equip_3012",
+		"value": "마법 강도 최고급: (대치)"
+	},
+	{
+		"key": "_equip_3013",
+		"value": "기력 초급: (반격)"
+	},
+	{
+		"key": "_equip_3014",
+		"value": "기력 중급: (반격)"
+	},
+	{
+		"key": "_equip_3015",
+		"value": "기력 고급: (반격)"
+	},
+	{
+		"key": "_equip_3016",
+		"value": "기력 최고급: (반격)"
+	},
+	{
+		"key": "_equip_3017",
+		"value": "기력 초급: (충봉)"
+	},
+	{
+		"key": "_equip_3018",
+		"value": "기력 중급: (충봉)"
+	},
+	{
+		"key": "_equip_3019",
+		"value": "기력 고급: (충봉)"
+	},
+	{
+		"key": "_equip_3020",
+		"value": "기력 최고급: (충봉)"
+	},
+	{
+		"key": "_equip_3021",
+		"value": "기력 초급: (대치)"
+	},
+	{
+		"key": "_equip_3022",
+		"value": "기력 중급: (대치)"
+	},
+	{
+		"key": "_equip_3023",
+		"value": "기력 고급: (대치)"
+	},
+	{
+		"key": "_equip_3024",
+		"value": "기력 최고급: (대치)"
+	},
+	{
+		"key": "_equip_3025",
+		"value": "기력 초급"
+	},
+	{
+		"key": "_equip_3026",
+		"value": "기력 중급"
+	},
+	{
+		"key": "_equip_3027",
+		"value": "기력 고급"
+	},
+	{
+		"key": "_equip_3028",
+		"value": "기력 최고급"
+	},
+	{
+		"key": "_equip_3029",
+		"value": "신숙 초급: (반격)"
+	},
+	{
+		"key": "_equip_3030",
+		"value": "신숙 중급: (반격)"
+	},
+	{
+		"key": "_equip_3031",
+		"value": "신숙 고급: (반격)"
+	},
+	{
+		"key": "_equip_3032",
+		"value": "신숙 최고급: (반격)"
+	},
+	{
+		"key": "_equip_3033",
+		"value": "신숙 초급: (충봉)"
+	},
+	{
+		"key": "_equip_3034",
+		"value": "신숙 중급: (충봉)"
+	},
+	{
+		"key": "_equip_3035",
+		"value": "신숙 고급: (충봉)"
+	},
+	{
+		"key": "_equip_3036",
+		"value": "신숙 최고급: (충봉)"
+	},
+	{
+		"key": "_equip_3037",
+		"value": "신숙 초급: (대치)"
+	},
+	{
+		"key": "_equip_3038",
+		"value": "신숙 중급: (대치)"
+	},
+	{
+		"key": "_equip_3039",
+		"value": "신숙 고급: (대치)"
+	},
+	{
+		"key": "_equip_3040",
+		"value": "신숙 최고급: (대치)"
+	},
+	{
+		"key": "_equip_3041",
+		"value": "피해 초급: (반격)"
+	},
+	{
+		"key": "_equip_3042",
+		"value": "피해 중급: (반격)"
+	},
+	{
+		"key": "_equip_3043",
+		"value": "피해 고급: (반격)"
+	},
+	{
+		"key": "_equip_3044",
+		"value": "피해 최고급: (반격)"
+	},
+	{
+		"key": "_equip_3045",
+		"value": "피해 초급: (충봉)"
+	},
+	{
+		"key": "_equip_3046",
+		"value": "피해 중급: (충봉)"
+	},
+	{
+		"key": "_equip_3047",
+		"value": "피해 고급: (충봉)"
+	},
+	{
+		"key": "_equip_3048",
+		"value": "피해 최고급: (충봉)"
+	},
+	{
+		"key": "_equip_3049",
+		"value": "피해 초급: (대치)"
+	},
+	{
+		"key": "_equip_3050",
+		"value": "피해 중급: (대치)"
+	},
+	{
+		"key": "_equip_3051",
+		"value": "피해 고급: (대치)"
+	},
+	{
+		"key": "_equip_3052",
+		"value": "피해 최고급: (대치)"
+	},
+	{
+		"key": "_equip_3053",
+		"value": "행운 초급"
+	},
+	{
+		"key": "_equip_3054",
+		"value": "행운 중급"
+	},
+	{
+		"key": "_equip_3055",
+		"value": "행운 고급"
+	},
+	{
+		"key": "_equip_3056",
+		"value": "행운 최고급"
+	},
+	{
+		"key": "_equip_3057",
+		"value": "HP 초급: (척박)"
+	},
+	{
+		"key": "_equip_3058",
+		"value": "HP 중급: (척박)"
+	},
+	{
+		"key": "_equip_3059",
+		"value": "HP 고급: (척박)"
+	},
+	{
+		"key": "_equip_3060",
+		"value": "HP 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3061",
+		"value": "HP 초급: (만족)"
+	},
+	{
+		"key": "_equip_3062",
+		"value": "HP 중급: (만족)"
+	},
+	{
+		"key": "_equip_3063",
+		"value": "HP 고급: (만족)"
+	},
+	{
+		"key": "_equip_3064",
+		"value": "HP 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3065",
+		"value": "HP 초급: (충봉)"
+	},
+	{
+		"key": "_equip_3066",
+		"value": "HP 중급: (충봉)"
+	},
+	{
+		"key": "_equip_3067",
+		"value": "HP 고급: (충봉)"
+	},
+	{
+		"key": "_equip_3068",
+		"value": "HP 최고급: (충봉)"
+	},
+	{
+		"key": "_equip_3069",
+		"value": "HP 초급: (반격)"
+	},
+	{
+		"key": "_equip_3070",
+		"value": "HP 중급: (반격)"
+	},
+	{
+		"key": "_equip_3071",
+		"value": "HP 고급: (반격)"
+	},
+	{
+		"key": "_equip_3072",
+		"value": "HP 최고급: (반격)"
+	},
+	{
+		"key": "_equip_3073",
+		"value": "HP 초급: (대치)"
+	},
+	{
+		"key": "_equip_3074",
+		"value": "HP 중급: (대치)"
+	},
+	{
+		"key": "_equip_3075",
+		"value": "HP 고급: (대치)"
+	},
+	{
+		"key": "_equip_3076",
+		"value": "HP 최고급: (대치)"
+	},
+	{
+		"key": "_equip_3077",
+		"value": "지상 단위 HP 초급: (척박)"
+	},
+	{
+		"key": "_equip_3078",
+		"value": "지상 단위 HP 중급: (척박)"
+	},
+	{
+		"key": "_equip_3079",
+		"value": "지상 단위 HP 고급: (척박)"
+	},
+	{
+		"key": "_equip_3080",
+		"value": "지상 단위 HP 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3081",
+		"value": "지상 단위 HP 초급: (만족)"
+	},
+	{
+		"key": "_equip_3082",
+		"value": "지상 단위 HP 중급: (만족)"
+	},
+	{
+		"key": "_equip_3083",
+		"value": "지상 단위 HP 고급: (만족)"
+	},
+	{
+		"key": "_equip_3084",
+		"value": "지상 단위 HP 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3085",
+		"value": "비행 단위 HP 초급: (척박)"
+	},
+	{
+		"key": "_equip_3086",
+		"value": "비행 단위 HP 중급: (척박)"
+	},
+	{
+		"key": "_equip_3087",
+		"value": "비행 단위 HP 고급: (척박)"
+	},
+	{
+		"key": "_equip_3088",
+		"value": "비행 단위 HP 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3089",
+		"value": "비행 단위 HP 초급: (만족)"
+	},
+	{
+		"key": "_equip_3090",
+		"value": "비행 단위 HP 중급: (만족)"
+	},
+	{
+		"key": "_equip_3091",
+		"value": "비행 단위 HP 고급: (만족)"
+	},
+	{
+		"key": "_equip_3092",
+		"value": "비행 단위 HP 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3093",
+		"value": "건물 HP 초급: (척박)"
+	},
+	{
+		"key": "_equip_3094",
+		"value": "건물 HP 중급: (척박)"
+	},
+	{
+		"key": "_equip_3095",
+		"value": "건물 HP 고급: (척박)"
+	},
+	{
+		"key": "_equip_3096",
+		"value": "건물 HP 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3097",
+		"value": "건물 HP 초급: (만족)"
+	},
+	{
+		"key": "_equip_3098",
+		"value": "건물 HP 중급: (만족)"
+	},
+	{
+		"key": "_equip_3099",
+		"value": "건물 HP 고급: (만족)"
+	},
+	{
+		"key": "_equip_3100",
+		"value": "건물 HP 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3101",
+		"value": "건물 신숙 초급: (척박)"
+	},
+	{
+		"key": "_equip_3102",
+		"value": "건물 신숙 중급: (척박)"
+	},
+	{
+		"key": "_equip_3103",
+		"value": "건물 신숙 고급: (척박)"
+	},
+	{
+		"key": "_equip_3104",
+		"value": "건물 신숙 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3105",
+		"value": "건물 신숙 초급: (만족)"
+	},
+	{
+		"key": "_equip_3106",
+		"value": "건물 신숙 중급: (만족)"
+	},
+	{
+		"key": "_equip_3107",
+		"value": "건물 신숙 고급: (만족)"
+	},
+	{
+		"key": "_equip_3108",
+		"value": "건물 신숙 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3109",
+		"value": "피해 초급: (척박)"
+	},
+	{
+		"key": "_equip_3110",
+		"value": "피해 중급: (척박)"
+	},
+	{
+		"key": "_equip_3111",
+		"value": "피해 고급: (척박)"
+	},
+	{
+		"key": "_equip_3112",
+		"value": "피해 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3113",
+		"value": "신숙 초급: (척박)"
+	},
+	{
+		"key": "_equip_3114",
+		"value": "신숙 중급: (척박)"
+	},
+	{
+		"key": "_equip_3115",
+		"value": "신숙 고급: (척박)"
+	},
+	{
+		"key": "_equip_3116",
+		"value": "신숙 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3117",
+		"value": "피해 초급: (만족)"
+	},
+	{
+		"key": "_equip_3118",
+		"value": "피해 중급: (만족)"
+	},
+	{
+		"key": "_equip_3119",
+		"value": "피해 고급: (만족)"
+	},
+	{
+		"key": "_equip_3120",
+		"value": "피해 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3121",
+		"value": "신숙 초급: (만족)"
+	},
+	{
+		"key": "_equip_3122",
+		"value": "신숙 중급: (만족)"
+	},
+	{
+		"key": "_equip_3123",
+		"value": "신숙 고급: (만족)"
+	},
+	{
+		"key": "_equip_3124",
+		"value": "신숙 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3125",
+		"value": "부식 초급"
+	},
+	{
+		"key": "_equip_3126",
+		"value": "부식 중급"
+	},
+	{
+		"key": "_equip_3127",
+		"value": "부식 고급"
+	},
+	{
+		"key": "_equip_3128",
+		"value": "부식 최고급"
+	},
+	{
+		"key": "_equip_3129",
+		"value": "대지 초급: (척박)"
+	},
+	{
+		"key": "_equip_3130",
+		"value": "대지 중급: (척박)"
+	},
+	{
+		"key": "_equip_3131",
+		"value": "대지 공급: (척박)"
+	},
+	{
+		"key": "_equip_3132",
+		"value": "대지 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3133",
+		"value": "하늘 초급: (척박)"
+	},
+	{
+		"key": "_equip_3134",
+		"value": "하늘 중급: (척박)"
+	},
+	{
+		"key": "_equip_3135",
+		"value": "하늘 고급: (척박)"
+	},
+	{
+		"key": "_equip_3136",
+		"value": "하늘 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3137",
+		"value": "부식 초급: (만족)"
+	},
+	{
+		"key": "_equip_3138",
+		"value": "부식 중급: (만족)"
+	},
+	{
+		"key": "_equip_3139",
+		"value": "부식 고급: (만족)"
+	},
+	{
+		"key": "_equip_3140",
+		"value": "부식 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3141",
+		"value": "대지 초급: (만족)"
+	},
+	{
+		"key": "_equip_3142",
+		"value": "대지 중급: (만족)"
+	},
+	{
+		"key": "_equip_3143",
+		"value": "대지 공급: (만족)"
+	},
+	{
+		"key": "_equip_3144",
+		"value": "대지 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3145",
+		"value": "하늘 초급: (만족)"
+	},
+	{
+		"key": "_equip_3146",
+		"value": "하늘 중급: (만족)"
+	},
+	{
+		"key": "_equip_3147",
+		"value": "하늘 고급: (만족)"
+	},
+	{
+		"key": "_equip_3148",
+		"value": "하늘 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3149",
+		"value": "지상 단위 신숙 초급: (척박)"
+	},
+	{
+		"key": "_equip_3150",
+		"value": "지상 단위 신숙 중급: (척박)"
+	},
+	{
+		"key": "_equip_3151",
+		"value": "지상 단위 신숙 고급: (척박)"
+	},
+	{
+		"key": "_equip_3152",
+		"value": "지상 단위 신숙 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3153",
+		"value": "비행 단위 신숙 초급: (척박)"
+	},
+	{
+		"key": "_equip_3154",
+		"value": "비행 단위 신숙 중급: (척박)"
+	},
+	{
+		"key": "_equip_3155",
+		"value": "비행 단위 신숙 고급: (척박)"
+	},
+	{
+		"key": "_equip_3156",
+		"value": "비행 단위 신숙 최고급: (척박)"
+	},
+	{
+		"key": "_equip_3157",
+		"value": "지상 단위 신숙 초급: (만족)"
+	},
+	{
+		"key": "_equip_3158",
+		"value": "지상 단위 신숙 중급: (만족)"
+	},
+	{
+		"key": "_equip_3159",
+		"value": "지상 단위 신숙 고급: (만족)"
+	},
+	{
+		"key": "_equip_3160",
+		"value": "지상 단위 신숙 최고급: (만족)"
+	},
+	{
+		"key": "_equip_3161",
+		"value": "비행 단위 신숙 초급: (만족)"
+	},
+	{
+		"key": "_equip_3162",
+		"value": "비행 단위 신숙 중급: (만족)"
+	},
+	{
+		"key": "_equip_3163",
+		"value": "비행 단위 신숙 고급: (만족)"
+	},
+	{
+		"key": "_equip_3164",
+		"value": "비행 단위 신숙 최고급: (만족)"
+	},
+	{
+		"key": "_born_1",
+		"value": "거인 아이랜드"
+	},
+	{
+		"key": "_born_2",
+		"value": "애쉬 사막"
+	},
+	{
+		"key": "_born_3",
+		"value": "꽃의 숲"
+	},
+	{
+		"key": "_born_4",
+		"value": "웰스 플레인"
+	},
+	{
+		"key": "_born_5",
+		"value": "강철의 도시"
+	},
+	{
+		"key": "_born_6",
+		"value": "시초룡 아이랜드"
+	},
+	{
+		"key": "_born_7",
+		"value": "프리지드 아일랜드"
+	},
+	{
+		"key": "_born_8",
+		"value": "망자 대륙"
+	},
+	{
+		"key": "_born_9",
+		"value": "검은 모래"
+	},
+	{
+		"key": "_born_10",
+		"value": "다크문 성"
+	},
+	{
+		"key": "_job_1",
+		"value": "단조"
+	},
+	{
+		"key": "_job_2",
+		"value": "재봉"
+	},
+	{
+		"key": "_job_3",
+		"value": "채광"
+	},
+	{
+		"key": "_job_4",
+		"value": "공정"
+	},
+	{
+		"key": "_job_5",
+		"value": "초약"
+	},
+	{
+		"key": "_job_6",
+		"value": "낚시"
+	},
+	{
+		"key": "_job_7",
+		"value": "요리"
+	},
+	{
+		"key": "_job_8",
+		"value": "요술을 걸음"
+	},
+	{
+		"key": "_job_9",
+		"value": "보석"
+	},
+	{
+		"key": "_job_10",
+		"value": "연금술"
+	},
+	{
+		"key": "_job_11",
+		"value": "HP"
+	},
+	{
+		"key": "_job_12",
+		"value": "DEMAGE"
+	},
+	{
+		"key": "_job_13",
+		"value": "스킬 DEMAGE"
+	},
+	{
+		"key": "_job_14",
+		"value": "시킬 효과"
+	},
+	{
+		"key": "_job_15",
+		"value": "준비시간"
+	},
+	{
+		"key": "_job_16",
+		"value": "이동속도"
+	},
+	{
+		"key": "_job_17",
+		"value": "단위 수량"
+	},
+	{
+		"key": "_job_18",
+		"value": "공격 범위위:"
+	},
+	{
+		"key": "_job_19",
+		"value": "공격 간격"
+	},
+	{
+		"key": "_job_20",
+		"value": "목표 유형"
+	},
+	{
+		"key": "_job_21",
+		"value": "생존 시간"
+	},
+	{
+		"key": "_job_22",
+		"value": "직업"
+	},
+	{
+		"key": "_job_22",
+		"value": "직업"
+	},
+	{
+		"key": "_job_23",
+		"value": "범위 피해"
+	},
+	{
+		"key": "_job_24",
+		"value": "대 건물 피해"
+	},
+	{
+		"key": "_nft_1",
+		"value": "제국 전사"
+	},
+	{
+		"key": "_nft_2",
+		"value": "정령 사수"
+	},
+	{
+		"key": "_nft_3",
+		"value": "가고일"
+	},
+	{
+		"key": "_nft_4",
+		"value": "고역"
+	},
+	{
+		"key": "_nft_5",
+		"value": "공성 거인"
+	},
+	{
+		"key": "_nft_6",
+		"value": "총병"
+	},
+	{
+		"key": "_nft_7",
+		"value": "수확기"
+	},
+	{
+		"key": "_nft_8",
+		"value": "오크 슬링어"
+	},
+	{
+		"key": "_nft_9",
+		"value": "망령 그룹"
+	},
+	{
+		"key": "_nft_10",
+		"value": "척탄병"
+	},
+	{
+		"key": "_nft_11",
+		"value": "중망치병"
+	},
+	{
+		"key": "_nft_12",
+		"value": "비행 수확기"
+	},
+	{
+		"key": "_nft_13",
+		"value": "아기 화룡"
+	},
+	{
+		"key": "_nft_14",
+		"value": "오크 공성차"
+	},
+	{
+		"key": "_nft_15",
+		"value": "망령 비룡"
+	},
+	{
+		"key": "_nft_16",
+		"value": "불의 마법사"
+	},
+	{
+		"key": "_nft_17",
+		"value": "거대한 수확기"
+	},
+	{
+		"key": "_nft_18",
+		"value": "늑대 기사"
+	},
+	{
+		"key": "_nft_19",
+		"value": "망령 마법사"
+	},
+	{
+		"key": "_nft_20",
+		"value": "비룡 기사"
+	},
+	{
+		"key": "_nft_21",
+		"value": "건물 폭격기"
+	},
+	{
+		"key": "_nft_22",
+		"value": "제국 기사"
+	},
+	{
+		"key": "_nft_23",
+		"value": "망령 기사"
+	},
+	{
+		"key": "_nft_24",
+		"value": "자푹 로봇"
+	},
+	{
+		"key": "_nft_25",
+		"value": "망령 군단"
+	},
+	{
+		"key": "_nft_26",
+		"value": "해골 사수"
+	},
+	{
+		"key": "_nft_27",
+		"value": "오크 광전사"
+	},
+	{
+		"key": "_nft_28",
+		"value": "고역 폭탄"
+	},
+	{
+		"key": "_nft_29",
+		"value": "오크 도끼"
+	},
+	{
+		"key": "_nft_30",
+		"value": "망령 묘지"
+	},
+	{
+		"key": "_nft_31",
+		"value": "마법 타워"
+	},
+	{
+		"key": "_nft_32",
+		"value": "기관청 타워"
+	},
+	{
+		"key": "_nft_33",
+		"value": "고역 숙영지"
+	},
+	{
+		"key": "_nft_34",
+		"value": "제국 병영"
+	},
+	{
+		"key": "_nft_35",
+		"value": "화살비"
+	},
+	{
+		"key": "_nft_36",
+		"value": "화구 마법"
+	},
+	{
+		"key": "_nft_37",
+		"value": "벼락 마법"
+	},
+	{
+		"key": "_nft_38",
+		"value": "지진해일"
+	},
+	{
+		"key": "_nft_39",
+		"value": "스노볼 마법"
+	},
+	{
+		"key": "_nft_40",
+		"value": "프로즌 노바"
+	},
+	{
+		"key": "_nft_41",
+		"value": "무기"
+	},
+	{
+		"key": "_nft_42",
+		"value": "방패"
+	},
+	{
+		"key": "_nft_43",
+		"value": "부속품"
+	},
+	{
+		"key": "_nft_44",
+		"value": "왕권"
+	},
+	{
+		"key": "_nft_45",
+		"value": "둥근 방패"
+	},
+	{
+		"key": "_nft_46",
+		"value": "경량 방패"
+	},
+	{
+		"key": "_nft_47",
+		"value": "중량 방패"
+	},
+	{
+		"key": "_nft_48",
+		"value": "마법 방패"
+	},
+	{
+		"key": "_nft_49",
+		"value": "마스크"
+	},
+	{
+		"key": "_nft_50",
+		"value": "보안경"
+	},
+	{
+		"key": "_nft_51",
+		"value": "왕관"
+	},
+	{
+		"key": "_nft_52",
+		"value": "권력 요대"
+	},
+	{
+		"key": "_nft_53",
+		"value": "행운 카드 블라인드 상자"
+	},
+	{
+		"key": "_nft_54",
+		"value": "아이템 블라인드 상자"
+	},
+	{
+		"key": "_nft_55",
+		"value": "서프라이즈 보물 상자"
+	},
+	{
+		"key": "_nft_56",
+		"value": "정화석"
+	},
+	{
+		"key": "_nft_57",
+		"value": "재련석"
+	},
+	{
+		"key": "_nft_58",
+		"value": "행운석"
+	},
+	{
+		"key": "_nft_59",
+		"value": "기억상실초"
+	},
+	{
+		"key": "_nft_60",
+		"value": "눈부신 풀"
+	},
+	{
+		"key": "_nft_61",
+		"value": "각성석"
+	},
+	{
+		"key": "_nft_62",
+		"value": "군 칠명조"
+	},
+	{
+		"key": "_nft_63",
+		"value": "숫돌돌 부족"
+	},
+	{
+		"key": "_nft_64",
+		"value": "정제석"
+	},
+	{
+		"key": "_nft_65",
+		"value": "각성 풀"
+	},
+	{
+		"key": "_nft_66",
+		"value": "이모티콘"
+	},
+	{
+		"key": "_nft_67",
+		"value": "Degen 홈 우선 체험권"
+	},
+	{
+		"key": "_nft_1001",
+		"value": "아이템 기능에서 사용할 수 있습니다. 아이템 숙성 중의 나하가 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1002",
+		"value": "아이템 기능에서 사용할 수 있습니다. 아이템 모든 숙성과 수치는 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1003",
+		"value": "아이템 합성할 때 사용할 수 있습니다. 합성 후 희귀 아이템 획득 확률을 높일 수 있습니다."
+	},
+	{
+		"key": "_nft_1004",
+		"value": "카드 기능에서 사용할 수 있습니다. 카드의 모든 성격을 완전히 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1005",
+		"value": "카드 기능에서 사용할 수 있습니다. 카드 성격 종류 중의 하나가 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1006",
+		"value": "카드가 10 레벨로 업데이드의 필수 도구입니다."
+	},
+	{
+		"key": "_nft_1007",
+		"value": "카드 체력을 회복하는 필수 식물입니다."
+	},
+	{
+		"key": "_nft_1008",
+		"value": "아이템 내구도를 수리하는 소모품 도구입니다."
+	},
+	{
+		"key": "_nft_1009",
+		"value": "열면 무작위로 카드 1장 획득할 수 있습니다."
+	},
+	{
+		"key": "_nft_1010",
+		"value": "아이템 기능에서 사용할 수 있습니다. 아이템 숙성 중의 나하가 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1011",
+		"value": "카드 기능에서 사용할 수 있습니다. 카드 성격 종류 중의 하나가 무작위 작업을 진행합니다. "
+	},
+	{
+		"key": "_nft_1012",
+		"value": "이모티콘 선물 세트"
+	},
+	{
+		"key": "_nft_1013",
+		"value": "Degen 홈 우선 체험권"
+	},
+	{
+		"key": "map_name_1",
+		"value": "미스터리 포레스트"
+	},
+	{
+		"key": "map_name_2",
+		"value": "유령 도시"
+	},
+	{
+		"key": "map_name_3",
+		"value": "화산"
+	},
+	{
+		"key": "map_name_4",
+		"value": "강철의 도시"
+	},
+	{
+		"key": "map_name_5",
+		"value": "뼈의 심연"
+	},
+	{
+		"key": "_mail_t_1",
+		"value": "행운 블라인드 상자 오픈"
+	},
+	{
+		"key": "_mail_text_1_1",
+		"value": "프레이어님이 행운 블라인드 상자을 열어보니 <on click=\"handler\"> %{cn}</on> 획득했습니다."
+	},
+	{
+		"key": "_mail_text_1_2",
+		"value": "프레이어님이 행운 불아인드 상자를 오픈할 때 실패했습니다. 다시 한번 시도해 보세요."
+	},
+	{
+		"key": "_mail_t_2",
+		"value": "카드 블라인드 상자 구매"
+	},
+	{
+		"key": "_mail_text_2_1",
+		"value": "프레이어님이 카드 블라인드 상자를 구매해서 <on click=\"handler\">  %{cn}</on> 카드를 획득했습니다."
+	},
+	{
+		"key": "_mail_text_2_2",
+		"value": "프레이어님이 카드 블라인드 상자를 구매 실패했습니다."
+	},
+	{
+		"key": "_mail_t_3",
+		"value": "아이템 블라인드 상자 구매"
+	},
+	{
+		"key": "_mail_text_3_1",
+		"value": "프레이어님이 아이템 블라인드 상자를 구매해서 <on click=\"handler\">  %{cn}</on> 아이템을 획득했습니다."
+	},
+	{
+		"key": "_mail_text_3_2",
+		"value": "프레이어님이 아이템 블라인드 상자를 구매 실패했습니다."
+	},
+	{
+		"key": "_mail_t_4",
+		"value": "행운 블라인드 상자 오픈"
+	},
+	{
+		"key": "_mail_text_4_1",
+		"value": "프레이어님이 행운 블라이드 상자를 오픈해서  %{in1}도구 %{in2}를 획득했습니다."
+	},
+	{
+		"key": "_mail_text_4_2",
+		"value": "프레이어님이 카드 블라인드 상자를 오픈 실패했습니다."
+	},
+	{
+		"key": "_mail_t_5",
+		"value": "카드 업데이트"
+	},
+	{
+		"key": "_mail_text_5_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드가 업데이트 성공했습니다.총  %{cnt}장 카드를 소비했습니다."
+	},
+	{
+		"key": "_mail_text_5_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드가 업데이트 실패했습닏."
+	},
+	{
+		"key": "_mail_t_6",
+		"value": "아이템 합성"
+	},
+	{
+		"key": "_mail_text_6_1",
+		"value": "프레이어님의 아이템 합성 성공했습니다. %{en1} 아이템과 %{en2}아이템,그리고 %{lnt}개 행운석을 소비했으며 새로운 아이템<on click=\"handler\"> %{en3}</on>를 획득했습니다."
+	},
+	{
+		"key": "_mail_text_6_2",
+		"value": "프레이어님의<on click=\"handler\"> %{en1}}</on>아이템과 <on click=\"handler\"> %{en2}</on>아이템이 합성 실패했습니다."
+	},
+	{
+		"key": "_mail_t_7",
+		"value": "아이템 회수"
+	},
+	{
+		"key": "_mail_text_7_1",
+		"value": "프레이어님의 아이템 화수 성공했습니다. %{en}아이템을 소비해서 골드 %{金幣_Wei}를 획득했습니다."
+	},
+	{
+		"key": "_mail_text_7_2",
+		"value": "프레이어님의 아이템<on click=\"handler\"> %{en}</on> 회수 실패했습니다."
+	},
+	{
+		"key": "_mail_t_8",
+		"value": "체력 회복"
+	},
+	{
+		"key": "_mail_text_8_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드가 체력회복 성공했습니다.총  %{rnt}개 체력 도구를 소비했습니다."
+	},
+	{
+		"key": "_mail_text_8_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드가 체력회복 실패했습니다."
+	},
+	{
+		"key": "_mail_text_8_3",
+		"value": "프레이어님의 덱 체력 회복 성공했습니다. 총  %{rnt}개 체력 도구를 소비했습니다."
+	},
+	{
+		"key": "_mail_text_8_4",
+		"value": "프레이어님의 덱 체력 회복 실패했습니다."
+	},
+	{
+		"key": "_mail_t_9",
+		"value": "아이템 수리"
+	},
+	{
+		"key": "_mail_text_9_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>아이템 내구도 수리 성공했습니다. 총  %{knt}개 수리 도구를 소비했습니다."
+	},
+	{
+		"key": "_mail_text_9_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>아이템 내구도 수리 실패했습니다."
+	},
+	{
+		"key": "_mail_text_9_3",
+		"value": "프레이어님의 아이템 내구도 수리 성공했습니다. 총 %{rnt}개 수리 도구를 소비했습니다."
+	},
+	{
+		"key": "_mail_text_9_4",
+		"value": "프레이어님의 아이템 내구도 수리 실패했습니다. "
+	},
+	{
+		"key": "_mail_t_10",
+		"value": "카드 재련"
+	},
+	{
+		"key": "_mail_text_10_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드 재련 성공했습니다."
+	},
+	{
+		"key": "_mail_text_10_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드 재련 실패했습니다."
+	},
+	{
+		"key": "_mail_t_11",
+		"value": "카드 정화"
+	},
+	{
+		"key": "_mail_text_11_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{cn}</on>카드 정화 성공했습니다."
+	},
+	{
+		"key": "_mail_text_11_2",
+		"value": "프레이어님의 %{cn}카드 정화 실패했습니다."
+	},
+	{
+		"key": "_mail_t_12",
+		"value": "아이템 제련"
+	},
+	{
+		"key": "_mail_text_12_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>아이템 재련 성공했습니다."
+	},
+	{
+		"key": "_mail_text_12_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>아이템 재련 실패했습니다."
+	},
+	{
+		"key": "_mail_t_13",
+		"value": "아이템  정화"
+	},
+	{
+		"key": "_mail_text_13_1",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>아이템 정화 성공했습니다."
+	},
+	{
+		"key": "_mail_text_13_2",
+		"value": "프레이어님의 <on click=\"handler\"> %{en}</on>카드 정화 성공했습니다."
+	},
+	{
+		"key": "_mail_t_14",
+		"value": "화폐 인출"
+	},
+	{
+		"key": "_mail_text_14_1",
+		"value": "프레이어님의 골드 %{金幣2_Wei} 인출 성공했습니다."
+	},
+	{
+		"key": "_mail_text_14_2",
+		"value": "프레이어님의 골드 %{金幣2_Wei} 인출 실패했습니다."
+	},
+	{
+		"key": "_mail_t_15",
+		"value": "물픔 상장"
+	},
+	{
+		"key": "_mail_text_15_1",
+		"value": "프레이어님이 시장에서  %{in1}도구  %{in2}개 상장 성공했습니다."
+	},
+	{
+		"key": "_mail_text_15_2",
+		"value": "프레이어님이 시장에서  %{in1}도구  %{in2}개 상장 실패했습니다."
+	},
+	{
+		"key": "_mail_text_15_3",
+		"value": "프레이어님이 시장에서  %{en}아이템을 상장 성공했습니다."
+	},
+	{
+		"key": "_mail_text_15_4",
+		"value": "프레이어님이 시장에서  %{en}아이템을 상장 실패했습니다."
+	},
+	{
+		"key": "_mail_text_15_5",
+		"value": "프레이어님이 시장에서 %{cn}카드를 상장 성공했습니다."
+	},
+	{
+		"key": "_mail_text_15_6",
+		"value": "프레이어님이 시장에서 %{cn}카드를 상장 성공했습니다."
+	},
+	{
+		"key": "_mail_t_16",
+		"value": "시장 구매"
+	},
+	{
+		"key": "_mail_text_16_1",
+		"value": "프레이어님이 시장에서  %{in1}도구  %{in2}개 구매 성공했습니다."
+	},
+	{
+		"key": "_mail_text_16_2",
+		"value": "프레이어님이 시장에서  %{in1}도구  %{in2}개 구매 실패했습니다."
+	},
+	{
+		"key": "_mail_text_16_3",
+		"value": "프레이어님이 시장에서  %{en}아이템을 구매 성공했습니다."
+	},
+	{
+		"key": "_mail_text_16_4",
+		"value": "프레이어님이 시장에서  %{en}아이템을 구매 실패했습니다."
+	},
+	{
+		"key": "_mail_text_16_5",
+		"value": "프레이어님이 시장에서 %{cn}카드를 구매 성공했습니다."
+	},
+	{
+		"key": "_mail_text_16_6",
+		"value": "프레이어님이 시장에서 %{cn}카드를 구매 실패했습니다."
+	},
+	{
+		"key": "_mail_t_17",
+		"value": "시장 임대"
+	},
+	{
+		"key": "_mail_text_17_1",
+		"value": "프레이어님이 시장에서 %{cn}카드 %{day}일 임대 성공했습니다."
+	},
+	{
+		"key": "_mail_text_17_2",
+		"value": "프레이어님이 시장에서 %{cn}카드 %{day}일 임대 실패했습니다."
+	},
+	{
+		"key": "_mail_text_17_3",
+		"value": "프레이어님이 시장에서 임대하신 %{cn}카드가 만료됐습니다."
+	},
+	{
+		"key": "_mail_t_18",
+		"value": "NFT 이전"
+	},
+	{
+		"key": "_mail_text_18_1",
+		"value": "프레이어님의 %{currency}화폐 %{cnt_Wei}가 지갑 %{wallet}으로 이전하는 것이 성공했습니다."
+	},
+	{
+		"key": "_mail_text_18_2",
+		"value": "프레이어님의 %{currency}화폐 %{cnt_Wei}가 지갑 %{wallet}으로 이전하는 것이 실패했습니다."
+	},
+	{
+		"key": "_mail_t_19",
+		"value": "화폐 교환"
+	},
+	{
+		"key": "_mail_text_19_1",
+		"value": "프레이어님이 ETH화퍠가  %{dgg1_Wei} %{dgg2}로 교환하는 것이 성공했습니다."
+	},
+	{
+		"key": "_mail_text_19_2",
+		"value": "프레이어님이 ETH화퍠가  %{dgg1_Wei} %{dgg2}로 교환하는 것이 실패했습니다."
+	},
+	{
+		"key": "_mail_t_20",
+		"value": "천구 추가"
+	},
+	{
+		"key": "_mail_text_20_1",
+		"value": "프레이어님이 %{name}에게 보낸 친구 추가 신청이 통과됐습니다."
+	},
+	{
+		"key": "_mail_text_20_2",
+		"value": "프레이어님이 %{name}에게 보낸 친구 추가 신청이 거부됐습니다."
+	},
+	{
+		"key": "_mail_t_21",
+		"value": "친구 삭제"
+	},
+	{
+		"key": "_mail_text_21_1",
+		"value": "프레이어님의 친구 %{name}가 친구 리스트에서 삭제하실 겁니까? 친구 리스트에서 다시 못 만날 겁니다."
+	},
+	{
+		"key": "_mail_text_21_2",
+		"value": "프레이어님의 친구 %{name}가 친구 리스트에서 삭제했습니다. 친구 리스테에서 못 만날 겁니다."
+	},
+	{
+		"key": "_mail_t_22",
+		"value": "친구 지원 수익"
+	},
+	{
+		"key": "_mail_text_22_1",
+		"value": "프레이어님의 친구 %{name}기 PVE도전에서 프레이어님의 <on click=\"handler\"> %{cn}</on>카드를 사용했습니다. 프레이어님이  %{金幣_Wei}골드의 수익을 얻었습니다."
+	},
+	{
+		"key": "_mail_t_23",
+		"value": "초대 코드 획득"
+	},
+	{
+		"key": "_mail_text_23_1",
+		"value": "초대 코드 %{invitation} 획득했습니다.게임에 가입하지 않은 친구들에게 공유해 보세요!"
+	},
+	{
+		"key": "_mail_text_23_2",
+		"value": "초대 코드 %{invitation} 사용하지 않았습니다. 새로운 초대 코드를 획득할 수 없습니다.게임에 가입하지 않은 친구들에게 공유해 보세요!"
+	},
+	{
+		"key": "_mail_t_24",
+		"value": "초대 코드가 사요됐습니다."
+	},
+	{
+		"key": "_mail_text_24_1",
+		"value": "프레이오님의 %{invitation} 초대 코드는  %{name}님이 사용했습니다."
+	},
+	{
+		"key": "_mail_t_25",
+		"value": "초대 코드 포인트"
+	},
+	{
+		"key": "_mail_text_25_1",
+		"value": "프레이어님이 초대하는 친구 %{name}이  %{do}행위로 프레이어님이 포인트 %{integral} 적립됐습니다."
+	},
+	{
+		"key": "_attr_4001",
+		"value": "단일 속성"
+	},
+	{
+		"key": "_attr_4002",
+		"value": "2-스탯 업"
+	},
+	{
+		"key": "_attr_4003",
+		"value": "2-스탯 혼합"
+	},
+	{
+		"key": "_attr_4004",
+		"value": "만족"
+	},
+	{
+		"key": "_attr_4005",
+		"value": "반격"
+	},
+	{
+		"key": "_attr_4006",
+		"value": "척박"
+	},
+	{
+		"key": "_attr_4007",
+		"value": "충봉"
+	},
+	{
+		"key": "_attr_10001",
+		"value": "HP"
+	},
+	{
+		"key": "_attr_10002",
+		"value": "이동 속도"
+	},
+	{
+		"key": "_attr_10003",
+		"value": "등장 시간"
+	},
+	{
+		"key": "_attr_10004",
+		"value": "대 공"
+	},
+	{
+		"key": "_attr_10005",
+		"value": "대 건물"
+	},
+	{
+		"key": "_attr_10006",
+		"value": "대 지상"
+	},
+	{
+		"key": "_attr_10007",
+		"value": "피해"
+	},
+	{
+		"key": "_attr_10008",
+		"value": "공격 속도"
+	},
+	{
+		"key": "_attr_10009",
+		"value": "내구도"
+	},
+	{
+		"key": "_pve_1001",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1002",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1003",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1004",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1005",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1006",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1007",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1008",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1009",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1010",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1011",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1012",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1013",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1014",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1015",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1016",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1017",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1018",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1019",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1020",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1021",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1022",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1023",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1024",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1025",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1026",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1027",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1028",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1029",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1030",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_2001",
+		"value": "유령이 가득한 마을.\n(승리조건 : 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2002",
+		"value": "뼈가 묻혀 있는 고대의 전장.\n(승리조건 : 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2003",
+		"value": "버텨라! 적의 공격을 막는 것이 승리입니다..\n(승리조건 : 아군 킹 타워를 지킨다.)"
+	},
+	{
+		"key": "_pve_2004",
+		"value": "공격하라! 그렇지 않으면 절박한 곤경에 직면할 것이다.\n(승리조건 : 적군 킹 타워를 파괴한다.)"
+	},
+	{
+		"key": "_pve_2005",
+		"value": "강철과 볼트의 성에서 싸우십시오.\n(승리조건 : 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2006",
+		"value": "무서운 마을에서 적의 공격을 막아내세요.\n(승리조건 : 적군 킹 타워를 파괴한다.)"
+	},
+	{
+		"key": "_pve_2007",
+		"value": "뼈가 묻혀 있는 고대의 전장.\n(승리조건 : 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2008",
+		"value": "당신은 그린우드에서 적들을 매복시켰습니다. 그들을 멸망하세요!\n(승리 조건 : 아군 킹 타워를 지킨다.)"
+	},
+	{
+		"key": "_pve_2009",
+		"value": "지옥의 용암에서.\n(승리 조건: 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2010",
+		"value": "강철과 볼트의 성에서 싸우십시오.\n(승리조건 : 남아있는 탑이 상대보다 더 많다)"
+	},
+	{
+		"key": "_pve_2011",
+		"value": "황사폭풍에 적에게 전멸당하지 않도록.\n(승리 조건 : 아군 킹 타워를 지킨다.)"
+	},
+	{
+		"key": "_pve_2012",
+		"value": "철과 번개의 철성은 적의 무덤이다.\n(승리조건 : 적군 킹 타워를 파괴한다.)"
+	},
+	{
+		"key": "blind_box_buy_tips3",
+		"value": "Gas:%{gas}를 소비해서 서프라이즈 보물 상자를 여시겠습니까?  골드을 얻게 되면 GAS 소비하지 않습니다."
+	},
+	{
+		"key": "blind_box_buy_tips4",
+		"value": " %{num1} ETH 소비해서 %{num2}개 보물 상자를 오픈하는 것이 확인합니까?"
+	},
+	{
+		"key": "fighting_summon_chest",
+		"value": "보물 상자 소환"
+	},
+	{
+		"key": "fighting_surprise_chest",
+		"value": "서프라이즈 보물 상자"
+	},
+	{
+		"key": "fighting_not_open_chest",
+		"value": "곧 출시"
+	},
+	{
+		"key": "friend_explain_3",
+		"value": "현재 친구 추가 신청 없습니다."
+	},
+	{
+		"key": "friend_title_name",
+		"value": "ID :%{name}"
+	},
+	{
+		"key": "friend_btn_delete",
+		"value": "삭제"
+	},
+	{
+		"key": "friend_btn_cutup",
+		"value": "탁마"
+	},
+	{
+		"key": "friend_btn_copy",
+		"value": "복사"
+	},
+	{
+		"key": "friend_btn_modify",
+		"value": "수정"
+	},
+	{
+		"key": "friend_btn_exchange",
+		"value": "교환"
+	},
+	{
+		"key": "friend_title_7",
+		"value": "누적 포인트"
+	},
+	{
+		"key": "friend_title_8",
+		"value": "이번주 포인트"
+	},
+	{
+		"key": "friend_title_9",
+		"value": "포인트:%{num}"
+	},
+	{
+		"key": "fighting_points_chest",
+		"value": "포인트 보물 상자"
+	},
+	{
+		"key": "no_points_box",
+		"value": "포인트 %{num} 포인트가 부족하여 포인트 보물 상자를 열 수 없습니다."
+	},
+	{
+		"key": "blind_box_buy_tips5",
+		"value": "포인트%{points}와 Gas:%{gas}를 소비해서 포인트 보물 상자를 여시겠습니까?  골드을 얻게 되면 GAS 소비하지 않습니다."
+	},
+	{
+		"key": "pvp_battle_tip_power",
+		"value": "카드 체력 부족합니다. 전투에서 보상이 주어지지 않습니다.."
+	},
+	{
+		"key": "common_time_out",
+		"value": "요청 시간 초과"
+	},
+	{
+		"key": "tip_composute",
+		"value": "업그레이드 소비"
+	},
+	{
+		"key": "common_pull_to_refresh",
+		"value": "스와이프하여 데이터 가져오기"
+	},
+	{
+		"key": "tip_title_merge",
+		"value": "아이템 합성"
+	},
+	{
+		"key": "wallet_dna_day",
+		"value": "ETH/Day"
+	},
+	{
+		"key": "market_serach_def",
+		"value": "번호 입력"
+	},
+	{
+		"key": "equip",
+		"value": "아이템"
+	},
+	{
+		"key": "wallet_btn_date",
+		"value": "%{hour}시간"
+	},
+	{
+		"key": "battle_pve_succ",
+		"value": "완료"
+	},
+	{
+		"key": "battle_pve_fail",
+		"value": "미 완료"
+	},
+	{
+		"key": "card_type_by_pve_power",
+		"value": "사용 가능 순서"
+	},
+	{
+		"key": "terms_server_desc",
+		"value": "DYOR(Do Your Own Research)는 블록체인 투자를 논의할 때 자주 듣는 주제입니다. 분산형 금융에 투자할 때 위험 관리는 중요한 핵심입니다.\n바이낸스 아카데미는 다음과 같이 잘 설명합니다: \"DYOR는 암호화폐에 대해 잘 모르는 투자자의 수를 줄이는 것을 목표로 합니다. 투자하기 전에 암호화폐를 연구하고 이해하도록 권장하여 암호화폐를 구입하고 프로젝트를 지원한 이유에 대해 정확히 답할 수 있도록 합니다. 이 용어는 종종 다음과 같이 사용됩니다. 암호 화폐 거래자와 애호가가 공개 게시물을 작성하거나 소셜 미디어 플랫폼에서 시장 분석을 공유할 때 면책 조항입니다.\nDegen Games는 전략 게임의 이점과 몰입형 게임 환경을 결합한 매력적이고 재미있는 GameFi 경험을 만드는 데 전념하고 있습니다\n우리는 이것이 독특하고 재미있고 매력적인 경험을 제공한다고 생각합니다. 우리는 장기적입니다. 그리고 우리가 자랑스러워할 수 있는 게임을 만드는 것을 목표로 합니다. 우리는 이 가치가 토큰의 가치에 반영되기를 원하지만 우리가 통제할 수 없는 많은 요소가 있기 때문에 토큰의 가격에 대해 어떠한 보장도 할 수 없습니다.\n잃을 수 있는 것 이상으로 투자하지 마십시오. 투자에 대한 책임은 귀하에게 있습니다. Degen Games는 토큰 가격의 손실이나 변동, 스마트 계약 오류 또는 악용으로 인한 자금 손실에 대해 책임을 지지 않습니다."
+	},
+	{
+		"key": "wallet_btn_qrcode",
+		"value": "QR 코드"
+	},
+	{
+		"key": "wallet_btn_refresh",
+		"value": "새로 고침"
+	},
+	{
+		"key": "display_card",
+		"value": "사용 중 표시"
+	},
+	{
+		"key": "save_account",
+		"value": "비밀번호 유지"
+	},
+	{
+		"key": "tip_not_remind",
+		"value": "오늘 다시 보지 않기"
+	},
+	{
+		"key": "blind_btn_to_deck",
+		"value": "덱에 추가"
+	},
+	{
+		"key": "share_desc1",
+		"value": "<outline color=black width=2><color=#ffffff>%{date}프레이어님[%{name}]</color><color=#77f349>블라인드 상자를 처음으로 오픈합나다.</color>,프레이어님은 <color=#77f349>%{num}</color>다이아몬드.</outline>"
+	},
+	{
+		"key": "share_desc2",
+		"value": "<outline color=black width=2><color=#ffffff>%{date}프레이어님[%{name}]</color><color=#77f349>블라인드 상자를 오픈합나다.</color>,프레이어님은 <color=#77f349>%{num}</color>다이아몬드.</outline>"
+	},
+	{
+		"key": "need_bind_account",
+		"value": "2차 바인딩 진행하실 겁니까?"
+	},
+	{
+		"key": "need_bind_account_skip",
+		"value": "넘아가기"
+	},
+	{
+		"key": "need_bind_account_continue",
+		"value": "계속"
+	},
+	{
+		"key": "share_title_code",
+		"value": "내 초대 코드"
+	},
+	{
+		"key": "share_title_code1",
+		"value": "내 추천인"
+	},
+	{
+		"key": "friend_battle_invite",
+		"value": "프레이어님의 친구 [%{name}]님이 프레이어를 콘테스트에 초대했습니다. 동의하십니까?"
+	},
+	{
+		"key": "friend_battle_invite_wait",
+		"value": "친구 [%{name}]의 동의를 기다리는 중…"
+	},
+	{
+		"key": "friend_battle_edit",
+		"value": "팁: 덱 편집으로 이동하십시오."
+	},
+	{
+		"key": "friend_btn_agree",
+		"value": "동의"
+	},
+	{
+		"key": "friend_tips_limit",
+		"value": "닉네임의 첫 글자는 영문자 또는 한자여야 합니다."
+	},
+	{
+		"key": "cardsys_btn_baptize",
+		"value": "정화"
+	},
+	{
+		"key": "cardsys_btn_items",
+		"value": "정제"
+	},
+	{
+		"key": "tip_prop_content2",
+		"value": "%{prop}를 소비해서 %{name}카드에 대해서 정화하시겠습니까?"
+	},
+	{
+		"key": "tip_prop_content3",
+		"value": "%{prop}를 소비해서 %{name}카드에 대해서 정제하시겠습니까?"
+	},
+	{
+		"key": "equipment_btn_refine",
+		"value": "정화"
+	},
+	{
+		"key": "tip_gas_err",
+		"value": "GAS 비용 획득 실패"
+	},
+	{
+		"key": "tip_equip_prop_content3",
+		"value": "%{prop}를 소비해서 %{name}아이템에 대해서 정제하시겠습니까?"
+	},
+	{
+		"key": "friend_battle_refuse",
+		"value": "탁마 거부"
+	},
+	{
+		"key": "friend_battle_agree",
+		"value": "탁마 동의"
+	},
+	{
+		"key": "friend_battle_timeout",
+		"value": "탁마 시간 초과"
+	},
+	{
+		"key": "friend_battle_cancel",
+		"value": "탁마 취소"
+	},
+	{
+		"key": "tip_empty_group",
+		"value": "빈 덱가 없습니다."
+	},
+	{
+		"key": "share_btn_copy_code",
+		"value": "초대 코드 복사"
+	},
+	{
+		"key": "friend_desc_search",
+		"value": "새로 등록한 사용자와 닉네임을 수정한 사용자가 친구를 추가하는 데 걸리는 시간은 5분입니다."
+	},
+	{
+		"key": "CodeDeliveryFailureException",
+		"value": "인증 코드 전송 실패"
+	},
+	{
+		"key": "ForbiddenException",
+		"value": "사용자 시스템에 대한 액세스가 금지됩니다."
+	},
+	{
+		"key": "InternalErrorException",
+		"value": "내부 오류"
+	},
+	{
+		"key": "InvalidEmailRoleAccessPolicyException",
+		"value": "이 이메일 주소의 사용을 금지합니다."
+	},
+	{
+		"key": "InvalidParameterException",
+		"value": "잘못된 매개 변수"
+	},
+	{
+		"key": "InvalidPasswordException",
+		"value": "비밀번호가 잘못되어 보안 원칙과 안 맞습니다. 다시 한번 시도해 보세요!"
+	},
+	{
+		"key": "NotAuthorizedException",
+		"value": "현재 사용자에게 조작 권한이 없습니다."
+	},
+	{
+		"key": "UsernameExistsException",
+		"value": "이미 존재한 사용자입니다."
+	},
+	{
+		"key": "CodeMismatchException",
+		"value": "인증 코드가 잘못되었습니다. 잠시후 다시 시도해 보세오!"
+	},
+	{
+		"key": "EnableSoftwareTokenMFAException",
+		"value": "2차 인증 코드가 잘못되어 2차 인증 바인딩에 실패했습니다."
+	},
+	{
+		"key": "InvalidUserPoolConfigurationException",
+		"value": "사용자 시스템이 유효하지 않습니다."
+	},
+	{
+		"key": "PasswordResetRequiredException",
+		"value": "시스템에 강제적으로 비밀번호 재설정이 필요합니다."
+	},
+	{
+		"key": "UserNotConfirmedException",
+		"value": "사용자 인증에 실패했습니다."
+	},
+	{
+		"key": "UserNotFoundException",
+		"value": "존재하지 않은 사용자입니다."
+	},
+	{
+		"key": "AccessDeniedException",
+		"value": "이 작업에 대한 권한이 부족합니다."
+	},
+	{
+		"key": "InternalFailure",
+		"value": "내부 오류"
+	},
+	{
+		"key": "NotAuthorized",
+		"value": "이 작업에 대한 권한이 부족합니다."
+	},
+	{
+		"key": "RequestExpired",
+		"value": "요청 시간 초과"
+	},
+	{
+		"key": "ServiceUnavailable",
+		"value": "일시적인 서버 오류입니다."
+	},
+	{
+		"key": "ThrottlingException",
+		"value": "현재 서비스가 사용 중입니다. 잠시후 다시 시도해 보세오!"
+	},
+	{
+		"key": "ValidationError",
+		"value": "입력 매개변수 오류입니다."
+	},
+	{
+		"key": "LimitExceededException",
+		"value": "현재 서비스가 사용 중입니다. 잠시후 다시 시도해 보세오!"
+	},
+	{
+		"key": "ExpiredCodeException",
+		"value": "인증 코드 유효 기간 지났습니다. 잠시후 다시 시도해 보세요!"
+	},
+	{
+		"key": "input_btm_err_smscode",
+		"value": "공백을 포함할 수 없습니다."
+	},
+	{
+		"key": "input_btm_err_googlecode",
+		"value": "6자리 순수한 숫자입니다."
+	},
+	{
+		"key": "Incorrect username or password",
+		"value": "사용자 이름 또는 암호가 올바르지 않습니다."
+	},
+	{
+		"key": "no_gold_box",
+		"value": "골드 부족 %{num}, 골드 상자를 열 수 없습니다."
+	},
+	{
+		"key": "blind_box_buy_tips6",
+		"value": "포인트%{points}와 Gas:%{gas}를 소비해서 포인트 보물 상자를 여시겠습니까?  골드을 얻게 되면 GAS 소비하지 않습니다."
+	},
+	{
+		"key": "fighting_gold_chest",
+		"value": "골드 보물 상자"
+	},
+	{
+		"key": "setting_pwd_tip",
+		"value": "새 비밀번호를 설정합니다."
+	},
+	{
+		"key": "share_btn_withdraw",
+		"value": "인출"
+	},
+	{
+		"key": "share_desc_0_1",
+		"value": "곧 출시됩니다. 많은 기대 부탁드립니다."
+	},
+	{
+		"key": "share_title_invite_2",
+		"value": "골드 획득"
+	},
+	{
+		"key": "share_code_none",
+		"value": "없음"
+	},
+	{
+		"key": "no_bound_box",
+		"value": "현재 초대 보물 상자 없습니다."
+	},
+	{
+		"key": "blind_box_buy_tips7",
+		"value": "초대 보물 상자 1개를 여는 데 Gas:%{gas}를 소비하는 것이 확인하시겠습니까?"
+	},
+	{
+		"key": "wallet_flag_localbound",
+		"value": "바인드"
+	},
+	{
+		"key": "wallet_desc_bound",
+		"value": "한정된 카드는 거래할 수 없습니다."
+	},
+	{
+		"key": "tip_bound_upgrade",
+		"value": "한정된 카드는 업데이트할 수 없습니다."
+	},
+	{
+		"key": "wallet_title_16",
+		"value": "취급 수수료:"
+	},
+	{
+		"key": "not_enough_gdna",
+		"value": "금화가 부족합니다."
+	},
+	{
+		"key": "not_enough_gdgg",
+		"value": "다이아몬드가 부족합니다."
+	},
+	{
+		"key": "wallet_tips_gdna_transfer_limit",
+		"value": "송금이 이루어지려면 최소 10개 이상의 코인을 보유해야 합니다."
+	},
+	{
+		"key": "tab_card",
+		"value": "카드"
+	},
+	{
+		"key": "tab_equip",
+		"value": "장비"
+	},
+	{
+		"key": "pve_edit",
+		"value": "편집기"
+	},
+	{
+		"key": "pve_card_assits_err",
+		"value": "어시스트 카드는 어시스트 위치에만 배치할 수 있습니다."
+	},
+	{
+		"key": "Incorrect username or password",
+		"value": "사용자 이름 또는 비밀번호가 올바르지 않습니다."
+	},
+	{
+		"key": "market_desc_not_log",
+		"value": "현재 판매 또는 구매가 없습니다."
+	},
+	{
+		"key": "market_desc_log_rental1",
+		"value": "<outline color=black width=2>플레이어 ID.%{pid}지출<color=#77f349>ETH:%{num}</color>장비 대여<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_rental2",
+		"value": "<outline color=black width=2>플레이어 ID.%{pid}지출<color=#77f349>ETH:%{num}</color>덱 대여<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_trade1",
+		"value": "<outline color=black width=2>플레이어 ID.%{pid}지출<color=#77f349>ETH:%{num}</color>장비 구매<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_trade2",
+		"value": "<outline color=black width=2>플레이어 ID.%{pid}花了<color=#77f349>ETH:%{num}</color>덱 구매<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_rental1",
+		"value": "<outline color=black width=2>지출한 금액<color=#77f349>ETH:%{num}</color>장비 대여<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_rental2",
+		"value": "<outline color=black width=2>지출한 금액<color=#77f349>ETH:%{num}</color>덱 대여<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_trade1",
+		"value": "<outline color=black width=2>지출한 금액<color=#77f349>ETH:%{num}</color>장비 구매<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_trade2",
+		"value": "<outline color=black width=2>지출한 금액<color=#77f349>ETH:%{num}</color>덱 구매<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "no_aff_box",
+		"value": "보상을 받을 수 있는 보물 상자가 충분하지 않습니다."
+	},
+	{
+		"key": "blind_box_buy_tips8",
+		"value": "보물 상자 1개를 여는 데 가스:%{가스}를 소모한 것이 확인되었나요?"
+	},
+	{
+		"key": "qa_tips_sel",
+		"value": "답변해 주세요."
+	},
+	{
+		"key": "qa_tips_edit",
+		"value": "답변을 입력하세요."
+	},
+	{
+		"key": "qa_desc_succ",
+		"value": "정답입니다!금화.%{coin}개를 획득하세요."
+	},
+	{
+		"key": "exchange_tips_dna",
+		"value": "최소 1 %{이름} 사용 가능 수량"
+	},
+	{
+		"key": "exchange_tips_max",
+		"value": "수량 초과."
+	},
+	{
+		"key": "exchange_tips_succ",
+		"value": "상환 성공, %{NUM1}%{이름1}을 %{NUM2}%{이름2}로 상환했습니다!"
+	},
+	{
+		"key": "wallet_flag_qa",
+		"value": "Q&A에 참여하기"
+	}
+]

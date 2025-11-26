@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"invite_award_describe": 1,
+		"scores": 100
+	},
+	{
+		"id": 2,
+		"invite_award_describe": 2,
+		"scores": 200
+	},
+	{
+		"id": 3,
+		"invite_award_describe": 3,
+		"scores": 300
+	}
+]

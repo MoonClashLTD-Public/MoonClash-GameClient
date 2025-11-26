@@ -1,0 +1,146 @@
+
+gwbq19.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing1
+  rotate: true
+  xy: 163, 94
+  size: 160, 159
+  orig: 162, 162
+  offset: 1, 1
+  index: -1
+bingdi
+  rotate: true
+  xy: 2, 93
+  size: 161, 159
+  orig: 163, 161
+  offset: 1, 1
+  index: -1
+bizi
+  rotate: false
+  xy: 480, 29
+  size: 23, 22
+  orig: 28, 23
+  offset: 3, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 324, 94
+  size: 67, 40
+  orig: 70, 42
+  offset: 2, 1
+  index: -1
+meimao1
+  rotate: true
+  xy: 270, 5
+  size: 13, 8
+  orig: 15, 10
+  offset: 1, 1
+  index: -1
+meimao2
+  rotate: true
+  xy: 280, 5
+  size: 13, 8
+  orig: 15, 10
+  offset: 1, 1
+  index: -1
+shang 1
+  rotate: true
+  xy: 425, 2
+  size: 49, 53
+  orig: 51, 55
+  offset: 1, 1
+  index: -1
+shang 2
+  rotate: false
+  xy: 427, 199
+  size: 61, 55
+  orig: 64, 58
+  offset: 1, 2
+  index: -1
+shang 3
+  rotate: false
+  xy: 186, 5
+  size: 62, 87
+  orig: 65, 90
+  offset: 2, 2
+  index: -1
+shang 4
+  rotate: false
+  xy: 425, 53
+  size: 66, 53
+  orig: 68, 55
+  offset: 1, 1
+  index: -1
+shang5
+  rotate: false
+  xy: 94, 11
+  size: 90, 80
+  orig: 92, 82
+  offset: 1, 1
+  index: -1
+shang6
+  rotate: false
+  xy: 372, 22
+  size: 51, 70
+  orig: 53, 72
+  offset: 1, 1
+  index: -1
+shang8
+  rotate: true
+  xy: 2, 5
+  size: 86, 90
+  orig: 88, 92
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 324, 136
+  size: 101, 118
+  orig: 110, 129
+  offset: 1, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 427, 138
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+toufaf2
+  rotate: false
+  xy: 311, 23
+  size: 59, 69
+  orig: 59, 70
+  offset: 0, 1
+  index: -1
+youyan
+  rotate: true
+  xy: 250, 4
+  size: 14, 18
+  orig: 17, 20
+  offset: 2, 1
+  index: -1
+zhong7
+  rotate: true
+  xy: 250, 20
+  size: 72, 59
+  orig: 74, 61
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 393, 108
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 1
+  index: -1
+zuoyan
+  rotate: true
+  xy: 311, 4
+  size: 17, 21
+  orig: 19, 23
+  offset: 1, 1
+  index: -1

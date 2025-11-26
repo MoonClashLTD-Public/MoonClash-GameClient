@@ -1,0 +1,69 @@
+
+fireball_hit_all.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_4
+  rotate: false
+  xy: 2, 194
+  size: 142, 141
+  orig: 164, 164
+  offset: 10, 11
+  index: -1
+crack
+  rotate: false
+  xy: 250, 298
+  size: 117, 77
+  orig: 131, 98
+  offset: 8, 6
+  index: -1
+glow
+  rotate: false
+  xy: 191, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: false
+  xy: 2, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke111
+  rotate: false
+  xy: 2, 337
+  size: 187, 168
+  orig: 200, 200
+  offset: 7, 19
+  index: -1
+smoke1_00
+  rotate: false
+  xy: 321, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: true
+  xy: 146, 214
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+stone_00
+  rotate: false
+  xy: 250, 226
+  size: 76, 70
+  orig: 82, 76
+  offset: 3, 0
+  index: -1
+stone_01
+  rotate: false
+  xy: 2, 2
+  size: 72, 60
+  orig: 82, 76
+  offset: 8, 7
+  index: -1

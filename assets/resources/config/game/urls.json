@@ -1,0 +1,143 @@
+[
+	{
+		"url_type": 1,
+		"channel": 99,
+		"url": ""
+	},
+	{
+		"url_type": 2,
+		"channel": 99,
+		"url": ""
+	},
+	{
+		"url_type": 3,
+		"channel": 99,
+		"url": ""
+	},
+	{
+		"url_type": 4,
+		"channel": 99,
+		"url": "",
+		"bs_id": 1
+	},
+	{
+		"url_type": 4,
+		"channel": 99,
+		"url": "",
+		"bs_id": 2
+	},
+	{
+		"url_type": 5,
+		"channel": 99,
+		"url": ""
+	},
+	{
+		"url_type": 1,
+		"channel": 1,
+		"url": ""
+	},
+	{
+		"url_type": 2,
+		"channel": 1,
+		"url": ""
+	},
+	{
+		"url_type": 3,
+		"channel": 1,
+		"url": ""
+	},
+	{
+		"url_type": 4,
+		"channel": 1,
+		"url": "",
+		"bs_id": 1
+	},
+	{
+		"url_type": 5,
+		"channel": 1,
+		"url": ""
+	},
+	{
+		"url_type": 1,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 2,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 3,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 1
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 2
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 3
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 4
+	},
+	{
+		"url_type": 1,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 2,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 3,
+		"channel": 2,
+		"url": ""
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 1
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 2
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 3
+	},
+	{
+		"url_type": 4,
+		"channel": 2,
+		"url": "",
+		"bs_id": 4
+	},
+	{
+		"url_type": 5,
+		"channel": 2,
+		"url": ""
+	}
+]

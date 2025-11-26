@@ -1,0 +1,48 @@
+/*
+ * @Author: dgflash
+ * @Date: 2021-11-18 17:42:59
+ * @LastEditors: dgflash
+ * @LastEditTime: 2022-03-14 16:40:32
+ */
+
+import { Component, sp, _decorator } from "cc";
+import { resLoader } from "../../../core/common/loader/ResLoader";
+import { config } from "../../common/config/Config";
+import { Role } from "../Role";
+
+const { ccclass, property } = _decorator;
+
+  
+@ccclass('RoleViewLoader')
+export class RoleViewLoader extends Component {
+    spine: sp.Skeleton = null!;
+
+    onLoad() {
+        this.node.on("load", this.onEmitLoad, this);
+    }
+
+    private onEmitLoad(role: Role) {
+        this.spine = role.RoleView.spine;
+        this.load(role.RoleModel.anim);
+    }
+
+    private load(name: string) {
+        this.node.active = false;
+
+        var path = config.game.getRolePath(name);
+        resLoader.load(path, sp.SkeletonData, (err: Error | null, sd: sp.SkeletonData) => {
+            if (err) {
+                console.error(`${path}`);
+                return;
+            }
+
+            this.spine.skeletonData = sd;
+            this.spine.skeletonData.addRef();
+            this.node.active = true;
+        });
+    }
+
+    onDestroy() {
+        this.spine.skeletonData.decRef();
+    }
+}

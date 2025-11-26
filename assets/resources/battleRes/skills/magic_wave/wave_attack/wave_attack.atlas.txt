@@ -1,0 +1,48 @@
+
+wave_attack.png
+size: 774,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang1a
+  rotate: false
+  xy: 2, 260
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+shuiwen1
+  rotate: true
+  xy: 516, 668
+  size: 104, 153
+  orig: 130, 196
+  offset: 13, 9
+  index: -1
+shuiwen2
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yanwu01
+  rotate: false
+  xy: 516, 538
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwu04a
+  rotate: false
+  xy: 481, 40
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+yanwu04b
+  rotate: false
+  xy: 260, 26
+  size: 219, 232
+  orig: 219, 242
+  offset: 0, 10
+  index: -1

@@ -1,0 +1,7238 @@
+[
+	{
+		"key": "name",
+		"value": "Internal Name"
+	},
+	{
+		"key": "_err_0",
+		"value": "Normal"
+	},
+	{
+		"key": "_err_1",
+		"value": "General Error"
+	},
+	{
+		"key": "_err_2",
+		"value": "Link timed out"
+	},
+	{
+		"key": "_err_3",
+		"value": "Database Error"
+	},
+	{
+		"key": "_err_4",
+		"value": "Wait for subsequent operations to complete"
+	},
+	{
+		"key": "_err_5",
+		"value": "Config missing"
+	},
+	{
+		"key": "_err_100",
+		"value": "Debugging error 0. Return to interface 0."
+	},
+	{
+		"key": "_err_101",
+		"value": "Debugging error 1..."
+	},
+	{
+		"key": "_err_102",
+		"value": "Debugging error 2..."
+	},
+	{
+		"key": "_err_103",
+		"value": "Debugging error 3…"
+	},
+	{
+		"key": "_err_104",
+		"value": "Debugging error 4…"
+	},
+	{
+		"key": "_err_105",
+		"value": "ETH format not sent through wei unit"
+	},
+	{
+		"key": "_err_106",
+		"value": "This NFT owner is invalid"
+	},
+	{
+		"key": "_err_107",
+		"value": "Listing"
+	},
+	{
+		"key": "_err_108",
+		"value": "Order cannot be found"
+	},
+	{
+		"key": "_err_109",
+		"value": "Order cannot be purchased"
+	},
+	{
+		"key": "_err_110",
+		"value": "Can't buy your own items"
+	},
+	{
+		"key": "_err_111",
+		"value": "User does not exist"
+	},
+	{
+		"key": "_err_112",
+		"value": "Invalid Gold quantity"
+	},
+	{
+		"key": "_err_113",
+		"value": "Invalid diamond quantity"
+	},
+	{
+		"key": "_err_114",
+		"value": "Rental period exceeded"
+	},
+	{
+		"key": "_err_115",
+		"value": "Friends limit reached"
+	},
+	{
+		"key": "_err_116",
+		"value": "Max friend applications reached"
+	},
+	{
+		"key": "_err_117",
+		"value": "You’ve applied to be friends with this player"
+	},
+	{
+		"key": "_err_118",
+		"value": "Invalid invite code"
+	},
+	{
+		"key": "_err_119",
+		"value": "Invite code used"
+	},
+	{
+		"key": "_err_120",
+		"value": "Share to withdraw"
+	},
+	{
+		"key": "_err_121",
+		"value": "Withdrawal in CD. Please wait"
+	},
+	{
+		"key": "_err_122",
+		"value": "The wallet address is wrong, please pay attention to the wallet address case or digits are correct."
+	},
+	{
+		"key": "_err_123",
+		"value": "Invalid token format"
+	},
+	{
+		"key": "_err_126",
+		"value": "Card joined the PvE mode this day. Can’t be listed."
+	},
+	{
+		"key": "_err_127",
+		"value": "Card joined the PvE mode this day. Can’t be listed."
+	},
+	{
+		"key": "_err_128",
+		"value": "Gear joined the PvE mode this day. Can’t be listed."
+	},
+	{
+		"key": "_err_129",
+		"value": "Blind boxes are not allowed to be opened before the game starts."
+	},
+	{
+		"key": "_err_130",
+		"value": "Invalid IP format"
+	},
+	{
+		"key": "_err_131",
+		"value": "IP has been blocked"
+	},
+	{
+		"key": "_err_132",
+		"value": "Account has been blocked"
+	},
+	{
+		"key": "_err_133",
+		"value": "The transaction is being processed (probably, transaction, delisting, etc.)"
+	},
+	{
+		"key": "_err_134",
+		"value": "Bound cards cannot be traded or shelved."
+	},
+	{
+		"key": "_err_135",
+		"value": "Limited cards, cannot be upgraded."
+	},
+	{
+		"key": "_err_136",
+		"value": "Limited cards, cannot be used to upgrade."
+	},
+	{
+		"key": "_err_137",
+		"value": "Wrong address for transferring wallets."
+	},
+	{
+		"key": "_err_138",
+		"value": "Can't transfer money to yourself."
+	},
+	{
+		"key": "_err_139",
+		"value": "If the amount is less than the minimum transfer amount, the transfer cannot be made."
+	},
+	{
+		"key": "_err_140",
+		"value": "Only 1 friend can be deleted per day."
+	},
+	{
+		"key": "_err_450",
+		"value": "Json binding failed"
+	},
+	{
+		"key": "_err_500",
+		"value": "Unknown error"
+	},
+	{
+		"key": "_err_600",
+		"value": "Server API error"
+	},
+	{
+		"key": "_err_601",
+		"value": "Submission timed out"
+	},
+	{
+		"key": "_err_602",
+		"value": "Insufficient GAS fee. Please check your wallet."
+	},
+	{
+		"key": "_err_970",
+		"value": "On-chain data processing. Please try again later"
+	},
+	{
+		"key": "_err_971",
+		"value": "LockGoldFailed"
+	},
+	{
+		"key": "_err_972",
+		"value": "LockdiamondFailed"
+	},
+	{
+		"key": "_err_981",
+		"value": "Insufficient Purification Stones"
+	},
+	{
+		"key": "_err_982",
+		"value": "Insufficient Reforging Stones"
+	},
+	{
+		"key": "_err_983",
+		"value": "Insufficient Lucky Stones"
+	},
+	{
+		"key": "_err_984",
+		"value": "Insufficient Amnesia Medicine"
+	},
+	{
+		"key": "_err_985",
+		"value": "Insufficient Blinding Grass"
+	},
+	{
+		"key": "_err_986",
+		"value": "Insufficient Awakening Stones"
+	},
+	{
+		"key": "_err_987",
+		"value": "Insufficient Roast Turkeys"
+	},
+	{
+		"key": "_err_988",
+		"value": "Insufficient Whetstones"
+	},
+	{
+		"key": "_err_989",
+		"value": "Item does not exist"
+	},
+	{
+		"key": "_err_992",
+		"value": "Insufficient number of promoted users."
+	},
+	{
+		"key": "_err_993",
+		"value": "Insufficient points to invite the treasure chest."
+	},
+	{
+		"key": "_err_997",
+		"value": "Insufficient diamond"
+	},
+	{
+		"key": "_err_998",
+		"value": "Insufficient Gold"
+	},
+	{
+		"key": "_err_999",
+		"value": "Prototype data does not exist"
+	},
+	{
+		"key": "_err_1001",
+		"value": "Server offline"
+	},
+	{
+		"key": "_err_1002",
+		"value": "Server full"
+	},
+	{
+		"key": "_err_1003",
+		"value": "Cannot create characters on this server"
+	},
+	{
+		"key": "_err_1004",
+		"value": "Character limit reached on this server"
+	},
+	{
+		"key": "_err_1005",
+		"value": "Name already taken"
+	},
+	{
+		"key": "_err_1006",
+		"value": "Character level too low"
+	},
+	{
+		"key": "_err_1007",
+		"value": "Character level too high"
+	},
+	{
+		"key": "_err_1008",
+		"value": "Character matching"
+	},
+	{
+		"key": "_err_1009",
+		"value": "Stage doesn’t exist"
+	},
+	{
+		"key": "_err_1100",
+		"value": "Your friend is offline and cannot join the match you invited."
+	},
+	{
+		"key": "_err_1101",
+		"value": "A friend is in a battle and cannot join the match you invited."
+	},
+	{
+		"key": "_err_1102",
+		"value": "A friend declined your contest invitation."
+	},
+	{
+		"key": "_err_1103",
+		"value": "Insufficient number of friend cards."
+	},
+	{
+		"key": "_err_1104",
+		"value": "Friend is offline."
+	},
+	{
+		"key": "_err_1105",
+		"value": "A friend canceled your match invitation."
+	},
+	{
+		"key": "_err_1106",
+		"value": "Friends have insufficient cards."
+	},
+	{
+		"key": "_err_1107",
+		"value": "Friends is in battle."
+	},
+	{
+		"key": "_err_1108",
+		"value": "Friend is offline."
+	},
+	{
+		"key": "_err_1500",
+		"value": "Card doesn’t exist"
+	},
+	{
+		"key": "_err_1501",
+		"value": "Deck doesn’t exist"
+	},
+	{
+		"key": "_err_1502",
+		"value": "Insufficient decks"
+	},
+	{
+		"key": "_err_1503",
+		"value": "The card is already in the deck"
+	},
+	{
+		"key": "_err_1504",
+		"value": "Incorrect deck number"
+	},
+	{
+		"key": "_err_1505",
+		"value": "Deck number limit reached"
+	},
+	{
+		"key": "_err_1506",
+		"value": "Card to be consumed doesn’t exist"
+	},
+	{
+		"key": "_err_1507",
+		"value": "Highest card level reached"
+	},
+	{
+		"key": "_err_1508",
+		"value": "A card of the same type is already in play"
+	},
+	{
+		"key": "_err_1509",
+		"value": "Insufficient VIT"
+	},
+	{
+		"key": "_err_1510",
+		"value": "Card upgrade cooling"
+	},
+	{
+		"key": "_err_1511",
+		"value": "Card VIT restoration Max of today has been reached."
+	},
+	{
+		"key": "_err_1600",
+		"value": "Gear does not exist"
+	},
+	{
+		"key": "_err_1601",
+		"value": "Gear set does not exist"
+	},
+	{
+		"key": "_err_1602",
+		"value": "Gear set missing"
+	},
+	{
+		"key": "_err_1603",
+		"value": "This gear is already in the gear set"
+	},
+	{
+		"key": "_err_1604",
+		"value": "Incorrect number of gear sets"
+	},
+	{
+		"key": "_err_1605",
+		"value": "Max durability exceeded"
+	},
+	{
+		"key": "_err_1606",
+		"value": "No gear available"
+	},
+	{
+		"key": "_err_1607",
+		"value": "Insufficient gear durability"
+	},
+	{
+		"key": "_err_1608",
+		"value": "Gear durability restoration Max of today has been reached."
+	},
+	{
+		"key": "_err_1701",
+		"value": "Empty Surprise Chest"
+	},
+	{
+		"key": "_err_1702",
+		"value": "Insufficient Surprise Chest"
+	},
+	{
+		"key": "_err_2000",
+		"value": "Battle server is down"
+	},
+	{
+		"key": "_err_2001",
+		"value": "Failed to create battle. More participants needed"
+	},
+	{
+		"key": "_err_2002",
+		"value": "Less than 6 cards. Cannot battle"
+	},
+	{
+		"key": "_err_2003",
+		"value": "One of the participants is already in battle"
+	},
+	{
+		"key": "_err_2004",
+		"value": "You requested a card that you don’t own"
+	},
+	{
+		"key": "_err_2005",
+		"value": "Insufficient food. Cannot use cards"
+	},
+	{
+		"key": "_err_2006",
+		"value": "In CD. Please wait"
+	},
+	{
+		"key": "_err_2007",
+		"value": "Incorrect card casting position"
+	},
+	{
+		"key": "_err_2008",
+		"value": "Card on standby"
+	},
+	{
+		"key": "_err_2009",
+		"value": "Your CP is lower than the stage's standard"
+	},
+	{
+		"key": "_err_2010",
+		"value": "Your CP is higher than the stage's standard"
+	},
+	{
+		"key": "_err_2011",
+		"value": "Assistance card abnormal"
+	},
+	{
+		"key": "_err_3000",
+		"value": "Internal server busy"
+	},
+	{
+		"key": "_err_3001",
+		"value": "Insufficient balance. Please check your wallet"
+	},
+	{
+		"key": "_err_4000",
+		"value": "Already participated in today's question and answer."
+	},
+	{
+		"key": "_err_4001",
+		"value": "Answer the question successfully."
+	},
+	{
+		"key": "_err_4002",
+		"value": "Failed to answer the question."
+	},
+	{
+		"key": "_err_4003",
+		"value": "Missing question."
+	},
+	{
+		"key": "_err_4100",
+		"value": "The amount of money is not enough."
+	},
+	{
+		"key": "_err_4101",
+		"value": "Prices are highly volatile and are temporarily unavailable for trading."
+	},
+	{
+		"key": "_err_4102",
+		"value": "Already inviter information."
+	},
+	{
+		"key": "_err_4103",
+		"value": "Binding conditions are currently not met."
+	},
+	{
+		"key": "_err_4110",
+		"value": "Match does not exist"
+	},
+	{
+		"key": "_err_4111",
+		"value": "Target player is offline"
+	},
+	{
+		"key": "_err_4112",
+		"value": "Target commentator is offline"
+	},
+	{
+		"key": "_err_4113",
+		"value": "Cannot create repeatedly"
+	},
+	{
+		"key": "_err_4114",
+		"value": "The current deck of the participating player is not full"
+	},
+	{
+		"key": "update_tips_check_update",
+		"value": "Check for updates"
+	},
+	{
+		"key": "update_tips_update",
+		"value": "Update Tips"
+	},
+	{
+		"key": "update_tips_new_version",
+		"value": "New version needs to be updated"
+	},
+	{
+		"key": "update_tips_update_fail",
+		"value": "Update failed"
+	},
+	{
+		"key": "update_tips_update_success",
+		"value": "Update completed"
+	},
+	{
+		"key": "update_tips_force",
+		"value": "Force Update"
+	},
+	{
+		"key": "update_nowifi_tip",
+		"value": "Bad connection for the current update"
+	},
+	{
+		"key": "update_btn_retry",
+		"value": "Retry"
+	},
+	{
+		"key": "update_tips_err",
+		"value": "Update error please try again"
+	},
+	{
+		"key": "common_prompt_ok",
+		"value": "Confirm"
+	},
+	{
+		"key": "common_prompt_confirm",
+		"value": "Confirm"
+	},
+	{
+		"key": "common_prompt_cancal",
+		"value": "Cancel"
+	},
+	{
+		"key": "common_prompt_back",
+		"value": "Back"
+	},
+	{
+		"key": "common_prompt_use",
+		"value": "Use"
+	},
+	{
+		"key": "common_prompt_title_sys",
+		"value": "System Prompt"
+	},
+	{
+		"key": "common_prompt_content",
+		"value": "Content"
+	},
+	{
+		"key": "common_prompt",
+		"value": "Public Prompt"
+	},
+	{
+		"key": "common_wait",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "common_click_close",
+		"value": "Tap the screen to close. On-chain operation will be processed in the background."
+	},
+	{
+		"key": "notify_show",
+		"value": "Notice"
+	},
+	{
+		"key": "btn_rich_text",
+		"value": "RTF"
+	},
+	{
+		"key": "btn_demo_lang",
+		"value": "English"
+	},
+	{
+		"key": "btn_common_prompt",
+		"value": "General Prompt"
+	},
+	{
+		"key": "btn_notify_show",
+		"value": "Prompt"
+	},
+	{
+		"key": "input_err_email_tip",
+		"value": "Please enter a valid email address"
+	},
+	{
+		"key": "input_btm_err_email",
+		"value": "Please enter a valid email address"
+	},
+	{
+		"key": "input_btm_err_pwd",
+		"value": "8-15 characters"
+	},
+	{
+		"key": "pop_btn_1",
+		"value": "Info"
+	},
+	{
+		"key": "pop_btn_2",
+		"value": "Use"
+	},
+	{
+		"key": "pop_btn_3",
+		"value": "Remove"
+	},
+	{
+		"key": "pop_btn_4",
+		"value": "More"
+	},
+	{
+		"key": "pop_btn_5",
+		"value": "Assist"
+	},
+	{
+		"key": "pop_btn_6",
+		"value": "Use"
+	},
+	{
+		"key": "pop_btn_7",
+		"value": "Use"
+	},
+	{
+		"key": "netInstableOpen",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "btn_audio_open1",
+		"value": "Music"
+	},
+	{
+		"key": "btn_audio_open2",
+		"value": "SFX"
+	},
+	{
+		"key": "loading_load_json",
+		"value": "Load text"
+	},
+	{
+		"key": "loading_load_game",
+		"value": "Loading..."
+	},
+	{
+		"key": "loading_load_player",
+		"value": "Get user info"
+	},
+	{
+		"key": "role_name",
+		"value": "Name"
+	},
+	{
+		"key": "role_lv",
+		"value": "Level"
+	},
+	{
+		"key": "role_hp",
+		"value": "HP"
+	},
+	{
+		"key": "role_power",
+		"value": "STR"
+	},
+	{
+		"key": "role_physical",
+		"value": "PHY"
+	},
+	{
+		"key": "role_agile",
+		"value": "AGI"
+	},
+	{
+		"key": "login_discord",
+		"value": "Community"
+	},
+	{
+		"key": "no_login_tip",
+		"value": "Please login"
+	},
+	{
+		"key": "login_err",
+		"value": "Server connection failed"
+	},
+	{
+		"key": "login_login",
+		"value": "Login"
+	},
+	{
+		"key": "login_register",
+		"value": "Register"
+	},
+	{
+		"key": "login_auto_login",
+		"value": "Login"
+	},
+	{
+		"key": "login_switch_account",
+		"value": "Change"
+	},
+	{
+		"key": "register_email",
+		"value": "Email"
+	},
+	{
+		"key": "register_pwd",
+		"value": "Password"
+	},
+	{
+		"key": "register_code",
+		"value": "Enter 6-digit Verification Code"
+	},
+	{
+		"key": "register_btn_code",
+		"value": "Send"
+	},
+	{
+		"key": "register_code1",
+		"value": "Invite Code（Optional）"
+	},
+	{
+		"key": "register_btn_code1",
+		"value": "Optional"
+	},
+	{
+		"key": "register_btn_confrim",
+		"value": "Verify"
+	},
+	{
+		"key": "change_pwd_title",
+		"value": "Reset password"
+	},
+	{
+		"key": "change_pwd_btn_confrim",
+		"value": "Verify"
+	},
+	{
+		"key": "change_pwd_old_pwd",
+		"value": "Enter your old password"
+	},
+	{
+		"key": "change_pwd_new_pwd",
+		"value": "Enter a new password"
+	},
+	{
+		"key": "register_btn_validation",
+		"value": "Confirm"
+	},
+	{
+		"key": "register_btn_back",
+		"value": "Back"
+	},
+	{
+		"key": "register_btn_registered",
+		"value": "Register"
+	},
+	{
+		"key": "register_confirmationcode",
+		"value": "Verification Code"
+	},
+	{
+		"key": "register_desc",
+		"value": "<outline color=black width=2><color=#ffffff>read and accept</color><color=#6fcffd>《Degen Notice to users》</color></outline>"
+	},
+	{
+		"key": "email_placeholder",
+		"value": "Email address"
+	},
+	{
+		"key": "password_placeholder",
+		"value": "Enter password"
+	},
+	{
+		"key": "password_new_placeholder",
+		"value": "Terms of Service"
+	},
+	{
+		"key": "terms_of_service_title",
+		"value": "Terms of Service"
+	},
+	{
+		"key": "fighting_page_arena",
+		"value": "Combat"
+	},
+	{
+		"key": "fighting_page_challenge",
+		"value": "Challenge"
+	},
+	{
+		"key": "setting_name",
+		"value": "User Name"
+	},
+	{
+		"key": "setting_ID",
+		"value": "UID"
+	},
+	{
+		"key": "setting_music",
+		"value": "Music"
+	},
+	{
+		"key": "setting_sound",
+		"value": "SFX"
+	},
+	{
+		"key": "setting_open",
+		"value": "On"
+	},
+	{
+		"key": "setting_close",
+		"value": "Off"
+	},
+	{
+		"key": "setting_lang",
+		"value": "Language"
+	},
+	{
+		"key": "setting_title_lang",
+		"value": "Language"
+	},
+	{
+		"key": "setting_zh",
+		"value": "繁體中文"
+	},
+	{
+		"key": "setting_en",
+		"value": "English"
+	},
+	{
+		"key": "setting_ko",
+		"value": "한국어"
+	},
+	{
+		"key": "setting_options",
+		"value": "Options"
+	},
+	{
+		"key": "setting_btn_cs",
+		"value": "Customer Service"
+	},
+	{
+		"key": "setting_btn_wp",
+		"value": "White Paper"
+	},
+	{
+		"key": "setting_btn_pwd",
+		"value": "Reset Password"
+	},
+	{
+		"key": "setting_back_login",
+		"value": "Sign out"
+	},
+	{
+		"key": "setting_btn_pwd1",
+		"value": "Password"
+	},
+	{
+		"key": "setting_btn_pwd2",
+		"value": "Reset Password"
+	},
+	{
+		"key": "setting_verification_bind1",
+		"value": "Validator"
+	},
+	{
+		"key": "setting_verification_bind2",
+		"value": "Bind"
+	},
+	{
+		"key": "setting_verification_bind3",
+		"value": "Unbind"
+	},
+	{
+		"key": "share_title_invite",
+		"value": "Earnings"
+	},
+	{
+		"key": "share_content",
+		"value": "Share"
+	},
+	{
+		"key": "share_title_invite_0",
+		"value": "Register"
+	},
+	{
+		"key": "share_title_invite_1",
+		"value": "Consumption"
+	},
+	{
+		"key": "share_title_invite_2",
+		"value": "Total Golds"
+	},
+	{
+		"key": "share_btn_code",
+		"value": "Invite Code"
+	},
+	{
+		"key": "share_btn_key",
+		"value": "Copy link"
+	},
+	{
+		"key": "share_btn_detailed",
+		"value": "Details"
+	},
+	{
+		"key": "share_title",
+		"value": "Invite Code"
+	},
+	{
+		"key": "share_copy_succ",
+		"value": "Copy Successfully"
+	},
+	{
+		"key": "share_copy",
+		"value": "Invite Code copied!"
+	},
+	{
+		"key": "share_desc_0",
+		"value": "Level up a card to get an invite code."
+	},
+	{
+		"key": "share_desc_0_0",
+		"value": "Buy a card to get an invite code."
+	},
+	{
+		"key": "share_desc_1",
+		"value": "<outline color=black width=2><color=#40de54>%{code}</color><color=#fb0000>(Used)</color></outline>"
+	},
+	{
+		"key": "share_desc_2",
+		"value": "<outline color=black width=2><color=#ffffff>Get: </color><color=#40de54>%{code}</color></outline>"
+	},
+	{
+		"key": "share_btn_share",
+		"value": "Quick Share"
+	},
+	{
+		"key": "share_code_1",
+		"value": "1. When opening a Fortune Box, and upgrading cards and gear, you will get an invite code;\n2. Each person can only have 1 invite code at the same time;\n3. An invite code can only be used to invite 1 player;\n4. Invite players for rich rewards."
+	},
+	{
+		"key": "share_Pop_1",
+		"value": "1. For each player that is invited to register, 10 pts will be earned;\n2. For each Fortune Box an invited player buys, 100 pts will be earned."
+	},
+	{
+		"key": "share_invitation_1",
+		"value": "Earn tons of dollars playing this game!"
+	},
+	{
+		"key": "share_invitation_2",
+		"value": "%{url}"
+	},
+	{
+		"key": "share_editbox_tips",
+		"value": "Cannot exceed 300 characters"
+	},
+	{
+		"key": "share_code_tips1",
+		"value": "You invited%{name}  on  %{event}          %{date}"
+	},
+	{
+		"key": "share_code_tips2",
+		"value": "You got   %{num} pts"
+	},
+	{
+		"key": "share_code_event1",
+		"value": "Open Fortune Box"
+	},
+	{
+		"key": "share_code_event2",
+		"value": "Upgrade Card"
+	},
+	{
+		"key": "share_code_event3",
+		"value": "Gear Crafting"
+	},
+	{
+		"key": "share_explain_1",
+		"value": "You don't have an invite code yet."
+	},
+	{
+		"key": "share_explain_2",
+		"value": "You haven't earned pts yet."
+	},
+	{
+		"key": "wallet_desc_0",
+		"value": "<outline color=black width=2><color=#ffffff>Arbitrum ETH:</color><color=#77f349>%{num}</color></outline>"
+	},
+	{
+		"key": "wallet_desc_1",
+		"value": "<outline color=black width=2><color=#ffffff>Approx: $%{num}</color></outline>"
+	},
+	{
+		"key": "wallet_btn_receive",
+		"value": "Accept"
+	},
+	{
+		"key": "wallet_btn_transfer",
+		"value": "Transfer"
+	},
+	{
+		"key": "wallet_btn_exchange",
+		"value": "Exchange"
+	},
+	{
+		"key": "wallet_btn_withdraw",
+		"value": "Withdraw"
+	},
+	{
+		"key": "wallet_btn_sell",
+		"value": "Sell"
+	},
+	{
+		"key": "wallet_btn_cancelsell",
+		"value": "Remove"
+	},
+	{
+		"key": "wallet_btn_rent",
+		"value": "Rent"
+	},
+	{
+		"key": "wallet_title_sell",
+		"value": "Sell"
+	},
+	{
+		"key": "wallet_title_rent",
+		"value": "Let"
+	},
+	{
+		"key": "wallet_title_transfer",
+		"value": "Transfer"
+	},
+	{
+		"key": "wallet_title_wallet",
+		"value": "Wallet"
+	},
+	{
+		"key": "wallet_title_card",
+		"value": "Card"
+	},
+	{
+		"key": "wallet_title_equipment",
+		"value": "Gear"
+	},
+	{
+		"key": "wallet_title_item",
+		"value": "Item"
+	},
+	{
+		"key": "wallet_title_rdate",
+		"value": "Return Date"
+	},
+	{
+		"key": "wallet_title_date",
+		"value": "Remove Date"
+	},
+	{
+		"key": "wallet_flag_rented",
+		"value": "Leased"
+	},
+	{
+		"key": "wallet_flag_ownrented",
+		"value": "Rented"
+	},
+	{
+		"key": "wallet_flag_forsale",
+		"value": "For Sale"
+	},
+	{
+		"key": "wallet_flag_forrent",
+		"value": "To Let"
+	},
+	{
+		"key": "wallet_flag_ready",
+		"value": "Listing"
+	},
+	{
+		"key": "wallet_flag_notready",
+		"value": "Insufficient VIT"
+	},
+	{
+		"key": "wallet_flag_assisting",
+		"value": "Assistance Card"
+	},
+	{
+		"key": "wallet_flag_locked",
+		"value": "Locked"
+	},
+	{
+		"key": "wallet_flag_pveweek",
+		"value": "PVE State"
+	},
+	{
+		"key": "wallet_btn_all",
+		"value": "All"
+	},
+	{
+		"key": "wallet_btn_forsale",
+		"value": "For Sale"
+	},
+	{
+		"key": "wallet_btn_forrent",
+		"value": "To Let"
+	},
+	{
+		"key": "wallet_btn_forrented",
+		"value": "Lent"
+	},
+	{
+		"key": "wallet_btn_onlease",
+		"value": "Renting"
+	},
+	{
+		"key": "wallet_btn_timesort",
+		"value": "By Time"
+	},
+	{
+		"key": "wallet_btn_namesort",
+		"value": "By Name"
+	},
+	{
+		"key": "wallet_btn_qualsort",
+		"value": "By Rarity"
+	},
+	{
+		"key": "wallet_btn_levelsort",
+		"value": "By Level"
+	},
+	{
+		"key": "wallet_btn_charsort",
+		"value": "By Personality Qty"
+	},
+	{
+		"key": "wallet_btn_latest",
+		"value": "Latest"
+	},
+	{
+		"key": "wallet_btn_oldest",
+		"value": "Earliest"
+	},
+	{
+		"key": "wallet_btn_lowest",
+		"value": "Lowest Price"
+	},
+	{
+		"key": "wallet_btn_highest",
+		"value": "Highest Price"
+	},
+	{
+		"key": "wallet_btn_open",
+		"value": "Open"
+	},
+	{
+		"key": "wallet_title_0",
+		"value": "Game Assets"
+	},
+	{
+		"key": "wallet_title_3",
+		"value": "Wallet Assets"
+	},
+	{
+		"key": "wallet_title_1",
+		"value": "Wallet"
+	},
+	{
+		"key": "wallet_title_4",
+		"value": "Send by Post"
+	},
+	{
+		"key": "wallet_title_5",
+		"value": "Only accept"
+	},
+	{
+		"key": "wallet_title_6",
+		"value": "Address"
+	},
+	{
+		"key": "wallet_title_7",
+		"value": "Game Assets"
+	},
+	{
+		"key": "wallet_title_8",
+		"value": "Wallet Assets"
+	},
+	{
+		"key": "wallet_title_9",
+		"value": "Withdrawal Amt:"
+	},
+	{
+		"key": "wallet_title_10",
+		"value": "Gas Cost:≈"
+	},
+	{
+		"key": "wallet_desc_needshare",
+		"value": "You can only continue after sharing."
+	},
+	{
+		"key": "wallet_desc_withdrawsucc",
+		"value": "Withdrawn!"
+	},
+	{
+		"key": "wallet_btn_toshare",
+		"value": "Share"
+	},
+	{
+		"key": "wallet_gdgg",
+		"value": "Diamond"
+	},
+	{
+		"key": "wallet_gdna",
+		"value": "Gold"
+	},
+	{
+		"key": "wallet_dggv2",
+		"value": "DGG"
+	},
+	{
+		"key": "wallet_dgg",
+		"value": "Diamond"
+	},
+	{
+		"key": "wallet_dna",
+		"value": "Gold"
+	},
+	{
+		"key": "wallet_bnb",
+		"value": "ETH"
+	},
+	{
+		"key": "wallet_balance",
+		"value": "Balance: %{num}"
+	},
+	{
+		"key": "wallet_btn_copy",
+		"value": "Copy Address"
+	},
+	{
+		"key": "wallet_desc_2",
+		"value": "Currently only Arbitrum One chain ETH and degen Nft are accepted"
+	},
+	{
+		"key": "wallet_desc_3",
+		"value": "Arbitrum One Chain (ETH)"
+	},
+	{
+		"key": "wallet_desc_4",
+		"value": "Price"
+	},
+	{
+		"key": "wallet_desc_11",
+		"value": "Quantity"
+	},
+	{
+		"key": "wallet_desc_5",
+		"value": "Handling fee: %{num1} ETH ≈ %{num2} USD"
+	},
+	{
+		"key": "wallet_desc_6",
+		"value": "Borrow Price"
+	},
+	{
+		"key": "wallet_desc_7",
+		"value": "Set removal time"
+	},
+	{
+		"key": "wallet_desc_8",
+		"value": "Transfer to another address"
+	},
+	{
+		"key": "wallet_desc_9",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "wallet_desc_10",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "wallet_year",
+		"value": "Y"
+	},
+	{
+		"key": "wallet_month",
+		"value": "M"
+	},
+	{
+		"key": "wallet_day",
+		"value": "D"
+	},
+	{
+		"key": "wallet_title_price",
+		"value": "Price"
+	},
+	{
+		"key": "wallet_title_poundage",
+		"value": "Service Fee:"
+	},
+	{
+		"key": "wallet_buy",
+		"value": "Buy"
+	},
+	{
+		"key": "wallet_rent",
+		"value": "Rent"
+	},
+	{
+		"key": "market_title_spe",
+		"value": "Type"
+	},
+	{
+		"key": "market_title_lv",
+		"value": "Lv."
+	},
+	{
+		"key": "market_title_card",
+		"value": "Card"
+	},
+	{
+		"key": "market_title_attr",
+		"value": "Personality"
+	},
+	{
+		"key": "market_title_quality",
+		"value": "Rarity"
+	},
+	{
+		"key": "market_btn_arms",
+		"value": "Heros"
+	},
+	{
+		"key": "market_btn_building",
+		"value": "Buildings"
+	},
+	{
+		"key": "market_btn_spell",
+		"value": "Spells"
+	},
+	{
+		"key": "market_btn_weapon",
+		"value": "Weapons"
+	},
+	{
+		"key": "market_btn_armor",
+		"value": "Shields"
+	},
+	{
+		"key": "market_btn_jewelry",
+		"value": "Accessories"
+	},
+	{
+		"key": "market_btn_boxcard",
+		"value": "Card Fortune Box"
+	},
+	{
+		"key": "market_btn_boxequipment",
+		"value": "Gear Fortune Box"
+	},
+	{
+		"key": "market_btn_boxtreasure",
+		"value": "Chest"
+	},
+	{
+		"key": "market_btn_item",
+		"value": "Item"
+	},
+	{
+		"key": "market_title_buy",
+		"value": "Buy"
+	},
+	{
+		"key": "market_title_rent",
+		"value": "Rent"
+	},
+	{
+		"key": "market_title_time",
+		"value": "Rental Time:"
+	},
+	{
+		"key": "market_title_day",
+		"value": "Day"
+	},
+	{
+		"key": "market_title_day1",
+		"value": "(%{num} "
+	},
+	{
+		"key": "market_title_day2",
+		"value": "Days)"
+	},
+	{
+		"key": "market_title_day3",
+		"value": "Days)"
+	},
+	{
+		"key": "market_title_price",
+		"value": "Total Price:"
+	},
+	{
+		"key": "market_title_poundage",
+		"value": "Handling fee:"
+	},
+	{
+		"key": "market_title_purpose",
+		"value": "Item Type"
+	},
+	{
+		"key": "market_btn_itemcard",
+		"value": "For Card"
+	},
+	{
+		"key": "market_btn_itemequip",
+		"value": "For Gear"
+	},
+	{
+		"key": "market_btn_reset",
+		"value": "Rest"
+	},
+	{
+		"key": "market_btn_ok",
+		"value": "Confirm"
+	},
+	{
+		"key": "market_desc_time",
+		"value": "The rest can be rented for %{num} day(s)"
+	},
+	{
+		"key": "market_desc_rent",
+		"value": "<outline color=black width=2><color=#81fa5a>%{num}</color><color=#ffffff>/day</color></outline>"
+	},
+	{
+		"key": "market_desc_day",
+		"value": "/day"
+	},
+	{
+		"key": "market_equip_quality1",
+		"value": "Standard"
+	},
+	{
+		"key": "market_equip_quality2",
+		"value": "Fine"
+	},
+	{
+		"key": "market_equip_quality3",
+		"value": "Epic"
+	},
+	{
+		"key": "market_equip_quality4",
+		"value": "Legendary"
+	},
+	{
+		"key": "market_fail",
+		"value": "Failed to remove"
+	},
+	{
+		"key": "market_fail1",
+		"value": "Listing failed"
+	},
+	{
+		"key": "market_fail3",
+		"value": "Failed to purchase"
+	},
+	{
+		"key": "market_fail4",
+		"value": "Failed to rent"
+	},
+	{
+		"key": "logining_title",
+		"value": "Login Email"
+	},
+	{
+		"key": "logining_confirm",
+		"value": "Confirm"
+	},
+	{
+		"key": "logining_forgot",
+		"value": "Forgot your password?"
+	},
+	{
+		"key": "Password_reset_title",
+		"value": "Reset Password"
+	},
+	{
+		"key": "tvgame_btn_start",
+		"value": "Start"
+	},
+	{
+		"key": "tvgame_title",
+		"value": "Match"
+	},
+	{
+		"key": "tvgame_desc_player",
+		"value": "Please enter player ID"
+	},
+	{
+		"key": "tvgame_title_invite",
+		"value": "Invite"
+	},
+	{
+		"key": "tvgame_btn_invite",
+		"value": "Invite"
+	},
+	{
+		"key": "friend_title_0",
+		"value": "My Assistance"
+	},
+	{
+		"key": "friend_title_1",
+		"value": "Friends"
+	},
+	{
+		"key": "friend_title_2",
+		"value": "Assistance Card"
+	},
+	{
+		"key": "friend_title_3",
+		"value": "New Friend"
+	},
+	{
+		"key": "friend_title_4",
+		"value": "Income"
+	},
+	{
+		"key": "friend_title_5",
+		"value": "Dividend"
+	},
+	{
+		"key": "friend_title_6",
+		"value": "Card"
+	},
+	{
+		"key": "friend_add_tips",
+		"value": "Friend request sent…"
+	},
+	{
+		"key": "friend_editbox",
+		"value": "ID/Wallet Address"
+	},
+	{
+		"key": "friend_btn_save",
+		"value": "Save"
+	},
+	{
+		"key": "friend_btn_info",
+		"value": "Info"
+	},
+	{
+		"key": "friend_btn_remove",
+		"value": "Delete"
+	},
+	{
+		"key": "friend_btn_record",
+		"value": "Details"
+	},
+	{
+		"key": "friend_btn_refuse",
+		"value": "Reject"
+	},
+	{
+		"key": "friend_btn_pass",
+		"value": "Agree"
+	},
+	{
+		"key": "friend_btn_add",
+		"value": "Add"
+	},
+	{
+		"key": "friend_btn_manage",
+		"value": "Manage"
+	},
+	{
+		"key": "friend_btn_played",
+		"value": "Info"
+	},
+	{
+		"key": "friend_level",
+		"value": "Lv. %{level}"
+	},
+	{
+		"key": "friend_assisted_0",
+		"value": "<outline color=black width=2><color=#ffffff>%{time} Assist</color><color=#74db66>%{name}</color></outline>"
+	},
+	{
+		"key": "friend_assisted_1",
+		"value": "Assistance Records"
+	},
+	{
+		"key": "friend_assisted_2",
+		"value": "Get:"
+	},
+	{
+		"key": "friend_explain_1",
+		"value": "You don’t have any income."
+	},
+	{
+		"key": "friend_explain_2",
+		"value": "After adding a friend, you can use their Assistance Cards in PvE Challenges."
+	},
+	{
+		"key": "match_tips_0",
+		"value": "Locked cards."
+	},
+	{
+		"key": "match_tips_1",
+		"value": "Locked gear."
+	},
+	{
+		"key": "match_tips_5",
+		"value": "Insufficient decks cards."
+	},
+	{
+		"key": "blind_page_title_0",
+		"value": "Card Fortune Box"
+	},
+	{
+		"key": "blind_page_title_1",
+		"value": "Gear Fortune Box"
+	},
+	{
+		"key": "blind_page_alert_0",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "blind_page_alert_1",
+		"value": "Please wait. On-chain operation processing…"
+	},
+	{
+		"key": "cardsys_top_pvp",
+		"value": "PVP"
+	},
+	{
+		"key": "cardsys_top_upgrade",
+		"value": "Upgrade"
+	},
+	{
+		"key": "cardsys_card_level",
+		"value": "Level: %{level}"
+	},
+	{
+		"key": "cardsys_card_type_num",
+		"value": "Qty: %{num}"
+	},
+	{
+		"key": "cardsys_average",
+		"value": "Average"
+	},
+	{
+		"key": "cardsys_tip_card_group",
+		"value": "Deck"
+	},
+	{
+		"key": "cardsys_tip_no_card",
+		"value": "Unowned Cards"
+	},
+	{
+		"key": "cardsys_pvp",
+		"value": "PVE"
+	},
+	{
+		"key": "cardsys_pve",
+		"value": "PVE"
+	},
+	{
+		"key": "cardsys_pvp_limit",
+		"value": "PvP"
+	},
+	{
+		"key": "cardsys_upgrade_use_tip",
+		"value": "Required Resources"
+	},
+	{
+		"key": "cardsys_btn_replenish",
+		"value": "Recovery"
+	},
+	{
+		"key": "cardsys_btn_info",
+		"value": "Info"
+	},
+	{
+		"key": "cardsys_btn_remove",
+		"value": "Remove"
+	},
+	{
+		"key": "cardsys_btn_sperad",
+		"value": "More"
+	},
+	{
+		"key": "cardsys_btn_back",
+		"value": "Back"
+	},
+	{
+		"key": "cardsys_btn_stamina",
+		"value": "Recover"
+	},
+	{
+		"key": "cardsys_btn_use",
+		"value": "Use"
+	},
+	{
+		"key": "cardsys_btn_reset",
+		"value": "Reset"
+	},
+	{
+		"key": "cardsys_btn_upgrade",
+		"value": "Upgrade"
+	},
+	{
+		"key": "cardsys_top_repair_power",
+		"value": "VIT Recovery"
+	},
+	{
+		"key": "cardsys_skill",
+		"value": "Life Skill:"
+	},
+	{
+		"key": "cardsys_born",
+		"value": "Origin:"
+	},
+	{
+		"key": "cardsys_select",
+		"value": "Choose a card to consume"
+	},
+	{
+		"key": "cardsys_synthetic_connsumption",
+		"value": "Resources to consume"
+	},
+	{
+		"key": "equipment_top_pvp",
+		"value": "Gear"
+	},
+	{
+		"key": "equipment_top_fusion",
+		"value": "Craft"
+	},
+	{
+		"key": "equipment_top_composite",
+		"value": "Craft"
+	},
+	{
+		"key": "equipment_pvp",
+		"value": "PVE"
+	},
+	{
+		"key": "equipment_pvp_limit",
+		"value": "PvP"
+	},
+	{
+		"key": "equipment_top_repair_power",
+		"value": "Durability Recovery"
+	},
+	{
+		"key": "equipment_recycle_title",
+		"value": "Recycle Value:"
+	},
+	{
+		"key": "equipment_quantity",
+		"value": "Quantity"
+	},
+	{
+		"key": "equipment_tip_composute",
+		"value": "Craft"
+	},
+	{
+		"key": "equipment_btn_info",
+		"value": "Info"
+	},
+	{
+		"key": "equipment_btn_remove",
+		"value": "Remove"
+	},
+	{
+		"key": "equipment_btn_recycle",
+		"value": "Recycle"
+	},
+	{
+		"key": "equipment_btn_back",
+		"value": "Back"
+	},
+	{
+		"key": "equipment_btn_items",
+		"value": "Refine"
+	},
+	{
+		"key": "equipment_btn_repair",
+		"value": "Recover"
+	},
+	{
+		"key": "equipment_btn_composute",
+		"value": "Craft"
+	},
+	{
+		"key": "equipment_btn_reset",
+		"value": "Reforge"
+	},
+	{
+		"key": "equipment_btn_equip",
+		"value": "Use"
+	},
+	{
+		"key": "equipment_btn_use",
+		"value": "Use"
+	},
+	{
+		"key": "equipment_btn_check",
+		"value": "Use"
+	},
+	{
+		"key": "equipment_btn_replenish",
+		"value": "Recovery"
+	},
+	{
+		"key": "equipment_seek_tip",
+		"value": "Please select how many pts to restore to"
+	},
+	{
+		"key": "equipment_no_select_attr",
+		"value": "Please select a stat to reset"
+	},
+	{
+		"key": "equipment_prop_num",
+		"value": "<outline color=000 width=2><color=#DF9BFF>%{curr}</color><color=#ffffff>/%{max}</color></outline>"
+	},
+	{
+		"key": "equipment_attrs_tip",
+		"value": "<outline color=000 width=2><color=#20FF3A>Uncommon gear chance: %{weight}%</color>\n<color=#54DDFF>Fine gear chance: %{weight}%</color>\n<color=#F554FF>Epic gear chance: %{weight}%</color>\n<color=#FF8813>Legendary gear chance: %{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_level",
+		"value": "Lv. %{level}"
+	},
+	{
+		"key": "equip_repair_err_name",
+		"value": "Recycle failed"
+	},
+	{
+		"key": "equip_repair_err_content",
+		"value": "Failed to recycle %{name}"
+	},
+	{
+		"key": "equip_repair_confim_content",
+		"value": "Recycle %{name} x%{num}?"
+	},
+	{
+		"key": "equip_compose_err_name",
+		"value": "Crafting failed"
+	},
+	{
+		"key": "equip_compose_err_content",
+		"value": "Failed to craft %{name}"
+	},
+	{
+		"key": "equip_select",
+		"value": "Select gear to consume"
+	},
+	{
+		"key": "equip_synthetic_connsumption",
+		"value": "Resources to consume"
+	},
+	{
+		"key": "email_title",
+		"value": "Email"
+	},
+	{
+		"key": "email_time",
+		"value": "<color=#ffffff>Countdown:</color> <color=#DF40D2>%{num} days</color>"
+	},
+	{
+		"key": "email_btn_delete_read",
+		"value": "Delete\nRead"
+	},
+	{
+		"key": "email_btn_read_all",
+		"value": "Quick\nRead"
+	},
+	{
+		"key": "email_btn_claim_all",
+		"value": "Quick\nClaim"
+	},
+	{
+		"key": "email_btn_claim",
+		"value": "Confirm"
+	},
+	{
+		"key": "email_tips_0",
+		"value": "No new messages"
+	},
+	{
+		"key": "email_tips_1",
+		"value": "No mail"
+	},
+	{
+		"key": "pve_title",
+		"value": "PvE"
+	},
+	{
+		"key": "pve_tip_cards",
+		"value": "Card"
+	},
+	{
+		"key": "pve_level",
+		"value": "Stage %{level}"
+	},
+	{
+		"key": "pve_level_des",
+		"value": "Stage Info"
+	},
+	{
+		"key": "pve_difficulty",
+		"value": "<outline color=black width=2><color=#e6e6e6>Difficulty</color> <color=#FF0000>%{difficulty}</color></outline>"
+	},
+	{
+		"key": "pve_easy",
+		"value": "<outline color=black width=2><color=#3cde4f>Easy</color></outline>"
+	},
+	{
+		"key": "pve_power_need",
+		"value": "<outline color=black width=2><color=#e6e6e6>CP Requirements</color> <color=#12FF00>%{num}</color></outline>"
+	},
+	{
+		"key": "pve_power_need2",
+		"value": "<outline color=black width=2><color=#e6e6e6>CP Requirements</color><color=#FF0000>%{num}</color></outline>"
+	},
+	{
+		"key": "pve_rewards",
+		"value": "Clearance Reward"
+	},
+	{
+		"key": "pve_rewards_tip",
+		"value": "(Refresh Daily)"
+	},
+	{
+		"key": "pve_battle",
+		"value": "Battle"
+	},
+	{
+		"key": "pve_btn_assist",
+		"value": "Assist"
+	},
+	{
+		"key": "pve_btn_use",
+		"value": "Use"
+	},
+	{
+		"key": "pve_pop_combat",
+		"value": "CP"
+	},
+	{
+		"key": "pve_pop_et",
+		"value": "Gear CP"
+	},
+	{
+		"key": "pve_pop_card_rating",
+		"value": "Card CP"
+	},
+	{
+		"key": "card_attr_hp",
+		"value": "HP:"
+	},
+	{
+		"key": "card_attr_atk",
+		"value": "Base ATK:"
+	},
+	{
+		"key": "card_attr_buildingAtk",
+		"value": "ATK vs. Building:"
+	},
+	{
+		"key": "card_attr_groundAtk",
+		"value": "ATK vs. Ground:"
+	},
+	{
+		"key": "card_attr_flyerAtk",
+		"value": "ATK vs. Air:"
+	},
+	{
+		"key": "card_attr_TowerAtk",
+		"value": "ATK vs. Tower:"
+	},
+	{
+		"key": "card_attr_motionSpeed",
+		"value": "Move SPD:"
+	},
+	{
+		"key": "card_attr_atkSpeed",
+		"value": "ATK SPD:"
+	},
+	{
+		"key": "card_attr_bornCastMs",
+		"value": "Deploy Time:"
+	},
+	{
+		"key": "card_attr_AtDistance",
+		"value": "Attack Range:"
+	},
+	{
+		"key": "card_attr_EffectRadius",
+		"value": "AoE DMG:"
+	},
+	{
+		"key": "card_attr_EffectTypeCall",
+		"value": "Summon"
+	},
+	{
+		"key": "card_attr_time",
+		"value": "Duration"
+	},
+	{
+		"key": "card_attr_Target",
+		"value": "Target:"
+	},
+	{
+		"key": "card_attr_Target1",
+		"value": "All"
+	},
+	{
+		"key": "card_attr_Target2",
+		"value": "Ground"
+	},
+	{
+		"key": "card_attr_Target3",
+		"value": "Buildings"
+	},
+	{
+		"key": "card_attr_Target4",
+		"value": "Spells"
+	},
+	{
+		"key": "card_unitType_1",
+		"value": "(Buildings)"
+	},
+	{
+		"key": "card_unitType_2",
+		"value": "(Ground Units)"
+	},
+	{
+		"key": "card_unitType_3",
+		"value": "(Air Units)"
+	},
+	{
+		"key": "card_unitType_4",
+		"value": "(Spells)"
+	},
+	{
+		"key": "card_unitType_5",
+		"value": "(Maiden's/King's Tower)"
+	},
+	{
+		"key": "sec",
+		"value": "Sec"
+	},
+	{
+		"key": "tip_composute_desc1",
+		"value": "Will Consume"
+	},
+	{
+		"key": "tip_composute_desc2",
+		"value": "Continue?"
+	},
+	{
+		"key": "tip_prop_mask_def_name",
+		"value": "Item Name"
+	},
+	{
+		"key": "tip_prop_mask_def_desc",
+		"value": "Item Description"
+	},
+	{
+		"key": "tip_card_upgrade",
+		"value": "Use %{prop} to upgrade %{name}?"
+	},
+	{
+		"key": "tip_card_upgrade_fail_title",
+		"value": "Failed to upgrade"
+	},
+	{
+		"key": "tip_card_upgrade_fail_content",
+		"value": "Failed to upgrade %{key}."
+	},
+	{
+		"key": "tip_card_reset_power_fail_title",
+		"value": "Recovery failed"
+	},
+	{
+		"key": "tip_card_reset_power_fail_content",
+		"value": "VIT recovery for %{key} failed."
+	},
+	{
+		"key": "tip_card_reset_group_power_fail_content",
+		"value": "Failed to replenish the current deck's VIT."
+	},
+	{
+		"key": "tip_card_reset_fail_title",
+		"value": "Reset failed"
+	},
+	{
+		"key": "tip_card_reset_fail_content",
+		"value": "Failed to reset %{key}."
+	},
+	{
+		"key": "tip_card_reset_ok_title",
+		"value": "Reset"
+	},
+	{
+		"key": "tip_card_reset_ok_content",
+		"value": "%{key} reset."
+	},
+	{
+		"key": "tip_card_power_full",
+		"value": "This card does not require more VIT."
+	},
+	{
+		"key": "tip_card_power_content",
+		"value": "Use %{prop} to replenish the VIT of %{name}?"
+	},
+	{
+		"key": "tip_card_group_power_full",
+		"value": "This deck does not require more VIT."
+	},
+	{
+		"key": "tip_card_group_power_content",
+		"value": "Use %{prop} to give the current deck %{power} VIT?"
+	},
+	{
+		"key": "tip_card_group_reset_power_fail_title",
+		"value": "Recovery failed"
+	},
+	{
+		"key": "tip_card_group_reset_power_fail_content",
+		"value": "Failed to restore deck VIT."
+	},
+	{
+		"key": "tip_equip_reset_fail_title",
+		"value": "Reset failed"
+	},
+	{
+		"key": "tip_equip_reset_fail_content",
+		"value": "Failed to reset %{key}."
+	},
+	{
+		"key": "tip_equip_reset_ok_title",
+		"value": "Reset"
+	},
+	{
+		"key": "tip_equip_reset_ok_content",
+		"value": "%{key} has been reset."
+	},
+	{
+		"key": "tip_equip_reset_power_fail_title",
+		"value": "Recovery failed"
+	},
+	{
+		"key": "tip_equip_reset_power_fail_content",
+		"value": "Failed to restore the durability of %{key}."
+	},
+	{
+		"key": "tip_equip_reset_group_power_fail_content",
+		"value": "Failed to replenish deck durability."
+	},
+	{
+		"key": "tip_equip_power_content",
+		"value": "Use %{prop} to restore the gear's durability by %{num}?"
+	},
+	{
+		"key": "tip_equip_power_group_content",
+		"value": "Use %{prop} to restore the deck’s durability by %{power}?"
+	},
+	{
+		"key": "tip_equip_power_full",
+		"value": "This card does not require more durability"
+	},
+	{
+		"key": "tip_equip_power_group_full",
+		"value": "This card does not require more durability"
+	},
+	{
+		"key": "tip_no_prop",
+		"value": "You don't own this item"
+	},
+	{
+		"key": "tip_trade",
+		"value": "Please wait. On-chain operation processing..."
+	},
+	{
+		"key": "tip_prop_content",
+		"value": "Use %{prop} to reset %{name}?"
+	},
+	{
+		"key": "tip_equip_prop_content",
+		"value": "Use %{prop} to reset %{name}?"
+	},
+	{
+		"key": "tip_equip_prop_content2",
+		"value": "Use %{prop} to reset %{name}?"
+	},
+	{
+		"key": "tip_ok",
+		"value": "Successful"
+	},
+	{
+		"key": "tip_err_max_level",
+		"value": "Level Maxed"
+	},
+	{
+		"key": "tip_err_full_power",
+		"value": "VIT Maxed"
+	},
+	{
+		"key": "tip_err_full_durability",
+		"value": "Durability Maxed"
+	},
+	{
+		"key": "toast_merge_same_rarity_one",
+		"value": "These are both great. Cannot craft."
+	},
+	{
+		"key": "prop_user_err",
+		"value": "Insufficient %{propName}"
+	},
+	{
+		"key": "setting_editbox_tips",
+		"value": "Cannot exceed 14 characters"
+	},
+	{
+		"key": "bron",
+		"value": "Origin"
+	},
+	{
+		"key": "equip_all",
+		"value": "All"
+	},
+	{
+		"key": "equip_compost_weight_1",
+		"value": "<outline color=000 width=1><color=#20FF3A>Uncommon gear chance: %{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_2",
+		"value": "<outline color=000 width=1><color=#54DDFF>Fine gear chance: %{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_3",
+		"value": "<outline color=000 width=1><color=#F554FF>Epic gear chance: %{weight}%</color></outline>"
+	},
+	{
+		"key": "equip_compost_weight_4",
+		"value": "<outline color=000 width=1><color=#FF8813>Legendary gear chance: %{weight}%</color></outline>"
+	},
+	{
+		"key": "wallet_tips",
+		"value": "The %{num} %{name} in your Wallet has been transferred to %{addr}."
+	},
+	{
+		"key": "wallet_tips1",
+		"value": "Go to the Market to view #%{id}"
+	},
+	{
+		"key": "wallet_tips2",
+		"value": "Transfer succeeded"
+	},
+	{
+		"key": "wallet_tips3",
+		"value": "Exchange ratio request failed"
+	},
+	{
+		"key": "not_enough_nda",
+		"value": "Insufficient Gold."
+	},
+	{
+		"key": "not_enough_bnb",
+		"value": "Insufficient ETH."
+	},
+	{
+		"key": "not_enough_dggv2",
+		"value": "Insufficient DGG."
+	},
+	{
+		"key": "not_enough_dgg",
+		"value": "Insufficient diamonds."
+	},
+	{
+		"key": "blind_box_buy_tips",
+		"value": "Consume %{num1} Gold and Gas:≈%{gas} to open %{num2} Fortune Boxes?"
+	},
+	{
+		"key": "blind_box_buy_tips1",
+		"value": "Consume Gas:≈%{gas} to open Surprise Chest?\nOpen out gold coins, no gas fee consumption."
+	},
+	{
+		"key": "blind_box_buy_tips2",
+		"value": "Consume Gas:≈%{gas} to open Fortune Boxes?"
+	},
+	{
+		"key": "wallet_title_time",
+		"value": "Date:"
+	},
+	{
+		"key": "friend_tips_remove",
+		"value": "Delete this friend?"
+	},
+	{
+		"key": "wallet_transfer_tips",
+		"value": "Please wait. On-chain operation processing..."
+	},
+	{
+		"key": "battle_btn_continue",
+		"value": "Continue"
+	},
+	{
+		"key": "battle_btn_exit",
+		"value": "Quit"
+	},
+	{
+		"key": "wallet_title_11",
+		"value": "Transfer Amt:"
+	},
+	{
+		"key": "wallet_title_12",
+		"value": "Exchange Amt:"
+	},
+	{
+		"key": "wallet_title_13",
+		"value": "Purchase Qty:"
+	},
+	{
+		"key": "wallet_title_14",
+		"value": "Removal Qty:"
+	},
+	{
+		"key": "wallet_title_15",
+		"value": "Transfer Qty:"
+	},
+	{
+		"key": "market_desc_buy",
+		"value": "Can only purchase %{num} of this item for now"
+	},
+	{
+		"key": "market_tips_err",
+		"value": "Please enter correct info."
+	},
+	{
+		"key": "battle_tips_full",
+		"value": "Food full!"
+	},
+	{
+		"key": "match_tips_2",
+		"value": "Defending and then counterattacking is a common strategy in warfare."
+	},
+	{
+		"key": "match_tips_3",
+		"value": "Matching... Please wait."
+	},
+	{
+		"key": "match_tips_4",
+		"value": "Search for opponents"
+	},
+	{
+		"key": "bind_verification1_title",
+		"value": "Bind Validator"
+	},
+	{
+		"key": "bind_verification1_skip",
+		"value": "Skip"
+	},
+	{
+		"key": "bind_verification1_next",
+		"value": "Next"
+	},
+	{
+		"key": "bind_verification1_dec1",
+		"value": "1. Install Google Validator App or other validator Apps on your mobile devices.\n2. Add your account as a new one to the validator App manually.\n3. Scan the QR Code to bind the account directly."
+	},
+	{
+		"key": "bind_verification1_dec2",
+		"value": "If you can't scan the QR Code, use \"DEGEN\" as your username and enter the key manually."
+	},
+	{
+		"key": "bind_verification2_title",
+		"value": "Bind Validator"
+	},
+	{
+		"key": "bind_verification2_unbind_title",
+		"value": "Unbind And Verification"
+	},
+	{
+		"key": "Setting Secondary Verification",
+		"value": "Validator"
+	},
+	{
+		"key": "bind_verification2_txt1",
+		"value": "Enter 6-digit Verification Code"
+	},
+	{
+		"key": "bind_verification2_return",
+		"value": "Back"
+	},
+	{
+		"key": "bind_verification2_validation",
+		"value": "Verify"
+	},
+	{
+		"key": "bind_verification2_confirm",
+		"value": "Confirm"
+	},
+	{
+		"key": "bind_verification2_unbind",
+		"value": "Unbind"
+	},
+	{
+		"key": "bind_verification2_input_code",
+		"value": "Enter 6-digit Verification Code"
+	},
+	{
+		"key": "bind_verification2_success",
+		"value": "You have bound DEGEN to the validator App successfully"
+	},
+	{
+		"key": "Confirm Password",
+		"value": "Enter password again"
+	},
+	{
+		"key": "verification_pwd",
+		"value": "Confirm Password"
+	},
+	{
+		"key": "aws_code_copy",
+		"value": "Copy succeeded"
+	},
+	{
+		"key": "tip_change_pwd_ok",
+		"value": "Modification succeeded"
+	},
+	{
+		"key": "aws_loading",
+		"value": "Loading..."
+	},
+	{
+		"key": "card_info_timer",
+		"value": "%{d}d %{m}m %{s}s"
+	},
+	{
+		"key": "tip_card_group_has_lease",
+		"value": "Rented card(s) in the deck."
+	},
+	{
+		"key": "no_material_box",
+		"value": "There is no treasure chest."
+	},
+	{
+		"key": "king_level_tips",
+		"value": "CP of card sets and Gear determines the level of King's Tower"
+	},
+	{
+		"key": "king_level_tips_explain",
+		"value": "1. Each card level is calculated as 10000 CP.\n2. The attribute of each green quality in the Gear is calculated as 3000 CP.\n3. The attribute of each blue quality is calculated as 6000 CP.\n4. The attribute of each purple quality is calculated as 10000 CP.\n5. The attribute of each orange quality is calculated as 15000 CP."
+	},
+	{
+		"key": "king_level_title",
+		"value": "King's Tower Level"
+	},
+	{
+		"key": "king_level_title_0",
+		"value": "Card CP"
+	},
+	{
+		"key": "king_level_title_1",
+		"value": "Gear CP"
+	},
+	{
+		"key": "king_level_title_2",
+		"value": "King's Tower HP"
+	},
+	{
+		"key": "king_level_title_3",
+		"value": "King's Tower ATK"
+	},
+	{
+		"key": "pve_battle_tip",
+		"value": "The current PVE deck is insufficient"
+	},
+	{
+		"key": "pve_battle_tip_1",
+		"value": "Cards joined PvE events can not be traded on Chain in within 1 day. Continue?"
+	},
+	{
+		"key": "pve_battle_btn",
+		"value": "To play"
+	},
+	{
+		"key": "card_type_nomal",
+		"value": "By Spend"
+	},
+	{
+		"key": "card_type_by_level",
+		"value": "By Level"
+	},
+	{
+		"key": "net_server_disconnected",
+		"value": "Server disconnected"
+	},
+	{
+		"key": "gas_cost",
+		"value": "Consume Gas:≈%{gas}"
+	},
+	{
+		"key": "not_enough_gas",
+		"value": "Insufficient GAS fee. Please check your wallet."
+	},
+	{
+		"key": "cardsys_btn_upgrade_cd",
+		"value": "%{d}D %{h}H:%{m}M:%{s}S"
+	},
+	{
+		"key": "_card_1",
+		"value": "Imperial Warrior"
+	},
+	{
+		"key": "_card_2",
+		"value": "Elven Archer"
+	},
+	{
+		"key": "_card_3",
+		"value": "Gargoyle"
+	},
+	{
+		"key": "_card_4",
+		"value": "Peon"
+	},
+	{
+		"key": "_card_5",
+		"value": "Siege Giant"
+	},
+	{
+		"key": "_card_6",
+		"value": "Musketeer"
+	},
+	{
+		"key": "_card_7",
+		"value": "Harvester"
+	},
+	{
+		"key": "_card_8",
+		"value": "Orc Slinger"
+	},
+	{
+		"key": "_card_9",
+		"value": "Undead Mob"
+	},
+	{
+		"key": "_card_10",
+		"value": "Artillery"
+	},
+	{
+		"key": "_card_11",
+		"value": "Hammer"
+	},
+	{
+		"key": "_card_12",
+		"value": "Air Harvester"
+	},
+	{
+		"key": "_card_13",
+		"value": "Fire Dragon Whelp"
+	},
+	{
+		"key": "_card_14",
+		"value": "Orc Siege Cart"
+	},
+	{
+		"key": "_card_15",
+		"value": "Undead Dragon"
+	},
+	{
+		"key": "_card_16",
+		"value": "Fire Mage"
+	},
+	{
+		"key": "_card_17",
+		"value": "Giant Harvester"
+	},
+	{
+		"key": "_card_18",
+		"value": "Werewolf Knight"
+	},
+	{
+		"key": "_card_19",
+		"value": "Necromancer"
+	},
+	{
+		"key": "_card_20",
+		"value": "Dragon Knight"
+	},
+	{
+		"key": "_card_21",
+		"value": "Building Bomber"
+	},
+	{
+		"key": "_card_22",
+		"value": "Imperial Knight"
+	},
+	{
+		"key": "_card_23",
+		"value": "Undead Knight"
+	},
+	{
+		"key": "_card_24",
+		"value": "Self-destruct Bot"
+	},
+	{
+		"key": "_card_25",
+		"value": "Undead Army"
+	},
+	{
+		"key": "_card_26",
+		"value": "Skeleton Archer"
+	},
+	{
+		"key": "_card_27",
+		"value": "Orc Berserker"
+	},
+	{
+		"key": "_card_28",
+		"value": "Peon Bomb"
+	},
+	{
+		"key": "_card_29",
+		"value": "Orc Arrow Tower"
+	},
+	{
+		"key": "_card_30",
+		"value": "Undead Cemetery"
+	},
+	{
+		"key": "_card_31",
+		"value": "Magic Turret"
+	},
+	{
+		"key": "_card_32",
+		"value": "MG Turret"
+	},
+	{
+		"key": "_card_33",
+		"value": "Peon Camp"
+	},
+	{
+		"key": "_card_34",
+		"value": "Imperial Barracks"
+	},
+	{
+		"key": "_card_35",
+		"value": "Arrow Rain"
+	},
+	{
+		"key": "_card_36",
+		"value": "Fireball"
+	},
+	{
+		"key": "_card_37",
+		"value": "Thunderbolt"
+	},
+	{
+		"key": "_card_38",
+		"value": "Tsunami"
+	},
+	{
+		"key": "_card_39",
+		"value": "Snowball"
+	},
+	{
+		"key": "_card_40",
+		"value": "Frozen Nova"
+	},
+	{
+		"key": "_card_41",
+		"value": "A loyal servant of Imperial General Hobart who fights for the glory of the Empire. After being tempered in combat, he excels at both offense and defense. His biggest regret is not mastering ranged combat skills."
+	},
+	{
+		"key": "_card_42",
+		"value": "The sisters of the Elven warrior Vieruodis who despise the Undead. With their acute Elven reflexes and superior perception. they're not permitted to wear armor to protect themselves."
+	},
+	{
+		"key": "_card_43",
+		"value": "These creatures are at the bottom of the demon hierarchy, and as such, they only pose a threat when attacking as a group. they're usually assigned as reconnaissance troops."
+	},
+	{
+		"key": "_card_44",
+		"value": "As one of the most hardworking members of the Orc race, they're forced to do almost all the menial tasks. If their overseers find out that they're being lazy, they're swiftly whipped into place."
+	},
+	{
+		"key": "_card_45",
+		"value": "Due to the traits of their race, these creatures have an incredibly strong physique, but also very poor eyesight, meaning they can only see buildings. Under the right circumstances, they become ruthless siege machines."
+	},
+	{
+		"key": "_card_46",
+		"value": "In order to thank the Dwarves for their help, the Machinists made muskets for them. In addition to hunting, the Dwarves also use them to slay their enemies, who have no hope of escape when locked onto."
+	},
+	{
+		"key": "_card_47",
+		"value": "The chivalrous Machinists have no concept of gender. They’re extremely powerful in hand-to-hand combat, and also extremely helpful around the farm when the Humans are harvesting their crops."
+	},
+	{
+		"key": "_card_48",
+		"value": "The backbone of the Orc race. In order to carry enough firepower, they don’t normally wear any armor. They can cause a lot of trouble when their enemies ignore them."
+	},
+	{
+		"key": "_card_49",
+		"value": "Undead that have just awakened from the necropolis. Their fragile but dexterous bodies often cause their enemies to underestimate them."
+	},
+	{
+		"key": "_card_50",
+		"value": "A necromancer who studies in the art of explosions. He doesn’t seem very interested in spells, but seeing an explosion really gets him excited. However, his fragile body doesn’t allow him to throw bombs into the air."
+	},
+	{
+		"key": "_card_51",
+		"value": "The greatest of the Human empire’s elite troops with superb combat skills. She often brags that she can “Take down ten men at once!\" However, she’s not very good at fighting enemies in mid-air."
+	},
+	{
+		"key": "_card_52",
+		"value": "The Machinists air combat skills make up for the Empire’s weakness in the skies. However, they can only use their propellers to attack the enemy."
+	},
+	{
+		"key": "_card_53",
+		"value": "Although this Fire Dragon is 100 years old, she’s still considered a whelp. She can breathe flames on the battlefield to deal area damage."
+	},
+	{
+		"key": "_card_54",
+		"value": "A terrifying siege cart used exclusively by the Orcs. Its sudden acceleration makes it hard to defend against. When it hits a building. When it’s destroyed, the Orcs grab their axes and fight to the death."
+	},
+	{
+		"key": "_card_55",
+		"value": "After the Skeleton Dragons were single-handedly defeated by the Archmage, they no longer act alone. The fire they breathe deals area damage."
+	},
+	{
+		"key": "_card_56",
+		"value": "An Archmage skilled in the use of fire. Her idol is a sorceress called “Lina Inverse”, and she often fantasizes about being able to cast the “Dragon Slash” spell."
+	},
+	{
+		"key": "_card_57",
+		"value": "A weapon used by the Machinists in crucial battles. Its powerful defense and melee damage make it unstoppable. However, it can be slow when moving and attacking."
+	},
+	{
+		"key": "_card_58",
+		"value": "Wolf Cavalry are as fast as the wind and as brutal as fire. They were born to plunder and use their superior speed to attack buildings up close. They can also leap over rivers, making them excellent looters."
+	},
+	{
+		"key": "_card_59",
+		"value": "A necromancer from hell that can summon Undead Mobs whenever he needs them. He knows an advanced undead spell that can cause area damage."
+	},
+	{
+		"key": "_card_60",
+		"value": "The Orcs' main air units. Their slogan is \"justice rains down from heaven\". However, their gliders are not very firm and aren't as good as real dragon wings."
+	},
+	{
+		"key": "_card_61",
+		"value": "The Machinists' ultimate anti-building weapon. If you see one appear above your building. Besides the terrifying damage they cause, they also drop huge bombs after they're destroyed that cause area damage."
+	},
+	{
+		"key": "_card_62",
+		"value": "She hides her beauty so that others don't look down on her. Don't underestimate her strength. After charging, her next attack deals great damage to single units."
+	},
+	{
+		"key": "_card_63",
+		"value": "Although she's an Undead and is no longer afraid of death, her extra shield helps her feel more at ease. Every time she swings her weapon. Her undead horse allows her to deal a lot of damage when she charges."
+	},
+	{
+		"key": "_card_64",
+		"value": "An automatic siege machine made by the Machinists. Its low consumption and fast speed allow it to rush towards buildings without fear. Only explosions can make its soul return to the Nexus."
+	},
+	{
+		"key": "_card_65",
+		"value": "A mob formed of multiple Undead. Their cooperation greatly increases the Undead army’s strength."
+	},
+	{
+		"key": "_card_66",
+		"value": "An elite Undead sniper. He was shot in the knee last year, but it didn't affect his shooting range. His weak body doesn't slow down his arrows."
+	},
+	{
+		"key": "_card_67",
+		"value": "An elite version of regular Orcs. Their slogan is \"Liberty is greater than life\". They’re more powerful than regular Orcs, and can deal more damage with a higher attack speed."
+	},
+	{
+		"key": "_card_68",
+		"value": "The Orcs once heard that someone flew to the moon on a cannonball, so they started putting Peons in boxes and firing them everywhere. Of course, the leaders never worried about how they ended up."
+	},
+	{
+		"key": "_card_69",
+		"value": "An Orc defense building that can provide suppressing fire on the ground. However, when it was built, they forgot to add a skylight, so it can't attack flying units."
+	},
+	{
+		"key": "_card_70",
+		"value": "An Undead army building. The necropolis summons new Undead. When they’re first summoned, the Undead have no idea what the future holds for them.you can still see the last 4 Undead that were resurrected."
+	},
+	{
+		"key": "_card_71",
+		"value": "A Human defense building. The damage it causes to the enemy increases over time. No matter how tough the enemy is, it’s only a matter of time before they’re defeated by it."
+	},
+	{
+		"key": "_card_72",
+		"value": "A Machinist attack building that can destroy the enemy's defense towers on the other side of the river. It has a very high range and an amazing firing speed."
+	},
+	{
+		"key": "_card_73",
+		"value": "An Orc army building. Every once in a while, whipped Peons appear outside it. When this happens, the Peons don’t slack off. “Quit being lazy. Back to work!”"
+	},
+	{
+		"key": "_card_74",
+		"value": "A Human army building where soldiers rest. No matter what, make sure you don’t wake the soldiers up."
+	},
+	{
+		"key": "_card_75",
+		"value": "Get all your archers to fire ranged shots at the enemies and the damage to defense towers will be greatly reduced."
+	},
+	{
+		"key": "_card_76",
+		"value": "Have you ever seen a fireball as big as a wok? It can cause a lot of damage to enemies in a small range and can greatly reduce the damage dealt to defense towers."
+	},
+	{
+		"key": "_card_77",
+		"value": "I hope you have a lightning rod with you. The lightning strikes three troops or buildings in range with the highest HP and briefly stuns them. In addition, the damage dealt to defense towers is greatly reduced."
+	},
+	{
+		"key": "_card_78",
+		"value": "Magic summons a rushing wave that mercilessly drowns everything before it. The damage dealt to defense towers will be greatly reduced."
+	},
+	{
+		"key": "_card_79",
+		"value": "A huge snowball that can deal ranged damage and slows down enemies. It greatly reduces damage dealt to defense towers. You don't want to be hit by this at Christmas."
+	},
+	{
+		"key": "_card_80",
+		"value": "Freezes enemies within a certain range, making them unable to move and attack. “Stop! Don't move”. Greatly reduces the damage dealt to defense towers."
+	},
+	{
+		"key": "_hero_1",
+		"value": "King's Tower"
+	},
+	{
+		"key": "_hero_2",
+		"value": "Maiden’s Tower"
+	},
+	{
+		"key": "_hero_3",
+		"value": "Imperial Warrior"
+	},
+	{
+		"key": "_hero_4",
+		"value": "Elven Archer"
+	},
+	{
+		"key": "_hero_5",
+		"value": "Gargoyle"
+	},
+	{
+		"key": "_hero_6",
+		"value": "Peon"
+	},
+	{
+		"key": "_hero_7",
+		"value": "Siege Giant"
+	},
+	{
+		"key": "_hero_8",
+		"value": "Musketeer"
+	},
+	{
+		"key": "_hero_9",
+		"value": "Harvester"
+	},
+	{
+		"key": "_hero_10",
+		"value": "Orc Slinger"
+	},
+	{
+		"key": "_hero_11",
+		"value": "Undead Mob"
+	},
+	{
+		"key": "_hero_12",
+		"value": "Artillery"
+	},
+	{
+		"key": "_hero_13",
+		"value": "Hammer"
+	},
+	{
+		"key": "_hero_14",
+		"value": "Air Harvester"
+	},
+	{
+		"key": "_hero_15",
+		"value": "Fire Dragon Whelp"
+	},
+	{
+		"key": "_hero_16",
+		"value": "Orc Siege Cart"
+	},
+	{
+		"key": "_hero_17",
+		"value": "Undead Dragon"
+	},
+	{
+		"key": "_hero_18",
+		"value": "Fire Mage"
+	},
+	{
+		"key": "_hero_19",
+		"value": "Giant Harvester"
+	},
+	{
+		"key": "_hero_20",
+		"value": "Werewolf Knight"
+	},
+	{
+		"key": "_hero_21",
+		"value": "Necromancer"
+	},
+	{
+		"key": "_hero_22",
+		"value": "Dragon Knight"
+	},
+	{
+		"key": "_hero_23",
+		"value": "Building Bomber"
+	},
+	{
+		"key": "_hero_24",
+		"value": "Imperial Knight"
+	},
+	{
+		"key": "_hero_25",
+		"value": "Undead Knight"
+	},
+	{
+		"key": "_hero_26",
+		"value": "Self-destruct Bot"
+	},
+	{
+		"key": "_hero_27",
+		"value": "Undead Army"
+	},
+	{
+		"key": "_hero_28",
+		"value": "Skeleton Archer"
+	},
+	{
+		"key": "_hero_29",
+		"value": "Orc Berserker"
+	},
+	{
+		"key": "_hero_30",
+		"value": "Peon Bomb"
+	},
+	{
+		"key": "_hero_31",
+		"value": "Orc Axemen"
+	},
+	{
+		"key": "_hero_32",
+		"value": "Orc Arrow Tower"
+	},
+	{
+		"key": "_hero_33",
+		"value": "Undead Cemetery"
+	},
+	{
+		"key": "_hero_34",
+		"value": "Magic Turret"
+	},
+	{
+		"key": "_hero_35",
+		"value": "MG Turret"
+	},
+	{
+		"key": "_hero_36",
+		"value": "Peon Camp"
+	},
+	{
+		"key": "_hero_37",
+		"value": "Imperial Barracks"
+	},
+	{
+		"key": "_hero_38",
+		"value": "Arrow Rain"
+	},
+	{
+		"key": "_hero_39",
+		"value": "Fireball"
+	},
+	{
+		"key": "_hero_40",
+		"value": "Thunderbolt"
+	},
+	{
+		"key": "_hero_41",
+		"value": "Tsunami"
+	},
+	{
+		"key": "_hero_42",
+		"value": "Snowball"
+	},
+	{
+		"key": "_hero_43",
+		"value": "Frozen Nova"
+	},
+	{
+		"key": "_hero_44",
+		"value": "Bomb"
+	},
+	{
+		"key": "_skill_1",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_2",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_3",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_4",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_5",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_6",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_7",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_8",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_9",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_10",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_11",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_12",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_13",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_14",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_15",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_16",
+		"value": "Blast ATK"
+	},
+	{
+		"key": "_skill_17",
+		"value": "Summon Lv.1"
+	},
+	{
+		"key": "_skill_18",
+		"value": "Summon Lv.2"
+	},
+	{
+		"key": "_skill_19",
+		"value": "Summon Lv.3"
+	},
+	{
+		"key": "_skill_20",
+		"value": "Summon Lv.4"
+	},
+	{
+		"key": "_skill_21",
+		"value": "Summon Lv.5"
+	},
+	{
+		"key": "_skill_22",
+		"value": "Summon Lv.6"
+	},
+	{
+		"key": "_skill_23",
+		"value": "Summon Lv.7"
+	},
+	{
+		"key": "_skill_24",
+		"value": "Summon Lv.8"
+	},
+	{
+		"key": "_skill_25",
+		"value": "Summon Lv.9"
+	},
+	{
+		"key": "_skill_26",
+		"value": "Summon Lv.10"
+	},
+	{
+		"key": "_skill_27",
+		"value": "Charge Buff"
+	},
+	{
+		"key": "_skill_28",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_29",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_30",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_31",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_32",
+		"value": "Summon Lv.1"
+	},
+	{
+		"key": "_skill_33",
+		"value": "Summon Lv.2"
+	},
+	{
+		"key": "_skill_34",
+		"value": "Summon Lv.3"
+	},
+	{
+		"key": "_skill_35",
+		"value": "Summon Lv.4"
+	},
+	{
+		"key": "_skill_36",
+		"value": "Summon Lv.5"
+	},
+	{
+		"key": "_skill_37",
+		"value": "Summon Lv.6"
+	},
+	{
+		"key": "_skill_38",
+		"value": "Summon Lv.7"
+	},
+	{
+		"key": "_skill_39",
+		"value": "Summon Lv.8"
+	},
+	{
+		"key": "_skill_40",
+		"value": "Summon Lv.9"
+	},
+	{
+		"key": "_skill_41",
+		"value": "Summon Lv.10"
+	},
+	{
+		"key": "_skill_42",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_43",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_44",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_45",
+		"value": "Death Blast Skill"
+	},
+	{
+		"key": "_skill_46",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_47",
+		"value": "Charge Buff"
+	},
+	{
+		"key": "_skill_48",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_49",
+		"value": "Charge Buff"
+	},
+	{
+		"key": "_skill_50",
+		"value": "Blast ATK"
+	},
+	{
+		"key": "_skill_51",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_52",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_53",
+		"value": "Summon Lv.1"
+	},
+	{
+		"key": "_skill_54",
+		"value": "Summon Lv.2"
+	},
+	{
+		"key": "_skill_55",
+		"value": "Summon Lv.3"
+	},
+	{
+		"key": "_skill_56",
+		"value": "Summon Lv.4"
+	},
+	{
+		"key": "_skill_57",
+		"value": "Summon Lv.5"
+	},
+	{
+		"key": "_skill_58",
+		"value": "Summon Lv.6"
+	},
+	{
+		"key": "_skill_59",
+		"value": "Summon Lv.7"
+	},
+	{
+		"key": "_skill_60",
+		"value": "Summon Lv.8"
+	},
+	{
+		"key": "_skill_61",
+		"value": "Summon Lv.9"
+	},
+	{
+		"key": "_skill_62",
+		"value": "Summon Lv.10"
+	},
+	{
+		"key": "_skill_63",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_64",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_65",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_66",
+		"value": "Summon Lv.1"
+	},
+	{
+		"key": "_skill_67",
+		"value": "Summon Lv.2"
+	},
+	{
+		"key": "_skill_68",
+		"value": "Summon Lv.3"
+	},
+	{
+		"key": "_skill_69",
+		"value": "Summon Lv.4"
+	},
+	{
+		"key": "_skill_70",
+		"value": "Summon Lv.5"
+	},
+	{
+		"key": "_skill_71",
+		"value": "Summon Lv.6"
+	},
+	{
+		"key": "_skill_72",
+		"value": "Summon Lv.7"
+	},
+	{
+		"key": "_skill_73",
+		"value": "Summon Lv.8"
+	},
+	{
+		"key": "_skill_74",
+		"value": "Summon Lv.9"
+	},
+	{
+		"key": "_skill_75",
+		"value": "Summon Lv.10"
+	},
+	{
+		"key": "_skill_76",
+		"value": "Death Summon Lv. 1"
+	},
+	{
+		"key": "_skill_77",
+		"value": "Death Summon Lv. 2"
+	},
+	{
+		"key": "_skill_78",
+		"value": "Death Summon Lv. 3"
+	},
+	{
+		"key": "_skill_79",
+		"value": "Death Summon Lv. 4"
+	},
+	{
+		"key": "_skill_80",
+		"value": "Death Summon Lv. 5"
+	},
+	{
+		"key": "_skill_81",
+		"value": "Death Summon Lv. 6"
+	},
+	{
+		"key": "_skill_82",
+		"value": "Death Summon Lv. 7"
+	},
+	{
+		"key": "_skill_83",
+		"value": "Death Summon Lv. 8"
+	},
+	{
+		"key": "_skill_84",
+		"value": "Death Summon Lv. 9"
+	},
+	{
+		"key": "_skill_85",
+		"value": "Death Summon Lv. 10"
+	},
+	{
+		"key": "_skill_86",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_87",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_88",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_89",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_90",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_91",
+		"value": "Summon Lv.1"
+	},
+	{
+		"key": "_skill_92",
+		"value": "Summon Lv.2"
+	},
+	{
+		"key": "_skill_93",
+		"value": "Summon Lv.3"
+	},
+	{
+		"key": "_skill_94",
+		"value": "Summon Lv.4"
+	},
+	{
+		"key": "_skill_95",
+		"value": "Summon Lv.5"
+	},
+	{
+		"key": "_skill_96",
+		"value": "Summon Lv.6"
+	},
+	{
+		"key": "_skill_97",
+		"value": "Summon Lv.7"
+	},
+	{
+		"key": "_skill_98",
+		"value": "Summon Lv.8"
+	},
+	{
+		"key": "_skill_99",
+		"value": "Summon Lv.9"
+	},
+	{
+		"key": "_skill_100",
+		"value": "Summon Lv.10"
+	},
+	{
+		"key": "_skill_101",
+		"value": "Death Summon Lv. 1"
+	},
+	{
+		"key": "_skill_102",
+		"value": "Death Summon Lv. 2"
+	},
+	{
+		"key": "_skill_103",
+		"value": "Death Summon Lv. 3"
+	},
+	{
+		"key": "_skill_104",
+		"value": "Death Summon Lv. 4"
+	},
+	{
+		"key": "_skill_105",
+		"value": "Death Summon Lv. 5"
+	},
+	{
+		"key": "_skill_106",
+		"value": "Death Summon Lv. 6"
+	},
+	{
+		"key": "_skill_107",
+		"value": "Death Summon Lv. 7"
+	},
+	{
+		"key": "_skill_108",
+		"value": "Death Summon Lv. 8"
+	},
+	{
+		"key": "_skill_109",
+		"value": "Death Summon Lv. 9"
+	},
+	{
+		"key": "_skill_110",
+		"value": "Death Summon Lv. 10"
+	},
+	{
+		"key": "_skill_111",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_112",
+		"value": "Death Summon Lv. 1"
+	},
+	{
+		"key": "_skill_113",
+		"value": "Death Summon Lv. 2"
+	},
+	{
+		"key": "_skill_114",
+		"value": "Death Summon Lv. 3"
+	},
+	{
+		"key": "_skill_115",
+		"value": "Death Summon Lv. 4"
+	},
+	{
+		"key": "_skill_116",
+		"value": "Death Summon Lv. 5"
+	},
+	{
+		"key": "_skill_117",
+		"value": "Death Summon Lv. 6"
+	},
+	{
+		"key": "_skill_118",
+		"value": "Death Summon Lv. 7"
+	},
+	{
+		"key": "_skill_119",
+		"value": "Death Summon Lv. 8"
+	},
+	{
+		"key": "_skill_120",
+		"value": "Death Summon Lv. 9"
+	},
+	{
+		"key": "_skill_121",
+		"value": "Death Summon Lv. 10"
+	},
+	{
+		"key": "_skill_122",
+		"value": "Auto HP Reduction"
+	},
+	{
+		"key": "_skill_123",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_124",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_125",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_126",
+		"value": "Thunderbolt Buff"
+	},
+	{
+		"key": "_skill_127",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_128",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_129",
+		"value": "Snowball Buff"
+	},
+	{
+		"key": "_skill_130",
+		"value": "Frozen Nova Buff"
+	},
+	{
+		"key": "_skill_131",
+		"value": "ATK"
+	},
+	{
+		"key": "_skill_132",
+		"value": "Strong"
+	},
+	{
+		"key": "_skill_133",
+		"value": "Brisk"
+	},
+	{
+		"key": "_skill_134",
+		"value": "Speed"
+	},
+	{
+		"key": "_skill_135",
+		"value": "Fatal"
+	},
+	{
+		"key": "_skill_136",
+		"value": "Bow Crafter"
+	},
+	{
+		"key": "_skill_137",
+		"value": "Commander"
+	},
+	{
+		"key": "_skill_138",
+		"value": "Warrior"
+	},
+	{
+		"key": "_skill_139",
+		"value": "Expert"
+	},
+	{
+		"key": "_skill_140",
+		"value": "Firm + Fletcher"
+	},
+	{
+		"key": "_skill_141",
+		"value": "Swift + Fletcher"
+	},
+	{
+		"key": "_skill_142",
+		"value": "Pace + Fletcher"
+	},
+	{
+		"key": "_skill_143",
+		"value": "Sawtooth + Fletcher"
+	},
+	{
+		"key": "_skill_144",
+		"value": "Firm + Captain"
+	},
+	{
+		"key": "_skill_145",
+		"value": "Swift + Captain"
+	},
+	{
+		"key": "_skill_146",
+		"value": "Pace + Captain"
+	},
+	{
+		"key": "_skill_147",
+		"value": "Sawtooth + Captain"
+	},
+	{
+		"key": "_skill_148",
+		"value": "Firm + Militia"
+	},
+	{
+		"key": "_skill_149",
+		"value": "Swift + Militia"
+	},
+	{
+		"key": "_skill_150",
+		"value": "Pace + Militia"
+	},
+	{
+		"key": "_skill_151",
+		"value": "Sawtooth + Militia"
+	},
+	{
+		"key": "_skill_152",
+		"value": "Firm + Veteran"
+	},
+	{
+		"key": "_skill_153",
+		"value": "Swift + Veteran"
+	},
+	{
+		"key": "_skill_154",
+		"value": "Pace + Veteran"
+	},
+	{
+		"key": "_skill_155",
+		"value": "Sawtooth + Veteran"
+	},
+	{
+		"key": "_skill_156",
+		"value": "Loyal + Weakling"
+	},
+	{
+		"key": "_skill_157",
+		"value": "Agile + Weakling"
+	},
+	{
+		"key": "_skill_158",
+		"value": "Speed-up + Weakling"
+	},
+	{
+		"key": "_skill_159",
+		"value": "Vicious + Weakling"
+	},
+	{
+		"key": "_skill_160",
+		"value": "Loyal + Bandit"
+	},
+	{
+		"key": "_skill_161",
+		"value": "Agile + Bandit"
+	},
+	{
+		"key": "_skill_162",
+		"value": "Speed-up + Bandit"
+	},
+	{
+		"key": "_skill_163",
+		"value": "Vicious + Bandit"
+	},
+	{
+		"key": "_skill_164",
+		"value": "Loyal + Villager"
+	},
+	{
+		"key": "_skill_165",
+		"value": "Agile + Villager"
+	},
+	{
+		"key": "_skill_166",
+		"value": "Speed-up + Villager"
+	},
+	{
+		"key": "_skill_167",
+		"value": "Vicious + Villager"
+	},
+	{
+		"key": "_skill_168",
+		"value": "Weak + Master"
+	},
+	{
+		"key": "_skill_169",
+		"value": "Obtuse + Master"
+	},
+	{
+		"key": "_skill_170",
+		"value": "Slow + Master"
+	},
+	{
+		"key": "_skill_171",
+		"value": "Blind + Master"
+	},
+	{
+		"key": "_skill_172",
+		"value": "Loyal (Fulfilled)"
+	},
+	{
+		"key": "_skill_173",
+		"value": "Agile (Fulfilled)"
+	},
+	{
+		"key": "_skill_174",
+		"value": "Speed-up (Fulfilled)"
+	},
+	{
+		"key": "_skill_175",
+		"value": "Vicious (Fulfilled)"
+	},
+	{
+		"key": "_skill_176",
+		"value": "Archer (Fulfilled)"
+	},
+	{
+		"key": "_skill_177",
+		"value": "Commander (Fulfilled)"
+	},
+	{
+		"key": "_skill_178",
+		"value": "Soldier (Fulfilled)"
+	},
+	{
+		"key": "_skill_179",
+		"value": "Master (Fulfilled)"
+	},
+	{
+		"key": "_skill_180",
+		"value": "Loyal (Counterattack)"
+	},
+	{
+		"key": "_skill_181",
+		"value": "Agile (Counterattack)"
+	},
+	{
+		"key": "_skill_182",
+		"value": "Speed-up (Counterattack)"
+	},
+	{
+		"key": "_skill_183",
+		"value": "Vicious (Counterattack)"
+	},
+	{
+		"key": "_skill_184",
+		"value": "Archer (Counterattack)"
+	},
+	{
+		"key": "_skill_185",
+		"value": "Commander (Counterattack)"
+	},
+	{
+		"key": "_skill_186",
+		"value": "Soldier (Counterattack)"
+	},
+	{
+		"key": "_skill_187",
+		"value": "Master (Counterattack)"
+	},
+	{
+		"key": "_skill_188",
+		"value": "Loyal (Barren)"
+	},
+	{
+		"key": "_skill_189",
+		"value": "Agile (Barren)"
+	},
+	{
+		"key": "_skill_190",
+		"value": "Speed-up (Barren)"
+	},
+	{
+		"key": "_skill_191",
+		"value": "Vicious (Barren)"
+	},
+	{
+		"key": "_skill_192",
+		"value": "Archer (Barren)"
+	},
+	{
+		"key": "_skill_193",
+		"value": "Commander (Barren)"
+	},
+	{
+		"key": "_skill_194",
+		"value": "Soldier (Barren)"
+	},
+	{
+		"key": "_skill_195",
+		"value": "Master (Barren)"
+	},
+	{
+		"key": "_skill_196",
+		"value": "Loyal (Charge)"
+	},
+	{
+		"key": "_skill_197",
+		"value": "Agile (Charge)"
+	},
+	{
+		"key": "_skill_198",
+		"value": "Speed-up (Charge)"
+	},
+	{
+		"key": "_skill_199",
+		"value": "Vicious (Charge)"
+	},
+	{
+		"key": "_skill_200",
+		"value": "Archer (Charge)"
+	},
+	{
+		"key": "_skill_201",
+		"value": "Commander (Charge)"
+	},
+	{
+		"key": "_skill_202",
+		"value": "Soldier (Charge)"
+	},
+	{
+		"key": "_skill_203",
+		"value": "Master (Charge)"
+	},
+	{
+		"key": "_skill_204",
+		"value": "Firm"
+	},
+	{
+		"key": "_skill_205",
+		"value": "Brisk"
+	},
+	{
+		"key": "_skill_206",
+		"value": "Bless"
+	},
+	{
+		"key": "_skill_207",
+		"value": "Fatal"
+	},
+	{
+		"key": "_skill_208",
+		"value": "Azure"
+	},
+	{
+		"key": "_skill_209",
+		"value": "Scarlet"
+	},
+	{
+		"key": "_skill_210",
+		"value": "Emerald"
+	},
+	{
+		"key": "_skill_211",
+		"value": "Precise"
+	},
+	{
+		"key": "_skill_212",
+		"value": "Harden + Sky Blue"
+	},
+	{
+		"key": "_skill_213",
+		"value": "Swift + Sky Blue"
+	},
+	{
+		"key": "_skill_214",
+		"value": "Vigorous + Sky Blue"
+	},
+	{
+		"key": "_skill_215",
+		"value": "Sawtooth + Sky Blue"
+	},
+	{
+		"key": "_skill_216",
+		"value": "Harden + Ruby"
+	},
+	{
+		"key": "_skill_217",
+		"value": "Swift + Ruby"
+	},
+	{
+		"key": "_skill_218",
+		"value": "Vigorous + Ruby"
+	},
+	{
+		"key": "_skill_219",
+		"value": "Sawtooth +Ruby"
+	},
+	{
+		"key": "_skill_220",
+		"value": "Harden + Sage"
+	},
+	{
+		"key": "_skill_221",
+		"value": "Swift + Sage"
+	},
+	{
+		"key": "_skill_222",
+		"value": "Vigorous + Sage"
+	},
+	{
+		"key": "_skill_223",
+		"value": "Sawtooth + Sage"
+	},
+	{
+		"key": "_skill_224",
+		"value": "Harden + Accurate"
+	},
+	{
+		"key": "_skill_225",
+		"value": "Swift + Accurate"
+	},
+	{
+		"key": "_skill_226",
+		"value": "Vigorous + Accurate"
+	},
+	{
+		"key": "_skill_227",
+		"value": "Sawtooth + Accurate"
+	},
+	{
+		"key": "_skill_228",
+		"value": "Metal + Gray Blue"
+	},
+	{
+		"key": "_skill_229",
+		"value": "Swift + Gray Blue"
+	},
+	{
+		"key": "_skill_230",
+		"value": "Sublime + Gray Blue"
+	},
+	{
+		"key": "_skill_231",
+		"value": "Vicious + Gray Blue"
+	},
+	{
+		"key": "_skill_232",
+		"value": "Metal + Gray Red"
+	},
+	{
+		"key": "_skill_233",
+		"value": "Swift + Gray Red"
+	},
+	{
+		"key": "_skill_234",
+		"value": "Sublime + Gray Red"
+	},
+	{
+		"key": "_skill_235",
+		"value": "Vicious + Gray Red"
+	},
+	{
+		"key": "_skill_236",
+		"value": "Metal + Sage"
+	},
+	{
+		"key": "_skill_237",
+		"value": "Swift + Sage"
+	},
+	{
+		"key": "_skill_238",
+		"value": "Sublime + Sage"
+	},
+	{
+		"key": "_skill_239",
+		"value": "Vicious + Sage"
+	},
+	{
+		"key": "_skill_240",
+		"value": "Fragile + Perfect"
+	},
+	{
+		"key": "_skill_241",
+		"value": "Obtuse + Perfect"
+	},
+	{
+		"key": "_skill_242",
+		"value": "Rotten + Perfect"
+	},
+	{
+		"key": "_skill_243",
+		"value": "Blind + Perfect"
+	},
+	{
+		"key": "_skill_244",
+		"value": "Metal (Fulfilled)"
+	},
+	{
+		"key": "_skill_245",
+		"value": "Agile (Fulfilled)"
+	},
+	{
+		"key": "_skill_246",
+		"value": "Sublime (Fulfilled)"
+	},
+	{
+		"key": "_skill_247",
+		"value": "Vicious (Fulfilled)"
+	},
+	{
+		"key": "_skill_248",
+		"value": "Sapphire (Fulfilled)"
+	},
+	{
+		"key": "_skill_249",
+		"value": "Ruby (Fulfilled)"
+	},
+	{
+		"key": "_skill_250",
+		"value": "Emerald (Fulfilled)"
+	},
+	{
+		"key": "_skill_251",
+		"value": "Perfect (Fulfilled)"
+	},
+	{
+		"key": "_skill_252",
+		"value": "Metal (Counterattack)"
+	},
+	{
+		"key": "_skill_253",
+		"value": "Agile (Counterattack)"
+	},
+	{
+		"key": "_skill_254",
+		"value": "Sublime (Counterattack)"
+	},
+	{
+		"key": "_skill_255",
+		"value": "Vicious (Counterattack)"
+	},
+	{
+		"key": "_skill_256",
+		"value": "Sapphire (Counterattack)"
+	},
+	{
+		"key": "_skill_257",
+		"value": "Ruby (Counterattack)"
+	},
+	{
+		"key": "_skill_258",
+		"value": "Emerald (Counterattack)"
+	},
+	{
+		"key": "_skill_259",
+		"value": "Perfect (Counterattack)"
+	},
+	{
+		"key": "_skill_260",
+		"value": "Metal (Barren)"
+	},
+	{
+		"key": "_skill_261",
+		"value": "Agile (Barren)"
+	},
+	{
+		"key": "_skill_262",
+		"value": "Sublime (Barren)"
+	},
+	{
+		"key": "_skill_263",
+		"value": "Vicious (Barren)"
+	},
+	{
+		"key": "_skill_264",
+		"value": "Sapphire (Barren)"
+	},
+	{
+		"key": "_skill_265",
+		"value": "Ruby (Barren)"
+	},
+	{
+		"key": "_skill_266",
+		"value": "Emerald (Barren)"
+	},
+	{
+		"key": "_skill_267",
+		"value": "Perfect (Barren)"
+	},
+	{
+		"key": "_skill_268",
+		"value": "Metal (Charge)"
+	},
+	{
+		"key": "_skill_269",
+		"value": "Agile (Charge)"
+	},
+	{
+		"key": "_skill_270",
+		"value": "Sublime (Charge)"
+	},
+	{
+		"key": "_skill_271",
+		"value": "Vicious (Charge)"
+	},
+	{
+		"key": "_skill_272",
+		"value": "Sapphire (Charge)"
+	},
+	{
+		"key": "_skill_273",
+		"value": "Ruby (Charge)"
+	},
+	{
+		"key": "_skill_274",
+		"value": "Emerald (Charge)"
+	},
+	{
+		"key": "_skill_275",
+		"value": "Perfect (Charge)"
+	},
+	{
+		"key": "_skill_276",
+		"value": "Firm"
+	},
+	{
+		"key": "_skill_277",
+		"value": "Bless"
+	},
+	{
+		"key": "_skill_278",
+		"value": "Fatal"
+	},
+	{
+		"key": "_skill_279",
+		"value": "Bright Moon"
+	},
+	{
+		"key": "_skill_280",
+		"value": "Harden + Fields"
+	},
+	{
+		"key": "_skill_281",
+		"value": "Vigorous + Fields"
+	},
+	{
+		"key": "_skill_282",
+		"value": "Harden + Vigorous"
+	},
+	{
+		"key": "_skill_283",
+		"value": "Sawtooth + Vigorous"
+	},
+	{
+		"key": "_skill_284",
+		"value": "Harden + Sawtooth"
+	},
+	{
+		"key": "_skill_285",
+		"value": "Fields + Vigorous"
+	},
+	{
+		"key": "_skill_286",
+		"value": "Metal + Withered"
+	},
+	{
+		"key": "_skill_287",
+		"value": "Sublime + Withered"
+	},
+	{
+		"key": "_skill_288",
+		"value": "Vicious + Withered"
+	},
+	{
+		"key": "_skill_289",
+		"value": "Metal + Rotten"
+	},
+	{
+		"key": "_skill_290",
+		"value": "Supernatural + Rotten"
+	},
+	{
+		"key": "_skill_291",
+		"value": "Vicious + Rotten"
+	},
+	{
+		"key": "_skill_292",
+		"value": "Metal + Blind"
+	},
+	{
+		"key": "_skill_293",
+		"value": "Sublime + Blind"
+	},
+	{
+		"key": "_skill_294",
+		"value": "Supernatural + Blind"
+	},
+	{
+		"key": "_skill_295",
+		"value": "Fragile + Supernatural"
+	},
+	{
+		"key": "_skill_296",
+		"value": "Fragile + Sublime"
+	},
+	{
+		"key": "_skill_297",
+		"value": "Fragile + Vicious"
+	},
+	{
+		"key": "_skill_298",
+		"value": "Metal (Fulfilled)"
+	},
+	{
+		"key": "_skill_299",
+		"value": "Sublime (Fulfilled)"
+	},
+	{
+		"key": "_skill_300",
+		"value": "Vicious (Fulfilled)"
+	},
+	{
+		"key": "_skill_301",
+		"value": "Supernatural (Fulfilled)"
+	},
+	{
+		"key": "_skill_302",
+		"value": "Metal (Counterattack)"
+	},
+	{
+		"key": "_skill_303",
+		"value": "Sublime (Counterattack)"
+	},
+	{
+		"key": "_skill_304",
+		"value": "Vicious (Counterattack)"
+	},
+	{
+		"key": "_skill_305",
+		"value": "Supernatural (Counterattack)"
+	},
+	{
+		"key": "_skill_306",
+		"value": "Metal (Barren)"
+	},
+	{
+		"key": "_skill_307",
+		"value": "Sublime (Barren)"
+	},
+	{
+		"key": "_skill_308",
+		"value": "Vicious (Barren)"
+	},
+	{
+		"key": "_skill_309",
+		"value": "Supernatural (Barren)"
+	},
+	{
+		"key": "_skill_310",
+		"value": "Metal (Charge)"
+	},
+	{
+		"key": "_skill_311",
+		"value": "Sublime (Charge)"
+	},
+	{
+		"key": "_skill_312",
+		"value": "Vicious (Charge)"
+	},
+	{
+		"key": "_skill_313",
+		"value": "Supernatural (Charge)"
+	},
+	{
+		"key": "_skill_314",
+		"value": "Fatal"
+	},
+	{
+		"key": "_skill_315",
+		"value": "Azure"
+	},
+	{
+		"key": "_skill_316",
+		"value": "Emerald"
+	},
+	{
+		"key": "_skill_317",
+		"value": "Prism"
+	},
+	{
+		"key": "_skill_318",
+		"value": "Sawtooth + Rainbow"
+	},
+	{
+		"key": "_skill_319",
+		"value": "Sky Blue + Rainbow"
+	},
+	{
+		"key": "_skill_320",
+		"value": "Harden + Vigorous"
+	},
+	{
+		"key": "_skill_321",
+		"value": "Sawtooth + Vigorous"
+	},
+	{
+		"key": "_skill_322",
+		"value": "Sky Blue + Malachite"
+	},
+	{
+		"key": "_skill_323",
+		"value": "Malachite + Rainbow"
+	},
+	{
+		"key": "_skill_324",
+		"value": "Vicious + Gray"
+	},
+	{
+		"key": "_skill_325",
+		"value": "Sapphire + Gray"
+	},
+	{
+		"key": "_skill_326",
+		"value": "Emerald + Gray"
+	},
+	{
+		"key": "_skill_327",
+		"value": "Vicious + Gray Blue"
+	},
+	{
+		"key": "_skill_328",
+		"value": "Colorful + Gray Blue"
+	},
+	{
+		"key": "_skill_329",
+		"value": "Vicious + Sage"
+	},
+	{
+		"key": "_skill_330",
+		"value": "Colorful + Sage"
+	},
+	{
+		"key": "_skill_331",
+		"value": "Sapphire + Blind"
+	},
+	{
+		"key": "_skill_332",
+		"value": "Emerald + Blind"
+	},
+	{
+		"key": "_skill_333",
+		"value": "Colorful + Blind"
+	},
+	{
+		"key": "_skill_334",
+		"value": "Vicious (Fulfilled)"
+	},
+	{
+		"key": "_skill_335",
+		"value": "Sapphire (Fulfilled)"
+	},
+	{
+		"key": "_skill_336",
+		"value": "Emerald (Fulfilled)"
+	},
+	{
+		"key": "_skill_337",
+		"value": "Colorful (Fulfilled)"
+	},
+	{
+		"key": "_skill_338",
+		"value": "Vicious (Counterattack)"
+	},
+	{
+		"key": "_skill_339",
+		"value": "Sapphire (Counterattack)"
+	},
+	{
+		"key": "_skill_340",
+		"value": "Emerald (Counterattack)"
+	},
+	{
+		"key": "_skill_341",
+		"value": "Colorful (Counterattack)"
+	},
+	{
+		"key": "_skill_342",
+		"value": "Vicious (Barren)"
+	},
+	{
+		"key": "_skill_343",
+		"value": "Sapphire (Barren)"
+	},
+	{
+		"key": "_skill_344",
+		"value": "Emerald (Barren)"
+	},
+	{
+		"key": "_skill_345",
+		"value": "Colorful (Barren)"
+	},
+	{
+		"key": "_skill_346",
+		"value": "Vicious (Charge)"
+	},
+	{
+		"key": "_skill_347",
+		"value": "Sapphire (Charge)"
+	},
+	{
+		"key": "_skill_348",
+		"value": "Emerald (Charge)"
+	},
+	{
+		"key": "_skill_349",
+		"value": "Colorful (Charge)"
+	},
+	{
+		"key": "_skill_350",
+		"value": "Fatal"
+	},
+	{
+		"key": "_skill_351",
+		"value": "Good Luck"
+	},
+	{
+		"key": "_skill_352",
+		"value": "Sawtooth + Stable"
+	},
+	{
+		"key": "_skill_353",
+		"value": "Vicious + Short"
+	},
+	{
+		"key": "_skill_354",
+		"value": "Blind + Years"
+	},
+	{
+		"key": "_skill_355",
+		"value": "Vicious (Fulfilled)"
+	},
+	{
+		"key": "_skill_356",
+		"value": "Years (Fulfilled)"
+	},
+	{
+		"key": "_skill_357",
+		"value": "Vicious (Counterattack)"
+	},
+	{
+		"key": "_skill_358",
+		"value": "Years (Counterattack)"
+	},
+	{
+		"key": "_skill_359",
+		"value": "Vicious (Barren)"
+	},
+	{
+		"key": "_skill_360",
+		"value": "Years (Barren)"
+	},
+	{
+		"key": "_skill_361",
+		"value": "Vicious (Charge)"
+	},
+	{
+		"key": "_skill_362",
+		"value": "Years (Charge)"
+	},
+	{
+		"key": "_skill_2001",
+		"value": "DMG: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2002",
+		"value": "Self-destruct DMG: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2003",
+		"value": "Charge SPD"
+	},
+	{
+		"key": "_skill_2004",
+		"value": "Charge DMG: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2005",
+		"value": "Summon Effect: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2006",
+		"value": "Cast <outline color=black width=1><color=#3cde4f>%{key}</color></outline> to the enemy"
+	},
+	{
+		"key": "_skill_2007",
+		"value": "Cast <outline color=black width=1><color=#3cde4f>%{key}</color></outline> to the enemy"
+	},
+	{
+		"key": "_skill_2008",
+		"value": "ATK Interval: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2035",
+		"value": "Survival Time: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2091",
+		"value": "Cast <outline color=black width=1><color=#3cde4f>%{key}</color></outline> to the enemy"
+	},
+	{
+		"key": "_skill_2092",
+		"value": "Move SPD Decrease: <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2093",
+		"value": "Immobile"
+	},
+	{
+		"key": "_skill_2094",
+		"value": "No Attacks"
+	},
+	{
+		"key": "_skill_2095",
+		"value": "<color=#485668>Max HP Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2096",
+		"value": "<color=#485668>Max HP Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2097",
+		"value": "<color=#485668>Max HP Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2098",
+		"value": "<color=#485668>Max HP Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2099",
+		"value": "<color=#485668>ATK Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2100",
+		"value": "<color=#485668>ATK Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2101",
+		"value": "<color=#485668>ATK Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2102",
+		"value": "<color=#485668>ATK Interval Decrease:</color> <outline color=black width=1><color=#ec2424>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2103",
+		"value": "<color=#485668>Move SPD Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2104",
+		"value": "<color=#485668>Move SPD Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2105",
+		"value": "<color=#485668>Move SPD Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2106",
+		"value": "<color=#485668>Move SPD Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2107",
+		"value": "<color=#485668>Placement Duration Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2108",
+		"value": "<color=#485668>Placement Duration Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2109",
+		"value": "<color=#485668>Placement Duration Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2110",
+		"value": "<color=#485668>Placement Duration Decrease:</color> <outline color=black width=1><color=#ec2424>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2111",
+		"value": "<color=#485668>DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2112",
+		"value": "<color=#485668>DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2113",
+		"value": "<color=#485668>DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2114",
+		"value": "<color=#485668>DMG Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2115",
+		"value": "<color=#485668>Ground DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2116",
+		"value": "<color=#485668>Ground DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2117",
+		"value": "<color=#485668>Ground DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2118",
+		"value": "<color=#485668>Ground DMG Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2119",
+		"value": "<color=#485668>Air DMG Dealt Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2120",
+		"value": "<color=#485668>Air DMG Dealt Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2121",
+		"value": "<color=#485668>Air DMG Dealt Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2122",
+		"value": "<color=#485668>Air DMG Dealt Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2123",
+		"value": "<color=#485668>Building DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2124",
+		"value": "<color=#485668>Building DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2125",
+		"value": "<color=#485668>Building DMG Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2126",
+		"value": "<color=#485668>Building DMG Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2127",
+		"value": "<color=#485668>Overtime DPS Decrease:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2128",
+		"value": "<color=#485668>Overtime DPS Decrease:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2129",
+		"value": "<color=#485668>Overtime DPS Decrease:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2130",
+		"value": "<color=#485668>Overtime DPS Decrease:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2131",
+		"value": "<color=#485668>Summon Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2132",
+		"value": "<color=#485668>Summon Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2133",
+		"value": "<color=#485668>Summon Interval Decrease:</color> <outline color=black width=1><color=#3cde4f>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2134",
+		"value": "<color=#485668>Summon Interval Decrease:</color> <outline color=black width=1><color=#ec2424>%{negateKey}</color></outline>"
+	},
+	{
+		"key": "_skill_2135",
+		"value": "<color=#485668>Duration Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2136",
+		"value": "<color=#485668>Duration Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2137",
+		"value": "<color=#485668>Duration Increase:</color> <outline color=black width=1><color=#3cde4f>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_2138",
+		"value": "<color=#485668>Duration Increase:</color> <outline color=black width=1><color=#ec2424>%{key}</color></outline>"
+	},
+	{
+		"key": "_skill_4000",
+		"value": "<color=#485668>Jump Skill Effect</color>"
+	},
+	{
+		"key": "_skill_4001",
+		"value": "<color=#485668>In any status</color>"
+	},
+	{
+		"key": "_skill_4002",
+		"value": "<color=#485668>Normal energy restoring SPD</color>"
+	},
+	{
+		"key": "_skill_4003",
+		"value": "<color=#485668>Doubled energy restoring SPD</color>"
+	},
+	{
+		"key": "_skill_4004",
+		"value": "<color=#485668>Own more towers than opponent</color>"
+	},
+	{
+		"key": "_skill_4005",
+		"value": "<color=#485668>Own fewer towers than opponent</color>"
+	},
+	{
+		"key": "_skill_4006",
+		"value": "<color=#485668>Own same amt of towers as opponent</color>"
+	},
+	{
+		"key": "_equip_1",
+		"value": "Weapons"
+	},
+	{
+		"key": "_equip_2",
+		"value": "Shields"
+	},
+	{
+		"key": "_equip_3",
+		"value": "Accessories"
+	},
+	{
+		"key": "_equip_4",
+		"value": "Spell DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_5",
+		"value": "Spell DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_6",
+		"value": "Spell DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_7",
+		"value": "Energy Recovery Increase: %{key}"
+	},
+	{
+		"key": "_equip_8",
+		"value": "Energy Recovery Increase: %{key}"
+	},
+	{
+		"key": "_equip_9",
+		"value": "Energy Recovery Increase: %{key}"
+	},
+	{
+		"key": "_equip_10",
+		"value": "Energy Recovery Increase: %{key}"
+	},
+	{
+		"key": "_equip_11",
+		"value": "ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_12",
+		"value": "ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_13",
+		"value": "ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_14",
+		"value": "All DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_15",
+		"value": "All DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_16",
+		"value": "All DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_17",
+		"value": "Surprise Chest Drop Rate Increase: %{key}"
+	},
+	{
+		"key": "_equip_18",
+		"value": "Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_19",
+		"value": "Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_20",
+		"value": "Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_21",
+		"value": "Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_22",
+		"value": "Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_23",
+		"value": "Ground Troop Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_24",
+		"value": "Ground Troop Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_25",
+		"value": "Air Force Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_26",
+		"value": "Air Force Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_27",
+		"value": "Building Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_28",
+		"value": "Building Max HP Increase: %{key}"
+	},
+	{
+		"key": "_equip_29",
+		"value": "Building Attack Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_30",
+		"value": "Building Attack Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_31",
+		"value": "All DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_32",
+		"value": "ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_33",
+		"value": "All DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_34",
+		"value": "ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_35",
+		"value": "Building DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_36",
+		"value": "Ground DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_37",
+		"value": "Air DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_38",
+		"value": "Building DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_39",
+		"value": "Ground DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_40",
+		"value": "Air DMG Increase: %{key}"
+	},
+	{
+		"key": "_equip_41",
+		"value": "Ground ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_42",
+		"value": "Air ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_43",
+		"value": "Ground ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_44",
+		"value": "Air ATK Interval Decrease: %{negateKey}"
+	},
+	{
+		"key": "_equip_1001",
+		"value": "In any status"
+	},
+	{
+		"key": "_equip_1002",
+		"value": "Normal energy restoring SPD"
+	},
+	{
+		"key": "_equip_1003",
+		"value": "Doubled energy restoring SPD"
+	},
+	{
+		"key": "_equip_1004",
+		"value": "Own more towers than opponent"
+	},
+	{
+		"key": "_equip_1005",
+		"value": "Own fewer towers than opponent"
+	},
+	{
+		"key": "_equip_1006",
+		"value": "Own same amt of towers as opponent"
+	},
+	{
+		"key": "_equip_2001",
+		"value": "Spear"
+	},
+	{
+		"key": "_equip_2002",
+		"value": "Great Axe"
+	},
+	{
+		"key": "_equip_2003",
+		"value": "Hammer"
+	},
+	{
+		"key": "_equip_2004",
+		"value": "Scepter"
+	},
+	{
+		"key": "_equip_2005",
+		"value": "Buckler"
+	},
+	{
+		"key": "_equip_2006",
+		"value": "Light Shield"
+	},
+	{
+		"key": "_equip_2007",
+		"value": "Scutum"
+	},
+	{
+		"key": "_equip_2008",
+		"value": "Magic Shield"
+	},
+	{
+		"key": "_equip_2009",
+		"value": "Mask"
+	},
+	{
+		"key": "_equip_2010",
+		"value": "Goggles"
+	},
+	{
+		"key": "_equip_2011",
+		"value": "Crown"
+	},
+	{
+		"key": "_equip_2012",
+		"value": "Belt of Authority"
+	},
+	{
+		"key": "_equip_3001",
+		"value": "Spell Power I: (Counterattack)"
+	},
+	{
+		"key": "_equip_3002",
+		"value": "Spell Power II: (Counterattack)"
+	},
+	{
+		"key": "_equip_3003",
+		"value": "Spell Power III: (Counterattack)"
+	},
+	{
+		"key": "_equip_3004",
+		"value": "Spell Power IV: (Counterattack)"
+	},
+	{
+		"key": "_equip_3005",
+		"value": "Spell Power I: (Charge)"
+	},
+	{
+		"key": "_equip_3006",
+		"value": "Spell Power II: (Charge)"
+	},
+	{
+		"key": "_equip_3007",
+		"value": "Spell Power III: (Charge)"
+	},
+	{
+		"key": "_equip_3008",
+		"value": "Spell Power IV: (Charge)"
+	},
+	{
+		"key": "_equip_3009",
+		"value": "Spell Power I: (Stalemate)"
+	},
+	{
+		"key": "_equip_3010",
+		"value": "Spell Power II: (Stalemate)"
+	},
+	{
+		"key": "_equip_3011",
+		"value": "Spell Power III: (Stalemate)"
+	},
+	{
+		"key": "_equip_3012",
+		"value": "Spell Power IV: (Stalemate)"
+	},
+	{
+		"key": "_equip_3013",
+		"value": "Energy I: (Counterattack)"
+	},
+	{
+		"key": "_equip_3014",
+		"value": "Energy II: (Counterattack)"
+	},
+	{
+		"key": "_equip_3015",
+		"value": "Energy III: (Counterattack)"
+	},
+	{
+		"key": "_equip_3016",
+		"value": "Energy IV: (Counterattack)"
+	},
+	{
+		"key": "_equip_3017",
+		"value": "Energy I: (Charge)"
+	},
+	{
+		"key": "_equip_3018",
+		"value": "Energy II: (Charge)"
+	},
+	{
+		"key": "_equip_3019",
+		"value": "Energy III: (Charge)"
+	},
+	{
+		"key": "_equip_3020",
+		"value": "Energy IV: (Charge)"
+	},
+	{
+		"key": "_equip_3021",
+		"value": "Energy I: (Stalemate)"
+	},
+	{
+		"key": "_equip_3022",
+		"value": "Energy II: (Stalemate)"
+	},
+	{
+		"key": "_equip_3023",
+		"value": "Energy III: (Stalemate)"
+	},
+	{
+		"key": "_equip_3024",
+		"value": "Energy IV: (Stalemate)"
+	},
+	{
+		"key": "_equip_3025",
+		"value": "Energy I"
+	},
+	{
+		"key": "_equip_3026",
+		"value": "Energy II"
+	},
+	{
+		"key": "_equip_3027",
+		"value": "Energy III"
+	},
+	{
+		"key": "_equip_3028",
+		"value": "Energy IV"
+	},
+	{
+		"key": "_equip_3029",
+		"value": "Swift I: (Counterattack)"
+	},
+	{
+		"key": "_equip_3030",
+		"value": "Swift II: (Counterattack)"
+	},
+	{
+		"key": "_equip_3031",
+		"value": "Swift III: (Counterattack)"
+	},
+	{
+		"key": "_equip_3032",
+		"value": "Swift IV: (Counterattack)"
+	},
+	{
+		"key": "_equip_3033",
+		"value": "Swift I: (Charge)"
+	},
+	{
+		"key": "_equip_3034",
+		"value": "Swift II: (Charge)"
+	},
+	{
+		"key": "_equip_3035",
+		"value": "Swift III: (Charge)"
+	},
+	{
+		"key": "_equip_3036",
+		"value": "Swift IV: (Charge)"
+	},
+	{
+		"key": "_equip_3037",
+		"value": "Swift I: (Stalemate)"
+	},
+	{
+		"key": "_equip_3038",
+		"value": "Swift II: (Stalemate)"
+	},
+	{
+		"key": "_equip_3039",
+		"value": "Swift III: (Stalemate)"
+	},
+	{
+		"key": "_equip_3040",
+		"value": "Swift IV: (Stalemate)"
+	},
+	{
+		"key": "_equip_3041",
+		"value": "DMG I: (Counterattack)"
+	},
+	{
+		"key": "_equip_3042",
+		"value": "DMG II: (Counterattack)"
+	},
+	{
+		"key": "_equip_3043",
+		"value": "DMG III: (Counterattack)"
+	},
+	{
+		"key": "_equip_3044",
+		"value": "DMG IV: (Counterattack)"
+	},
+	{
+		"key": "_equip_3045",
+		"value": "DMG I: (Charge)"
+	},
+	{
+		"key": "_equip_3046",
+		"value": "DMG II: (Charge)"
+	},
+	{
+		"key": "_equip_3047",
+		"value": "DMG III: (Charge)"
+	},
+	{
+		"key": "_equip_3048",
+		"value": "DMG IV: (Charge)"
+	},
+	{
+		"key": "_equip_3049",
+		"value": "DMG I: (Stalemate)"
+	},
+	{
+		"key": "_equip_3050",
+		"value": "DMG II: (Stalemate)"
+	},
+	{
+		"key": "_equip_3051",
+		"value": "DMG III: (Stalemate)"
+	},
+	{
+		"key": "_equip_3052",
+		"value": "DMG IV: (Stalemate)"
+	},
+	{
+		"key": "_equip_3053",
+		"value": "Luck I"
+	},
+	{
+		"key": "_equip_3054",
+		"value": "Luck II"
+	},
+	{
+		"key": "_equip_3055",
+		"value": "Luck III"
+	},
+	{
+		"key": "_equip_3056",
+		"value": "Luck IV"
+	},
+	{
+		"key": "_equip_3057",
+		"value": "HP I: (Barren)"
+	},
+	{
+		"key": "_equip_3058",
+		"value": "HP II: (Barren)"
+	},
+	{
+		"key": "_equip_3059",
+		"value": "HP III: (Barren)"
+	},
+	{
+		"key": "_equip_3060",
+		"value": "HP IV: (Barren)"
+	},
+	{
+		"key": "_equip_3061",
+		"value": "HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3062",
+		"value": "HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3063",
+		"value": "HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3064",
+		"value": "HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3065",
+		"value": "HP I: (Charge)"
+	},
+	{
+		"key": "_equip_3066",
+		"value": "HP II: (Charge)"
+	},
+	{
+		"key": "_equip_3067",
+		"value": "HP III: (Charge)"
+	},
+	{
+		"key": "_equip_3068",
+		"value": "HP IV: (Charge)"
+	},
+	{
+		"key": "_equip_3069",
+		"value": "HP I: (Counterattack)"
+	},
+	{
+		"key": "_equip_3070",
+		"value": "HP II: (Counterattack)"
+	},
+	{
+		"key": "_equip_3071",
+		"value": "HP III: (Counterattack)"
+	},
+	{
+		"key": "_equip_3072",
+		"value": "HP IV: (Counterattack)"
+	},
+	{
+		"key": "_equip_3073",
+		"value": "HP I: (Stalemate)"
+	},
+	{
+		"key": "_equip_3074",
+		"value": "HP II: (Stalemate)"
+	},
+	{
+		"key": "_equip_3075",
+		"value": "HP III: (Stalemate)"
+	},
+	{
+		"key": "_equip_3076",
+		"value": "HP IV: (Stalemate)"
+	},
+	{
+		"key": "_equip_3077",
+		"value": "Ground HP I: (Barren)"
+	},
+	{
+		"key": "_equip_3078",
+		"value": "Ground HP II: (Barren)"
+	},
+	{
+		"key": "_equip_3079",
+		"value": "Ground HP III: (Barren)"
+	},
+	{
+		"key": "_equip_3080",
+		"value": "Ground HP IV: (Barren)"
+	},
+	{
+		"key": "_equip_3081",
+		"value": "Ground HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3082",
+		"value": "Ground HP II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3083",
+		"value": "Ground HP III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3084",
+		"value": "Ground HP IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3085",
+		"value": "Air HP I: (Barren)"
+	},
+	{
+		"key": "_equip_3086",
+		"value": "Air HP II: (Barren)"
+	},
+	{
+		"key": "_equip_3087",
+		"value": "Air HP III: (Barren)"
+	},
+	{
+		"key": "_equip_3088",
+		"value": "Air HP IV: (Barren)"
+	},
+	{
+		"key": "_equip_3089",
+		"value": "Air HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3090",
+		"value": "Air HP II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3091",
+		"value": "Air HP III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3092",
+		"value": "Air HP IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3093",
+		"value": "Building HP I: (Barren)"
+	},
+	{
+		"key": "_equip_3094",
+		"value": "Building HP II: (Barren)"
+	},
+	{
+		"key": "_equip_3095",
+		"value": "Building HP III: (Barren)"
+	},
+	{
+		"key": "_equip_3096",
+		"value": "Building HP IV: (Barren)"
+	},
+	{
+		"key": "_equip_3097",
+		"value": "Building HP I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3098",
+		"value": "Building HP II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3099",
+		"value": "Building HP III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3100",
+		"value": "Building HP IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3101",
+		"value": "Building Swift I: (Barren)"
+	},
+	{
+		"key": "_equip_3102",
+		"value": "Building Swift II: (Barren)"
+	},
+	{
+		"key": "_equip_3103",
+		"value": "Building Swift III: (Barren)"
+	},
+	{
+		"key": "_equip_3104",
+		"value": "Building Swift IV: (Barren)"
+	},
+	{
+		"key": "_equip_3105",
+		"value": "Building Swift I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3106",
+		"value": "Building Swift II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3107",
+		"value": "Building Swift III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3108",
+		"value": "Building Swift IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3109",
+		"value": "DMG I: (Barren)"
+	},
+	{
+		"key": "_equip_3110",
+		"value": "DMG II: (Barren)"
+	},
+	{
+		"key": "_equip_3111",
+		"value": "DMG III: (Barren)"
+	},
+	{
+		"key": "_equip_3112",
+		"value": "DMG IV: (Barren)"
+	},
+	{
+		"key": "_equip_3113",
+		"value": "Swift I: (Barren)"
+	},
+	{
+		"key": "_equip_3114",
+		"value": "Swift II: (Barren)"
+	},
+	{
+		"key": "_equip_3115",
+		"value": "Swift III: (Barren)"
+	},
+	{
+		"key": "_equip_3116",
+		"value": "Swift IV: (Barren)"
+	},
+	{
+		"key": "_equip_3117",
+		"value": "DMG I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3118",
+		"value": "DMG II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3119",
+		"value": "DMG III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3120",
+		"value": "DMG IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3121",
+		"value": "Swift I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3122",
+		"value": "Swift II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3123",
+		"value": "Swift III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3124",
+		"value": "Swift IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3125",
+		"value": "Rotten I: (Barren)"
+	},
+	{
+		"key": "_equip_3126",
+		"value": "Rotten II: (Barren)"
+	},
+	{
+		"key": "_equip_3127",
+		"value": "Rotten III: (Barren)"
+	},
+	{
+		"key": "_equip_3128",
+		"value": "Rotten IV: (Barren)"
+	},
+	{
+		"key": "_equip_3129",
+		"value": "Land I: (Barren)"
+	},
+	{
+		"key": "_equip_3130",
+		"value": "Land II: (Barren)"
+	},
+	{
+		"key": "_equip_3131",
+		"value": "Land III: (Barren)"
+	},
+	{
+		"key": "_equip_3132",
+		"value": "Land IV: (Barren)"
+	},
+	{
+		"key": "_equip_3133",
+		"value": "Sky I: (Barren)"
+	},
+	{
+		"key": "_equip_3134",
+		"value": "Sky II: (Barren)"
+	},
+	{
+		"key": "_equip_3135",
+		"value": "Sky III: (Barren)"
+	},
+	{
+		"key": "_equip_3136",
+		"value": "Sky IV: (Barren)"
+	},
+	{
+		"key": "_equip_3137",
+		"value": "Rotten I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3138",
+		"value": "Rotten II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3139",
+		"value": "Rotten III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3140",
+		"value": "Rotten IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3141",
+		"value": "Land I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3142",
+		"value": "Land II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3143",
+		"value": "Land III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3144",
+		"value": "Land IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3145",
+		"value": "Sky I: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3146",
+		"value": "Sky II: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3147",
+		"value": "Sky III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3148",
+		"value": "Sky IV: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3149",
+		"value": "Ground Swift I: (Barren)"
+	},
+	{
+		"key": "_equip_3150",
+		"value": "Ground Swift II: (Barren)"
+	},
+	{
+		"key": "_equip_3151",
+		"value": "Ground Swift III: (Barren)"
+	},
+	{
+		"key": "_equip_3152",
+		"value": "Ground Swift IV: (Barren)"
+	},
+	{
+		"key": "_equip_3153",
+		"value": "Air Swift I: (Barren)"
+	},
+	{
+		"key": "_equip_3154",
+		"value": "Air Swift II: (Barren)"
+	},
+	{
+		"key": "_equip_3155",
+		"value": "Air Swift III: (Barren)"
+	},
+	{
+		"key": "_equip_3156",
+		"value": "Air Swift IV: (Barren)"
+	},
+	{
+		"key": "_equip_3157",
+		"value": "Ground Swift I:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3158",
+		"value": "Ground Swift II:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3159",
+		"value": "Ground Swift III:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3160",
+		"value": "Ground Swift IV:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3161",
+		"value": "Air Swift I:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3162",
+		"value": "Air Swift II:(Fulfilled)"
+	},
+	{
+		"key": "_equip_3163",
+		"value": "Air Swift III: (Fulfilled)"
+	},
+	{
+		"key": "_equip_3164",
+		"value": "Air Swift IV: (Fulfilled)"
+	},
+	{
+		"key": "_born_1",
+		"value": "Giant Island"
+	},
+	{
+		"key": "_born_2",
+		"value": "Ash Desert"
+	},
+	{
+		"key": "_born_3",
+		"value": "Blossom Forest"
+	},
+	{
+		"key": "_born_4",
+		"value": "Wells Plain"
+	},
+	{
+		"key": "_born_5",
+		"value": "City of Steel"
+	},
+	{
+		"key": "_born_6",
+		"value": "Dragon Island"
+	},
+	{
+		"key": "_born_7",
+		"value": "Frigid Island"
+	},
+	{
+		"key": "_born_8",
+		"value": "Undead Land"
+	},
+	{
+		"key": "_born_9",
+		"value": "Black Sand"
+	},
+	{
+		"key": "_born_10",
+		"value": "Darkmoon Castle"
+	},
+	{
+		"key": "_job_1",
+		"value": "Forge"
+	},
+	{
+		"key": "_job_2",
+		"value": "Tailor"
+	},
+	{
+		"key": "_job_3",
+		"value": "Mine"
+	},
+	{
+		"key": "_job_4",
+		"value": "Engineering"
+	},
+	{
+		"key": "_job_5",
+		"value": "Medicine"
+	},
+	{
+		"key": "_job_6",
+		"value": "Fishing"
+	},
+	{
+		"key": "_job_7",
+		"value": "Cook"
+	},
+	{
+		"key": "_job_8",
+		"value": "Enchant"
+	},
+	{
+		"key": "_job_9",
+		"value": "Jewelry"
+	},
+	{
+		"key": "_job_10",
+		"value": "Alchemy"
+	},
+	{
+		"key": "_job_11",
+		"value": "HP"
+	},
+	{
+		"key": "_job_12",
+		"value": "DMG"
+	},
+	{
+		"key": "_job_13",
+		"value": "Skill DMG"
+	},
+	{
+		"key": "_job_14",
+		"value": "Skill Effect"
+	},
+	{
+		"key": "_job_15",
+		"value": "Prep. Time"
+	},
+	{
+		"key": "_job_16",
+		"value": "Move SPD"
+	},
+	{
+		"key": "_job_17",
+		"value": "Units"
+	},
+	{
+		"key": "_job_18",
+		"value": "ATK Range"
+	},
+	{
+		"key": "_job_19",
+		"value": "ATK Interval"
+	},
+	{
+		"key": "_job_20",
+		"value": "Target Type"
+	},
+	{
+		"key": "_job_21",
+		"value": "Survival Time"
+	},
+	{
+		"key": "_job_22",
+		"value": "Class"
+	},
+	{
+		"key": "_job_22",
+		"value": "Origin"
+	},
+	{
+		"key": "_job_23",
+		"value": "AoE Damage"
+	},
+	{
+		"key": "_job_24",
+		"value": "Building DMG"
+	},
+	{
+		"key": "_nft_1",
+		"value": "Imperial Warrior"
+	},
+	{
+		"key": "_nft_2",
+		"value": "Elven Archer"
+	},
+	{
+		"key": "_nft_3",
+		"value": "Gargoyle"
+	},
+	{
+		"key": "_nft_4",
+		"value": "Peon"
+	},
+	{
+		"key": "_nft_5",
+		"value": "Siege Giant"
+	},
+	{
+		"key": "_nft_6",
+		"value": "Musketeer"
+	},
+	{
+		"key": "_nft_7",
+		"value": "Harvester"
+	},
+	{
+		"key": "_nft_8",
+		"value": "Orc Slinger"
+	},
+	{
+		"key": "_nft_9",
+		"value": "Undead Mob"
+	},
+	{
+		"key": "_nft_10",
+		"value": "Artillery"
+	},
+	{
+		"key": "_nft_11",
+		"value": "Hammer"
+	},
+	{
+		"key": "_nft_12",
+		"value": "Air Harvester"
+	},
+	{
+		"key": "_nft_13",
+		"value": "Fire Dragon Whelp"
+	},
+	{
+		"key": "_nft_14",
+		"value": "Orc Siege Cart"
+	},
+	{
+		"key": "_nft_15",
+		"value": "Undead Dragon"
+	},
+	{
+		"key": "_nft_16",
+		"value": "Fire Mage"
+	},
+	{
+		"key": "_nft_17",
+		"value": "Giant Harvester"
+	},
+	{
+		"key": "_nft_18",
+		"value": "Werewolf Knight"
+	},
+	{
+		"key": "_nft_19",
+		"value": "Necromancer"
+	},
+	{
+		"key": "_nft_20",
+		"value": "Dragon Knight"
+	},
+	{
+		"key": "_nft_21",
+		"value": "Building Bomber"
+	},
+	{
+		"key": "_nft_22",
+		"value": "Imperial Knight"
+	},
+	{
+		"key": "_nft_23",
+		"value": "Undead Knight"
+	},
+	{
+		"key": "_nft_24",
+		"value": "Self-destruct Bot"
+	},
+	{
+		"key": "_nft_25",
+		"value": "Undead Army"
+	},
+	{
+		"key": "_nft_26",
+		"value": "Skeleton Archer"
+	},
+	{
+		"key": "_nft_27",
+		"value": "Orc Berserker"
+	},
+	{
+		"key": "_nft_28",
+		"value": "Peon Bomb"
+	},
+	{
+		"key": "_nft_29",
+		"value": "Orc Arrow Tower"
+	},
+	{
+		"key": "_nft_30",
+		"value": "Undead Cemetery"
+	},
+	{
+		"key": "_nft_31",
+		"value": "Magic Turret"
+	},
+	{
+		"key": "_nft_32",
+		"value": "MG Turret"
+	},
+	{
+		"key": "_nft_33",
+		"value": "Peon Camp"
+	},
+	{
+		"key": "_nft_34",
+		"value": "Imperial Barracks"
+	},
+	{
+		"key": "_nft_35",
+		"value": "Arrow Rain"
+	},
+	{
+		"key": "_nft_36",
+		"value": "Fireball"
+	},
+	{
+		"key": "_nft_37",
+		"value": "Thunderbolt"
+	},
+	{
+		"key": "_nft_38",
+		"value": "Tsunami"
+	},
+	{
+		"key": "_nft_39",
+		"value": "Snowball"
+	},
+	{
+		"key": "_nft_40",
+		"value": "Frozen Nova"
+	},
+	{
+		"key": "_nft_41",
+		"value": "Weapons"
+	},
+	{
+		"key": "_nft_42",
+		"value": "Shields"
+	},
+	{
+		"key": "_nft_43",
+		"value": "Accessories"
+	},
+	{
+		"key": "_nft_44",
+		"value": "Scepter"
+	},
+	{
+		"key": "_nft_45",
+		"value": "Buckler"
+	},
+	{
+		"key": "_nft_46",
+		"value": "Light Shield"
+	},
+	{
+		"key": "_nft_47",
+		"value": "Scutum"
+	},
+	{
+		"key": "_nft_48",
+		"value": "Magic Shield"
+	},
+	{
+		"key": "_nft_49",
+		"value": "Mask"
+	},
+	{
+		"key": "_nft_50",
+		"value": "Goggles"
+	},
+	{
+		"key": "_nft_51",
+		"value": "Crown"
+	},
+	{
+		"key": "_nft_52",
+		"value": "Belt of Authority"
+	},
+	{
+		"key": "_nft_53",
+		"value": "Card Fortune Box"
+	},
+	{
+		"key": "_nft_54",
+		"value": "Gear Fortune Box"
+	},
+	{
+		"key": "_nft_55",
+		"value": "Surprise Chest"
+	},
+	{
+		"key": "_nft_56",
+		"value": "Purification Stone"
+	},
+	{
+		"key": "_nft_57",
+		"value": "Reforging Stone"
+	},
+	{
+		"key": "_nft_58",
+		"value": "Lucky Stone"
+	},
+	{
+		"key": "_nft_59",
+		"value": "Amnesia Medicine"
+	},
+	{
+		"key": "_nft_60",
+		"value": "Blinding Grass"
+	},
+	{
+		"key": "_nft_61",
+		"value": "Awakening Stone"
+	},
+	{
+		"key": "_nft_62",
+		"value": "Roast Turkey"
+	},
+	{
+		"key": "_nft_63",
+		"value": "Whetstone"
+	},
+	{
+		"key": "_nft_64",
+		"value": "Refining stone"
+	},
+	{
+		"key": "_nft_65",
+		"value": "Refreshing grass"
+	},
+	{
+		"key": "_nft_66",
+		"value": "Emoticons"
+	},
+	{
+		"key": "_nft_67",
+		"value": "Degen home priority experience ticket"
+	},
+	{
+		"key": "_nft_1001",
+		"value": "Can be used on gear. It can randomize the value of the selected attribute."
+	},
+	{
+		"key": "_nft_1002",
+		"value": "Can be used on gear. It can randomize all attributes."
+	},
+	{
+		"key": "_nft_1003",
+		"value": "Can be used when crafting gear. It can increase the probability of obtaining rare gear after crafting."
+	},
+	{
+		"key": "_nft_1004",
+		"value": "Can be used on cards. It can randomize all attributes of a card."
+	},
+	{
+		"key": "_nft_1005",
+		"value": "Can be used on cards. It can randomize a selected attribute of a card."
+	},
+	{
+		"key": "_nft_1006",
+		"value": "Necessary for upgrading cards to Lv. 10."
+	},
+	{
+		"key": "_nft_1007",
+		"value": "Food used to replenish the VIT of cards."
+	},
+	{
+		"key": "_nft_1008",
+		"value": "Used to repair the durability of gear."
+	},
+	{
+		"key": "_nft_1009",
+		"value": "Open to get a random card."
+	},
+	{
+		"key": "_nft_1010",
+		"value": "Can be used on gear，It can randomize a selected attribute of a gear."
+	},
+	{
+		"key": "_nft_1011",
+		"value": "Can be used on cards，It can randomize the value of the selected attribute."
+	},
+	{
+		"key": "_nft_1012",
+		"value": "Emoticons"
+	},
+	{
+		"key": "_nft_1013",
+		"value": "Degen home priority experience ticket"
+	},
+	{
+		"key": "map_name_1",
+		"value": "Mystery Forest"
+	},
+	{
+		"key": "map_name_2",
+		"value": "Ghost Town"
+	},
+	{
+		"key": "map_name_3",
+		"value": "Volcano"
+	},
+	{
+		"key": "map_name_4",
+		"value": "City of Steel"
+	},
+	{
+		"key": "map_name_5",
+		"value": "Abyss of Bones"
+	},
+	{
+		"key": "_mail_t_1",
+		"value": "Open Genesis Fortune Box"
+	},
+	{
+		"key": "_mail_text_1_1",
+		"value": "You got <on click=“handler”> %{cn} </on> from the Genesis Fortune Box."
+	},
+	{
+		"key": "_mail_text_1_2",
+		"value": "Failed to open Genesis Fortune Box."
+	},
+	{
+		"key": "_mail_t_2",
+		"value": "Buy Card Fortune Box"
+	},
+	{
+		"key": "_mail_text_2_1",
+		"value": "You got <on click=\"handler\"> %{cn}</on> from the Card Fortune Box."
+	},
+	{
+		"key": "_mail_text_2_2",
+		"value": "Failed to buy Card Fortune Box."
+	},
+	{
+		"key": "_mail_t_3",
+		"value": "Buy Gear Fortune Box"
+	},
+	{
+		"key": "_mail_text_3_1",
+		"value": "You got <on click=\"handler\"> %{en}</on> from the Gear Fortune Box."
+	},
+	{
+		"key": "_mail_text_3_2",
+		"value": "Failed to buy Gear Fortune Box."
+	},
+	{
+		"key": "_mail_t_4",
+		"value": "Open Lucky Fortune Box"
+	},
+	{
+		"key": "_mail_text_4_1",
+		"value": "You got %{in1} %{in2} from the Lucky Fortune Box."
+	},
+	{
+		"key": "_mail_text_4_2",
+		"value": "Failed to open the Lucky Fortune Box."
+	},
+	{
+		"key": "_mail_t_5",
+		"value": "Card Upgrade"
+	},
+	{
+		"key": "_mail_text_5_1",
+		"value": "Upgraded <on click=\"handler\"> %{cn}</on>, which cost you %{cnt} cards."
+	},
+	{
+		"key": "_mail_text_5_2",
+		"value": "Failed to upgrade <on click=“handler\"> %{cn}</on>."
+	},
+	{
+		"key": "_mail_t_6",
+		"value": "Gear Crafting"
+	},
+	{
+		"key": "_mail_text_6_1",
+		"value": "Crafted <on click=“handler”> %{en3}</on>, which cost you %{en1}, %{en2} and %{lnt} Lucky Stone(s)."
+	},
+	{
+		"key": "_mail_text_6_2",
+		"value": "Failed to craft <on click=“handler\"> %{en1}}</on> and <on click=“handler\"> %{en2}</on>."
+	},
+	{
+		"key": "_mail_t_7",
+		"value": "Gear Recycle"
+	},
+	{
+		"key": "_mail_text_7_1",
+		"value": "Gear recycled and obtained %{Gold_Wei}, costing %{en}."
+	},
+	{
+		"key": "_mail_text_7_2",
+		"value": "Failed to recycle <on click=“handler\"> %{en}</on>."
+	},
+	{
+		"key": "_mail_t_8",
+		"value": "VIT Recovery"
+	},
+	{
+		"key": "_mail_text_8_1",
+		"value": "<on click=“handler\"> %{cn}</on> has restored its VIT, costing %{rnt} VIT item(s)."
+	},
+	{
+		"key": "_mail_text_8_2",
+		"value": "Failed to restore the VIT of <on click=“handler\"> %{cn}</on>."
+	},
+	{
+		"key": "_mail_text_8_3",
+		"value": "Deck VIT restored, costing %{rnt} VIT item(s)."
+	},
+	{
+		"key": "_mail_text_8_4",
+		"value": "Failed to restore the deck’s VIT."
+	},
+	{
+		"key": "_mail_t_9",
+		"value": "Gear Recovery"
+	},
+	{
+		"key": "_mail_text_9_1",
+		"value": "Durability of <on click=“handler\"> %{en}</on> has been restored, costing %{knt} recovery item(s)."
+	},
+	{
+		"key": "_mail_text_9_2",
+		"value": "Failed to restore the durability of <on click=“handler”> %{en}</on>."
+	},
+	{
+		"key": "_mail_text_9_3",
+		"value": "Gear durability restored, costing %{rnt} recovery item(s)."
+	},
+	{
+		"key": "_mail_text_9_4",
+		"value": "Failed to restore gear durability."
+	},
+	{
+		"key": "_mail_t_10",
+		"value": "Card Reforging"
+	},
+	{
+		"key": "_mail_text_10_1",
+		"value": "<on click=\"handler\"> %{en}</on> reforged."
+	},
+	{
+		"key": "_mail_text_10_2",
+		"value": "Failed tp reforge <on click=\"handler\"> %{en}</on>."
+	},
+	{
+		"key": "_mail_t_11",
+		"value": "Card Purification"
+	},
+	{
+		"key": "_mail_text_11_1",
+		"value": "<on click=\"handler\"> %{cn}</on> purified."
+	},
+	{
+		"key": "_mail_text_11_2",
+		"value": "Failed to purify %{cn}"
+	},
+	{
+		"key": "_mail_t_12",
+		"value": "Gear Reforging"
+	},
+	{
+		"key": "_mail_text_12_1",
+		"value": "<on click=\"handler\"> %{en}</on> reforged."
+	},
+	{
+		"key": "_mail_text_12_2",
+		"value": "Failed to reforge <on click=\"handler\">%{en}</on>."
+	},
+	{
+		"key": "_mail_t_13",
+		"value": "Gear Purification"
+	},
+	{
+		"key": "_mail_text_13_1",
+		"value": "<on click=\"handler\"> %{cn}</on> purified."
+	},
+	{
+		"key": "_mail_text_13_2",
+		"value": "Failed to purify <on click=\"handler\"> %{en}</on>."
+	},
+	{
+		"key": "_mail_t_14",
+		"value": "Coin Withdrawal"
+	},
+	{
+		"key": "_mail_text_14_1",
+		"value": "%{Gold2_Wei} withdrawn."
+	},
+	{
+		"key": "_mail_text_14_2",
+		"value": "Failed to withdraw %{Gold2_Wei}."
+	},
+	{
+		"key": "_mail_t_15",
+		"value": "Item Listing"
+	},
+	{
+		"key": "_mail_text_15_1",
+		"value": "%{in2} | %{in1} have been listed for sale."
+	},
+	{
+		"key": "_mail_text_15_2",
+		"value": "Failed to %{in2} | %{in1} for sale."
+	},
+	{
+		"key": "_mail_text_15_3",
+		"value": "%{en} have been listed for sale."
+	},
+	{
+		"key": "_mail_text_15_4",
+		"value": "Failed to %{en} for sale."
+	},
+	{
+		"key": "_mail_text_15_5",
+		"value": "%{cn} have been listed for sale."
+	},
+	{
+		"key": "_mail_text_15_6",
+		"value": "Failed to %{cn}for sale."
+	},
+	{
+		"key": "_mail_t_16",
+		"value": "Market Purchase"
+	},
+	{
+		"key": "_mail_text_16_1",
+		"value": "You’ve purchased  %{in2} | %{in1} from the market."
+	},
+	{
+		"key": "_mail_text_16_2",
+		"value": "Failed to purchase %{in2} | %{in1} from the market."
+	},
+	{
+		"key": "_mail_text_16_3",
+		"value": "You’ve purchased  %{en}  from the market."
+	},
+	{
+		"key": "_mail_text_16_4",
+		"value": "Failed to purchase %{en}  from the market."
+	},
+	{
+		"key": "_mail_text_16_5",
+		"value": "You’ve purchased  %{cn}  from the market."
+	},
+	{
+		"key": "_mail_text_16_6",
+		"value": "Failed to purchase %{cn}  from the market."
+	},
+	{
+		"key": "_mail_t_17",
+		"value": "Market Rental"
+	},
+	{
+		"key": "_mail_text_17_1",
+		"value": "You’ve rented %{cn} for %{day} day(s)."
+	},
+	{
+		"key": "_mail_text_17_2",
+		"value": "Failed to rent %{cn} for %{day} day(s)."
+	},
+	{
+		"key": "_mail_text_17_3",
+		"value": "The %{cn} you rented has expired."
+	},
+	{
+		"key": "_mail_t_18",
+		"value": "NFT Transfer"
+	},
+	{
+		"key": "_mail_text_18_1",
+		"value": "%{currency} %{cnt_Wei} have been transferred to Wallet %{wallet}."
+	},
+	{
+		"key": "_mail_text_18_2",
+		"value": "Failed to transfer %{currency} %{cnt_Wei} to %{wallet}."
+	},
+	{
+		"key": "_mail_t_19",
+		"value": "Currency Exchange"
+	},
+	{
+		"key": "_mail_text_19_1",
+		"value": "You’ve exchanged %{dgg1_Wei} into %{dgg2}."
+	},
+	{
+		"key": "_mail_text_19_2",
+		"value": "Failed to exchange %{dgg1_Wei} into %{dgg2}."
+	},
+	{
+		"key": "_mail_t_20",
+		"value": "Friend Requests"
+	},
+	{
+		"key": "_mail_text_20_1",
+		"value": "%{name} accepted your friend request."
+	},
+	{
+		"key": "_mail_text_20_2",
+		"value": "%{name} rejected your friend request."
+	},
+	{
+		"key": "_mail_t_21",
+		"value": "Delete Friends"
+	},
+	{
+		"key": "_mail_text_21_1",
+		"value": "%{name} deleted you from their friends list. They will be removed from your friend list too."
+	},
+	{
+		"key": "_mail_text_21_2",
+		"value": "You’ve deleted %{name}. They will be removed from your friend list."
+	},
+	{
+		"key": "_mail_t_22",
+		"value": "Friend Assistance Income"
+	},
+	{
+		"key": "_mail_text_22_1",
+		"value": "Your friend %{name} used your <on click=\"handler\"> %{cn}</on> card in PvE challenge. Obtained %{Gold_Wei}."
+	},
+	{
+		"key": "_mail_t_23",
+		"value": "Get Invite Code"
+	},
+	{
+		"key": "_mail_text_23_1",
+		"value": "You just got the invite code %{invitation} from %{do}. You can share it to a  friend who hasn’t registered in the game."
+	},
+	{
+		"key": "_mail_text_23_2",
+		"value": "Your invite code %{invitation} hasn’t been used yet. You can’t get a new code. Share it with a friend who hasn’t registered in the game."
+	},
+	{
+		"key": "_mail_t_24",
+		"value": "Use Invite Card"
+	},
+	{
+		"key": "_mail_text_24_1",
+		"value": "Your invite code %{invitation} has been used by %{name}."
+	},
+	{
+		"key": "_mail_t_25",
+		"value": "Invite Code Pts"
+	},
+	{
+		"key": "_mail_text_25_1",
+		"value": "Your friend %{name} managed to %{do}. Obtained %{integral} pts."
+	},
+	{
+		"key": "_attr_4001",
+		"value": "Single Stat"
+	},
+	{
+		"key": "_attr_4002",
+		"value": "2-Stat Up"
+	},
+	{
+		"key": "_attr_4003",
+		"value": "2-Stat Mix"
+	},
+	{
+		"key": "_attr_4004",
+		"value": "Fulfilled"
+	},
+	{
+		"key": "_attr_4005",
+		"value": "Counterattack"
+	},
+	{
+		"key": "_attr_4006",
+		"value": "Barren"
+	},
+	{
+		"key": "_attr_4007",
+		"value": "Charge"
+	},
+	{
+		"key": "_attr_10001",
+		"value": "HP"
+	},
+	{
+		"key": "_attr_10002",
+		"value": "Move SPD"
+	},
+	{
+		"key": "_attr_10003",
+		"value": "Deploy Time"
+	},
+	{
+		"key": "_attr_10004",
+		"value": "ATK vs. Air"
+	},
+	{
+		"key": "_attr_10005",
+		"value": "ATK vs. Building"
+	},
+	{
+		"key": "_attr_10006",
+		"value": "ATK vs. Ground"
+	},
+	{
+		"key": "_attr_10007",
+		"value": "Damage"
+	},
+	{
+		"key": "_attr_10008",
+		"value": "ATK SPD"
+	},
+	{
+		"key": "_attr_10009",
+		"value": "Durability"
+	},
+	{
+		"key": "_pve_1001",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1002",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1003",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1004",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1005",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1006",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1007",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1008",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1009",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1010",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1011",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1012",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1013",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1014",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1015",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1016",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1017",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1018",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1019",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1020",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1021",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1022",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1023",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1024",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1025",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1026",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1027",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1028",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1029",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_1030",
+		"value": "PVE"
+	},
+	{
+		"key": "_pve_2001",
+		"value": "A town with ghosts loitering around.\n (Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2002",
+		"value": "An ancient battlefield where many bones are buried. \n(Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2003",
+		"value": "Hang on! We have to block the enemy's attack to win.\n (Victory Condition: Defend our King's Tower)"
+	},
+	{
+		"key": "_pve_2004",
+		"value": "Attack now! Otherwise, you’ll end up in a predicament.\n (Victory Condition: Destroy the enemy King Tower)"
+	},
+	{
+		"key": "_pve_2005",
+		"value": "Fight in a castle full of steel and bolts.\n (Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2006",
+		"value": "Fend off enemy’s attacks in a spooky town.\n (Victory Condition: Destroy the enemy King Tower)"
+	},
+	{
+		"key": "_pve_2007",
+		"value": "An ancient battlefield with many buried bones.\n (Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2008",
+		"value": "You ambushed the enemies in the forest and eliminated them! \n(Victory Condition: Defend our King's Tower)"
+	},
+	{
+		"key": "_pve_2009",
+		"value": "In the lava of Hell.\n (Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2010",
+		"value": "Fight in a castle full of steel and bolts.\n (Victory condition: more towers)"
+	},
+	{
+		"key": "_pve_2011",
+		"value": "Avoid being defeated by enemies in the yellow sandstorm.\n (Victory Condition: Defend our King's Tower)"
+	},
+	{
+		"key": "_pve_2012",
+		"value": "A steel castle full of iron and lightning will be the enemy’s grave. \n(Victory Condition: Destroy the enemy King Tower)"
+	},
+	{
+		"key": "blind_box_buy_tips3",
+		"value": "Consume Gas:≈%{gas} to open Surprise Chest?\nOpen out gold coins, no gas fee consumption."
+	},
+	{
+		"key": "blind_box_buy_tips4",
+		"value": "Consume %{num1} ETH to open %{num2} Summoning Chest?"
+	},
+	{
+		"key": "fighting_summon_chest",
+		"value": "Summoning Chest"
+	},
+	{
+		"key": "fighting_surprise_chest",
+		"value": "Surprise Chest"
+	},
+	{
+		"key": "fighting_not_open_chest",
+		"value": "Coming Soon"
+	},
+	{
+		"key": "friend_explain_3",
+		"value": "There are currently no friend applications"
+	},
+	{
+		"key": "friend_title_name",
+		"value": "Nick name:%{name}"
+	},
+	{
+		"key": "friend_btn_delete",
+		"value": "Delete"
+	},
+	{
+		"key": "friend_btn_cutup",
+		"value": "Cut Up"
+	},
+	{
+		"key": "friend_btn_copy",
+		"value": "Copy"
+	},
+	{
+		"key": "friend_btn_modify",
+		"value": "Modify"
+	},
+	{
+		"key": "friend_btn_exchange",
+		"value": "Exchange"
+	},
+	{
+		"key": "friend_title_7",
+		"value": "Cumulative points"
+	},
+	{
+		"key": "friend_title_8",
+		"value": "Points this week"
+	},
+	{
+		"key": "friend_title_9",
+		"value": "Points:%{num}"
+	},
+	{
+		"key": "fighting_points_chest",
+		"value": "Points chest"
+	},
+	{
+		"key": "no_points_box",
+		"value": "Insufficient points %{num} points, unable to open the points treasure chest."
+	},
+	{
+		"key": "blind_box_buy_tips5",
+		"value": "Consume points %{points} and Gas:%{gas} to open Points Chest?\nOpen out gold coins, no gas fee consumption."
+	},
+	{
+		"key": "pvp_battle_tip_power",
+		"value": "Insufficient VIT,Will not be rewarded"
+	},
+	{
+		"key": "common_time_out",
+		"value": "Request timeout"
+	},
+	{
+		"key": "tip_composute",
+		"value": "Upgrade consumption"
+	},
+	{
+		"key": "common_pull_to_refresh",
+		"value": "Swipe to pull data"
+	},
+	{
+		"key": "tip_title_merge",
+		"value": "synthetic equipment"
+	},
+	{
+		"key": "wallet_dna_day",
+		"value": "ETH/Day"
+	},
+	{
+		"key": "market_serach_def",
+		"value": "input number"
+	},
+	{
+		"key": "equip",
+		"value": "Equipment"
+	},
+	{
+		"key": "wallet_btn_date",
+		"value": "%{hour}hours"
+	},
+	{
+		"key": "battle_pve_succ",
+		"value": "Finish"
+	},
+	{
+		"key": "battle_pve_fail",
+		"value": "undone"
+	},
+	{
+		"key": "card_type_by_pve_power",
+		"value": "available"
+	},
+	{
+		"key": "terms_server_desc",
+		"value": "DYOR (Do Your Own Research) is a common thing to hear when discussing blockchain investments. Managing your risk is an important key when investing into decentralized finance. \nBinance Academy said it well: \"DYOR aims to reduce the number of uninformed investors in cryptocurrency. It encourages them to research and understand a cryptocurrency before investing so that they can answer precisely why they are buying that currency and supporting that project. The term is also often used as a disclaimer when cryptocurrency traders and enthusiasts make public posts or share their market analyses on social media platforms.\" \nWe at Degen Games are committed to creating an engaging and fun GameFi experience that blends the strengths of strategy games with an immersive gaming environment. We think this makes for a unique, interesting, and compelling experience. We are in for the long haul. and aim to create a game we are proud of. We hope that this value will be reflected in the value of the token; However, we cannot guarantee anything with respect to the token price, as there are many factors that we cannot control. \nNever invest more than you can lose - you alone are responsible for your investment. Degen Games is NOT responsible for any losses or changes in token price, and NOT responsible for any lost funds due to smart contract error or exploits."
+	},
+	{
+		"key": "wallet_btn_qrcode",
+		"value": "QR Code"
+	},
+	{
+		"key": "wallet_btn_refresh",
+		"value": "Refresh"
+	},
+	{
+		"key": "display_card",
+		"value": "Displayed in use"
+	},
+	{
+		"key": "save_account",
+		"value": "Remember the password"
+	},
+	{
+		"key": "tip_not_remind",
+		"value": "Don't prompt again today"
+	},
+	{
+		"key": "blind_btn_to_deck",
+		"value": "Add to card"
+	},
+	{
+		"key": "share_desc1",
+		"value": "<outline color=black width=2><color=#ffffff>%{date}player[%{name}]</color><color=#77f349>opening the blind box for the first time</color>,you got<color=#77f349>%{num}</color>Diamond</outline>"
+	},
+	{
+		"key": "share_desc2",
+		"value": "<outline color=black width=2><color=#ffffff>%{date}player[%{name}]</color><color=#77f349>open blind box</color>,you got<color=#77f349>%{num}</color>Diamond</outline>"
+	},
+	{
+		"key": "need_bind_account",
+		"value": "Do you need to bind 2fa?"
+	},
+	{
+		"key": "need_bind_account_skip",
+		"value": "Skip"
+	},
+	{
+		"key": "need_bind_account_continue",
+		"value": "Continue"
+	},
+	{
+		"key": "share_title_code",
+		"value": "My code"
+	},
+	{
+		"key": "share_title_code1",
+		"value": "Referrer"
+	},
+	{
+		"key": "friend_battle_invite",
+		"value": "Your friend [%{name}] has invited you to a contest, do you agree?"
+	},
+	{
+		"key": "friend_battle_invite_wait",
+		"value": "Waiting for friend [%{name}] to agree…"
+	},
+	{
+		"key": "friend_battle_edit",
+		"value": "Tip: go to edit card group."
+	},
+	{
+		"key": "friend_btn_agree",
+		"value": "Agree"
+	},
+	{
+		"key": "friend_tips_limit",
+		"value": "The first character of the nickname must be an English letter or Chinese character."
+	},
+	{
+		"key": "cardsys_btn_baptize",
+		"value": "Purify"
+	},
+	{
+		"key": "cardsys_btn_items",
+		"value": "refine"
+	},
+	{
+		"key": "tip_prop_content2",
+		"value": "Are you sure to consume %{prop} props to Purify %{name} card?"
+	},
+	{
+		"key": "tip_prop_content3",
+		"value": "Are you sure to consume %{prop} props to refine %{name} card?"
+	},
+	{
+		"key": "equipment_btn_refine",
+		"value": "Purify"
+	},
+	{
+		"key": "tip_gas_err",
+		"value": "Failed to get gas fee."
+	},
+	{
+		"key": "tip_equip_prop_content3",
+		"value": "Use %{prop} to refine %{name}?"
+	},
+	{
+		"key": "friend_battle_refuse",
+		"value": "Refuse to play"
+	},
+	{
+		"key": "friend_battle_agree",
+		"value": "Agree to the game"
+	},
+	{
+		"key": "friend_battle_timeout",
+		"value": "Game timeout"
+	},
+	{
+		"key": "friend_battle_cancel",
+		"value": "Game canceled"
+	},
+	{
+		"key": "tip_empty_group",
+		"value": "The unused card group is not enough."
+	},
+	{
+		"key": "share_btn_copy_code",
+		"value": "Copy invitation code"
+	},
+	{
+		"key": "friend_desc_search",
+		"value": "It takes 5 minutes for newly registered users and users who modify their nicknames to add friends."
+	},
+	{
+		"key": "CodeDeliveryFailureException",
+		"value": "Authentication code sending failure."
+	},
+	{
+		"key": "ForbiddenException",
+		"value": "Access to the user system is prohibited."
+	},
+	{
+		"key": "InternalErrorException",
+		"value": "Internal error."
+	},
+	{
+		"key": "InvalidEmailRoleAccessPolicyException",
+		"value": "The use of the Email address is prohibited."
+	},
+	{
+		"key": "InvalidParameterException",
+		"value": "Invalid parameter."
+	},
+	{
+		"key": "InvalidPasswordException",
+		"value": "Invalid password, does not comply with security principles."
+	},
+	{
+		"key": "NotAuthorizedException",
+		"value": "The current user is not authorized to do so."
+	},
+	{
+		"key": "UsernameExistsException",
+		"value": "Current user already exists."
+	},
+	{
+		"key": "CodeMismatchException",
+		"value": "The verification code is wrong, please try again."
+	},
+	{
+		"key": "EnableSoftwareTokenMFAException",
+		"value": "The secondary authentication code is wrong, the secondary authentication binding failed."
+	},
+	{
+		"key": "InvalidUserPoolConfigurationException",
+		"value": "User system is invalid."
+	},
+	{
+		"key": "PasswordResetRequiredException",
+		"value": "The system requires a mandatory password reset."
+	},
+	{
+		"key": "UserNotConfirmedException",
+		"value": "User authentication is unsuccessful."
+	},
+	{
+		"key": "UserNotFoundException",
+		"value": "User does not exist."
+	},
+	{
+		"key": "AccessDeniedException",
+		"value": "Insufficient permission for this operation."
+	},
+	{
+		"key": "InternalFailure",
+		"value": "Internal error."
+	},
+	{
+		"key": "NotAuthorized",
+		"value": "Insufficient permission to perform this operation."
+	},
+	{
+		"key": "RequestExpired",
+		"value": "Request timed out."
+	},
+	{
+		"key": "ServiceUnavailable",
+		"value": "Temporary server error."
+	},
+	{
+		"key": "ThrottlingException",
+		"value": "Current service is busy, please try again later."
+	},
+	{
+		"key": "ValidationError",
+		"value": "Input parameter error."
+	},
+	{
+		"key": "LimitExceededException",
+		"value": "Current service is busy, please try again later."
+	},
+	{
+		"key": "ExpiredCodeException",
+		"value": "Validation code expired."
+	},
+	{
+		"key": "input_btm_err_smscode",
+		"value": "Cannot contain spaces."
+	},
+	{
+		"key": "input_btm_err_googlecode",
+		"value": "Pure numbers and a length of 6."
+	},
+	{
+		"key": "Incorrect username or password",
+		"value": "User name or password is incorrect."
+	},
+	{
+		"key": "no_gold_box",
+		"value": "Golds insufficient %{num}, cannot open the Gold Chest."
+	},
+	{
+		"key": "blind_box_buy_tips6",
+		"value": "Is it confirmed that you have spent %{points} and Gas:%{gas} to open the Gold Chest?\nOpen out gold coins, no gas fee consumption."
+	},
+	{
+		"key": "fighting_gold_chest",
+		"value": "Gold Chest"
+	},
+	{
+		"key": "setting_pwd_tip",
+		"value": "Setting new password."
+	},
+	{
+		"key": "share_btn_withdraw",
+		"value": "Fulfillment"
+	},
+	{
+		"key": "share_desc_0_1",
+		"value": "Please look forward to the upcoming release."
+	},
+	{
+		"key": "share_title_invite_2",
+		"value": "Diamond"
+	},
+	{
+		"key": "share_code_none",
+		"value": "None"
+	},
+	{
+		"key": "no_bound_box",
+		"value": "There is no Invitation Chest at the moment"
+	},
+	{
+		"key": "blind_box_buy_tips7",
+		"value": "Is it confirmed to consume Gas:%{gas} to open 1 Invitation Chest?"
+	},
+	{
+		"key": "wallet_flag_localbound",
+		"value": "Bind"
+	},
+	{
+		"key": "wallet_desc_bound",
+		"value": "Limited cards, cannot be traded."
+	},
+	{
+		"key": "tip_bound_upgrade",
+		"value": "Limited cards, cannot be upgraded."
+	},
+	{
+		"key": "wallet_title_16",
+		"value": "Handling fee："
+	},
+	{
+		"key": "not_enough_gdna",
+		"value": "Insufficient Gold."
+	},
+	{
+		"key": "not_enough_gdgg",
+		"value": "Insufficient diamonds."
+	},
+	{
+		"key": "wallet_tips_gdna_transfer_limit",
+		"value": "The minimum number of gold coins to be transferred is 10."
+	},
+	{
+		"key": "tab_card",
+		"value": "Cards"
+	},
+	{
+		"key": "tab_equip",
+		"value": "Equipments"
+	},
+	{
+		"key": "pve_edit",
+		"value": "Edit"
+	},
+	{
+		"key": "pve_card_assits_err",
+		"value": "Assistance cards can only be placed in the assistance position."
+	},
+	{
+		"key": "Incorrect username or password",
+		"value": "Incorrect username or password"
+	},
+	{
+		"key": "market_desc_not_log",
+		"value": "There is no current record of buying or selling."
+	},
+	{
+		"key": "market_desc_log_rental1",
+		"value": "<outline color=black width=2>Player ID.%{pid}Spent<color=#77f349>ETH:%{num}</color>Rented your equipment<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_rental2",
+		"value": "<outline color=black width=2>Player ID.%{pid}Spent<color=#77f349>ETH:%{num}</color>Rented your card<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_trade1",
+		"value": "<outline color=black width=2>Player ID.%{pid}Spent<color=#77f349>ETH:%{num}</color>Bought your equipment<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_trade2",
+		"value": "<outline color=black width=2>Player ID.%{pid}Spent<color=#77f349>ETH:%{num}</color>Bought your card<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_rental1",
+		"value": "<outline color=black width=2>You spent<color=#77f349>ETH:%{num}</color>Rented equipment<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_rental2",
+		"value": "<outline color=black width=2>You spent<color=#77f349>ETH:%{num}</color>Rented the card<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_trade1",
+		"value": "<outline color=black width=2>You spent<color=#77f349>ETH:%{num}</color>Purchased equipment<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "market_desc_log_me_trade2",
+		"value": "<outline color=black width=2>You spent<color=#77f349>ETH:%{num}</color>Purchased a card<color=#77f349>#%{id}</color></outline>"
+	},
+	{
+		"key": "no_aff_box",
+		"value": "There are not enough treasure chests to get the reward."
+	},
+	{
+		"key": "blind_box_buy_tips8",
+		"value": "Is it confirmed that Gas:%{gas} is consumed to open 1 treasure chest?"
+	},
+	{
+		"key": "qa_tips_sel",
+		"value": "Please give the answer."
+	},
+	{
+		"key": "qa_tips_edit",
+		"value": "Enter your answer."
+	},
+	{
+		"key": "qa_desc_succ",
+		"value": "Answer correctly! Get %{coin} gold."
+	},
+	{
+		"key": "exchange_tips_dna",
+		"value": "Minimum 1 %{name} must be redeemed."
+	},
+	{
+		"key": "exchange_tips_max",
+		"value": "Exceeds the number of available conversions."
+	},
+	{
+		"key": "exchange_tips_succ",
+		"value": "The transaction was successful and %{num1}%{name1} was exchanged for %{num2}%{name2}!"
+	},
+	{
+		"key": "wallet_flag_qa",
+		"value": "Participate in Q&A"
+	}
+]

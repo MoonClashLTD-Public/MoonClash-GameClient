@@ -1,0 +1,237 @@
+
+jhxzws_huo2.png
+size: 812,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 735, 746
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+huo2/huo02_01
+  rotate: false
+  xy: 718, 641
+  size: 64, 103
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_02
+  rotate: true
+  xy: 130, 575
+  size: 64, 104
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_03
+  rotate: true
+  xy: 236, 569
+  size: 64, 104
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_04
+  rotate: true
+  xy: 342, 568
+  size: 64, 108
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_05
+  rotate: true
+  xy: 452, 567
+  size: 64, 112
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_06
+  rotate: true
+  xy: 241, 697
+  size: 57, 117
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_07
+  rotate: true
+  xy: 360, 697
+  size: 57, 120
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_08
+  rotate: true
+  xy: 2, 760
+  size: 50, 122
+  orig: 64, 128
+  offset: 7, 1
+  index: -1
+huo2/huo02_09
+  rotate: true
+  xy: 252, 756
+  size: 54, 124
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_10
+  rotate: true
+  xy: 566, 565
+  size: 64, 125
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_11
+  rotate: true
+  xy: 693, 565
+  size: 64, 117
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_12
+  rotate: true
+  xy: 2, 512
+  size: 64, 120
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_13
+  rotate: true
+  xy: 124, 503
+  size: 64, 127
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_14
+  rotate: true
+  xy: 253, 502
+  size: 64, 122
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_15
+  rotate: true
+  xy: 377, 501
+  size: 64, 121
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_16
+  rotate: true
+  xy: 349, 634
+  size: 61, 112
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_17
+  rotate: true
+  xy: 482, 696
+  size: 57, 112
+  orig: 64, 128
+  offset: 4, 1
+  index: -1
+huo2/huo02_18
+  rotate: true
+  xy: 596, 694
+  size: 58, 120
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_19
+  rotate: true
+  xy: 608, 754
+  size: 56, 125
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+huo2/huo02_20
+  rotate: true
+  xy: 126, 759
+  size: 51, 124
+  orig: 64, 128
+  offset: 2, 1
+  index: -1
+huo2/huo02_21
+  rotate: true
+  xy: 115, 701
+  size: 56, 124
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_22
+  rotate: true
+  xy: 2, 641
+  size: 58, 122
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_23
+  rotate: true
+  xy: 494, 755
+  size: 55, 112
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_24
+  rotate: true
+  xy: 126, 641
+  size: 58, 112
+  orig: 64, 128
+  offset: 3, 1
+  index: -1
+huo2/huo02_25
+  rotate: true
+  xy: 240, 635
+  size: 60, 107
+  orig: 64, 128
+  offset: 0, 2
+  index: -1
+huo2/huo02_26
+  rotate: true
+  xy: 2, 702
+  size: 56, 111
+  orig: 64, 128
+  offset: 2, 2
+  index: -1
+huo2/huo02_27
+  rotate: true
+  xy: 378, 756
+  size: 54, 114
+  orig: 64, 128
+  offset: 3, 2
+  index: -1
+huo2/huo02_28
+  rotate: true
+  xy: 463, 633
+  size: 61, 123
+  orig: 64, 128
+  offset: 3, 2
+  index: -1
+huo2/huo02_29
+  rotate: true
+  xy: 588, 631
+  size: 61, 125
+  orig: 64, 128
+  offset: 0, 2
+  index: -1
+huo2/huo02_30
+  rotate: true
+  xy: 500, 499
+  size: 64, 124
+  orig: 64, 128
+  offset: 0, 2
+  index: -1
+huo2/huo02_31
+  rotate: true
+  xy: 626, 499
+  size: 64, 126
+  orig: 64, 128
+  offset: 0, 2
+  index: -1
+huo2/huo02_32
+  rotate: true
+  xy: 2, 578
+  size: 61, 126
+  orig: 64, 128
+  offset: 0, 2
+  index: -1

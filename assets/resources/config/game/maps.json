@@ -1,0 +1,42 @@
+[
+	{
+		"Id": 100,
+		"name": "map_name_2",
+		"inn_name": "",
+		"res_name": "map_4",
+		"tile_path": "./confs/maps/map0.json",
+		"pagoda_id": 2
+	},
+	{
+		"Id": 101,
+		"name": "map_name_5",
+		"inn_name": "",
+		"res_name": "map_2",
+		"tile_path": "./confs/maps/map0.json",
+		"pagoda_id": 3
+	},
+	{
+		"Id": 102,
+		"name": "map_name_1",
+		"inn_name": "",
+		"res_name": "map_3",
+		"tile_path": "./confs/maps/map0.json",
+		"pagoda_id": 4
+	},
+	{
+		"Id": 103,
+		"name": "map_name_3",
+		"inn_name": "",
+		"res_name": "map_0",
+		"tile_path": "./confs/maps/map0.json",
+		"pagoda_id": 1
+	},
+	{
+		"Id": 104,
+		"name": "map_name_4",
+		"inn_name": "",
+		"res_name": "map_1",
+		"tile_path": "./confs/maps/map0.json",
+		"pagoda_id": 5
+	}
+]

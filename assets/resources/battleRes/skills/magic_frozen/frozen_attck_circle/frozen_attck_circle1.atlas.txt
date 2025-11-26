@@ -1,0 +1,20 @@
+
+frozen_attck_circle.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan01
+  rotate: false
+  xy: 252, 252
+  size: 243, 243
+  orig: 256, 256
+  offset: 8, 5
+  index: -1
+quan02
+  rotate: true
+  xy: 2, 254
+  size: 241, 248
+  orig: 256, 256
+  offset: 8, 5
+  index: -1

@@ -1,0 +1,13 @@
+
+deaddragon_attack_fireballfly.png
+size: 123,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke1
+  rotate: false
+  xy: 2, 2
+  size: 113, 119
+  orig: 128, 128
+  offset: 10, 3
+  index: -1

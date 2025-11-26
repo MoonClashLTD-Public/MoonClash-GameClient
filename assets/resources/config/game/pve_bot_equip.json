@@ -1,0 +1,956 @@
+[
+	{
+		"id": 1,
+		"owner_bot_id": [
+			1
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 1,
+				"percentage": 300
+			}
+		]
+	},
+	{
+		"id": 2,
+		"owner_bot_id": [
+			1
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 22,
+				"quality": 1,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 3,
+		"owner_bot_id": [
+			1
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 34,
+				"quality": 1,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 4,
+		"owner_bot_id": [
+			2
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 2,
+				"percentage": 300
+			},
+			{
+				"attr_id": 11,
+				"quality": 2,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 5,
+		"owner_bot_id": [
+			2
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 20,
+				"quality": 2,
+				"percentage": 600
+			},
+			{
+				"attr_id": 21,
+				"quality": 2,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 6,
+		"owner_bot_id": [
+			2
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 38,
+				"quality": 2,
+				"percentage": 600
+			},
+			{
+				"attr_id": 40,
+				"quality": 2,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 7,
+		"owner_bot_id": [
+			3
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 3,
+				"percentage": 300
+			},
+			{
+				"attr_id": 11,
+				"quality": 3,
+				"percentage": 600
+			},
+			{
+				"attr_id": 7,
+				"quality": 3,
+				"percentage": 5000
+			}
+		]
+	},
+	{
+		"id": 8,
+		"owner_bot_id": [
+			3
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 21,
+				"quality": 3,
+				"percentage": 600
+			},
+			{
+				"attr_id": 17,
+				"quality": 3,
+				"percentage": 600
+			},
+			{
+				"attr_id": 15,
+				"quality": 3,
+				"percentage": 300
+			}
+		]
+	},
+	{
+		"id": 9,
+		"owner_bot_id": [
+			3
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 3,
+				"percentage": 300
+			},
+			{
+				"attr_id": 32,
+				"quality": 3,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 33,
+				"quality": 3,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 10,
+		"owner_bot_id": [
+			4
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 4,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 6,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 7,
+				"quality": 3,
+				"percentage": 1000
+			},
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 300
+			}
+		]
+	},
+	{
+		"id": 11,
+		"owner_bot_id": [
+			4
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 24,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 25,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 26,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 27,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 12,
+		"owner_bot_id": [
+			4
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 300
+			},
+			{
+				"attr_id": 32,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 33,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 34,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 13,
+		"owner_bot_id": [
+			5
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 10,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 14,
+		"owner_bot_id": [
+			5
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 20,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 21,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 16,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	},
+	{
+		"id": 15,
+		"owner_bot_id": [
+			5
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 30,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 31,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 16,
+		"owner_bot_id": [
+			6
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 7,
+				"quality": 4,
+				"percentage": 1000
+			}
+		]
+	},
+	{
+		"id": 17,
+		"owner_bot_id": [
+			6
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 20,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 19,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 18,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	},
+	{
+		"id": 18,
+		"owner_bot_id": [
+			6
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 38,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 32,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 19,
+		"owner_bot_id": [
+			7
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 10,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 20,
+		"owner_bot_id": [
+			7
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 20,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 21,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 16,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	},
+	{
+		"id": 21,
+		"owner_bot_id": [
+			7
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 30,
+				"quality": 4,
+				"percentage": 600
+			},
+			{
+				"attr_id": 31,
+				"quality": 4,
+				"percentage": 600
+			}
+		]
+	},
+	{
+		"id": 22,
+		"owner_bot_id": [
+			8
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 7,
+				"quality": 4,
+				"percentage": 5000
+			}
+		]
+	},
+	{
+		"id": 23,
+		"owner_bot_id": [
+			8
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 24,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 18,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 26,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 24,
+		"owner_bot_id": [
+			8
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 33,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 34,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 25,
+		"owner_bot_id": [
+			9
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 10,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 26,
+		"owner_bot_id": [
+			9
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 22,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 23,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 16,
+				"quality": 4,
+				"percentage": 1800
+			}
+		]
+	},
+	{
+		"id": 27,
+		"owner_bot_id": [
+			9
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 30,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 31,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 28,
+		"owner_bot_id": [
+			10
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 11,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 10,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 29,
+		"owner_bot_id": [
+			10
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 20,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 21,
+				"quality": 4,
+				"percentage": 1800
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 16,
+				"quality": 4,
+				"percentage": 1800
+			}
+		]
+	},
+	{
+		"id": 30,
+		"owner_bot_id": [
+			10
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 30,
+				"quality": 4,
+				"percentage": 900
+			},
+			{
+				"attr_id": 31,
+				"quality": 4,
+				"percentage": 900
+			}
+		]
+	},
+	{
+		"id": 31,
+		"owner_bot_id": [
+			11
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 4,
+				"quality": 4,
+				"percentage": 1600
+			},
+			{
+				"attr_id": 7,
+				"quality": 4,
+				"percentage": 5000
+			},
+			{
+				"attr_id": 6,
+				"quality": 4,
+				"percentage": 1600
+			},
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	},
+	{
+		"id": 32,
+		"owner_bot_id": [
+			11
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 24,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 25,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 26,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 27,
+				"quality": 4,
+				"percentage": 2400
+			}
+		]
+	},
+	{
+		"id": 33,
+		"owner_bot_id": [
+			11
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 32,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 33,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 34,
+				"quality": 4,
+				"percentage": 2400
+			}
+		]
+	},
+	{
+		"id": 34,
+		"owner_bot_id": [
+			12
+		],
+		"equip_proto_id": 3,
+		"attrs": [
+			{
+				"attr_id": 13,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 7,
+				"quality": 4,
+				"percentage": 1000
+			},
+			{
+				"attr_id": 12,
+				"quality": 4,
+				"percentage": 2400
+			},
+			{
+				"attr_id": 10,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	},
+	{
+		"id": 35,
+		"owner_bot_id": [
+			12
+		],
+		"equip_proto_id": 2,
+		"attrs": [
+			{
+				"attr_id": 17,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 19,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 15,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 18,
+				"quality": 4,
+				"percentage": 2400
+			}
+		]
+	},
+	{
+		"id": 36,
+		"owner_bot_id": [
+			12
+		],
+		"equip_proto_id": 1,
+		"attrs": [
+			{
+				"attr_id": 38,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 33,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 29,
+				"quality": 4,
+				"percentage": 1200
+			},
+			{
+				"attr_id": 28,
+				"quality": 4,
+				"percentage": 1200
+			}
+		]
+	}
+]

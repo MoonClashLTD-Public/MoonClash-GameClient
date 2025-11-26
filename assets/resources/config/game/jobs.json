@@ -1,0 +1,62 @@
+[
+	{
+		"Id": 1,
+		"inn_name": "",
+		"display_name": "_job_1",
+		"res_name": "_job_1"
+	},
+	{
+		"Id": 2,
+		"inn_name": "",
+		"display_name": "_job_2",
+		"res_name": "_job_2"
+	},
+	{
+		"Id": 3,
+		"inn_name": "",
+		"display_name": "_job_3",
+		"res_name": "_job_3"
+	},
+	{
+		"Id": 4,
+		"inn_name": "",
+		"display_name": "_job_4",
+		"res_name": "_job_4"
+	},
+	{
+		"Id": 5,
+		"inn_name": "",
+		"display_name": "_job_5",
+		"res_name": "_job_5"
+	},
+	{
+		"Id": 6,
+		"inn_name": "",
+		"display_name": "_job_6",
+		"res_name": "_job_6"
+	},
+	{
+		"Id": 7,
+		"inn_name": "",
+		"display_name": "_job_7",
+		"res_name": "_job_7"
+	},
+	{
+		"Id": 8,
+		"inn_name": "",
+		"display_name": "_job_8",
+		"res_name": "_job_8"
+	},
+	{
+		"Id": 9,
+		"inn_name": "",
+		"display_name": "_job_9",
+		"res_name": "_job_9"
+	},
+	{
+		"Id": 10,
+		"inn_name": "",
+		"display_name": "_job_10",
+		"res_name": "_job_10"
+	}
+]

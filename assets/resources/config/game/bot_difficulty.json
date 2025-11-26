@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"difficulty": 1,
+		"min": 0,
+		"max": 300000,
+		"skill_delay_ms": 2000,
+		"building_delay_ms": 2000,
+		"hero_delay_ms": 2000,
+		"level_delta": 0
+	},
+	{
+		"id": 2,
+		"difficulty": 2,
+		"min": 300000,
+		"max": 600000,
+		"skill_delay_ms": 500,
+		"building_delay_ms": 500,
+		"hero_delay_ms": 500,
+		"level_delta": 0
+	},
+	{
+		"id": 3,
+		"difficulty": 3,
+		"min": 600000,
+		"max": 900000,
+		"skill_delay_ms": 200,
+		"building_delay_ms": 200,
+		"hero_delay_ms": 200,
+		"level_delta": 0
+	},
+	{
+		"id": 4,
+		"difficulty": 4,
+		"min": 900000,
+		"max": 1100000,
+		"skill_delay_ms": 100,
+		"building_delay_ms": 100,
+		"hero_delay_ms": 100,
+		"level_delta": 1
+	},
+	{
+		"id": 5,
+		"difficulty": 5,
+		"min": 1100000,
+		"max": 1300000,
+		"skill_delay_ms": 50,
+		"building_delay_ms": 50,
+		"hero_delay_ms": 50,
+		"level_delta": 2
+	}
+]

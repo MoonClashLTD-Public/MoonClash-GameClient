@@ -1,0 +1,8 @@
+[
+	{
+		"id": 1,
+		"min_lucky_value": 0,
+		"max_lucky_value": 100000000,
+		"prob": 10000
+	}
+]

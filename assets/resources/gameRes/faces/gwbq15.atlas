@@ -1,0 +1,104 @@
+
+gwbq15.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 274, 26
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+huangguan
+  rotate: true
+  xy: 136, 50
+  size: 76, 45
+  orig: 79, 48
+  offset: 1, 2
+  index: -1
+ku
+  rotate: false
+  xy: 136, 10
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+ku2
+  rotate: false
+  xy: 195, 12
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: true
+  xy: 32, 4
+  size: 14, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 20
+  size: 106, 132
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+toufafyou
+  rotate: false
+  xy: 183, 52
+  size: 60, 74
+  orig: 60, 76
+  offset: 0, 1
+  index: -1
+toufafzuo
+  rotate: false
+  xy: 245, 57
+  size: 57, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 21, 2
+  size: 16, 9
+  orig: 18, 11
+  offset: 1, 1
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+youyanzhu
+  rotate: false
+  xy: 43, 3
+  size: 6, 6
+  orig: 9, 8
+  offset: 2, 1
+  index: -1
+zui
+  rotate: true
+  xy: 254, 21
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoyan
+  rotate: false
+  xy: 254, 2
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+zuoyanzhu
+  rotate: true
+  xy: 43, 11
+  size: 7, 6
+  orig: 9, 9
+  offset: 1, 2
+  index: -1

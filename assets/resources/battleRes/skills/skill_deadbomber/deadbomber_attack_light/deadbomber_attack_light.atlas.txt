@@ -1,0 +1,104 @@
+
+deadbomber_attack_light.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1
+  rotate: false
+  xy: 379, 273
+  size: 96, 98
+  orig: 130, 130
+  offset: 23, 16
+  index: -1
+fire2
+  rotate: true
+  xy: 376, 180
+  size: 91, 98
+  orig: 130, 130
+  offset: 19, 20
+  index: -1
+fire3
+  rotate: false
+  xy: 246, 2
+  size: 83, 71
+  orig: 130, 130
+  offset: 11, 30
+  index: -1
+glow
+  rotate: false
+  xy: 116, 9
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo05/huo05_01
+  rotate: false
+  xy: 375, 77
+  size: 66, 101
+  orig: 128, 256
+  offset: 29, 0
+  index: -1
+huo05/huo05_02
+  rotate: false
+  xy: 2, 97
+  size: 111, 187
+  orig: 128, 256
+  offset: 5, 4
+  index: -1
+huo05/huo05_03
+  rotate: false
+  xy: 2, 286
+  size: 122, 203
+  orig: 128, 256
+  offset: 2, 26
+  index: -1
+huo05/huo05_04
+  rotate: false
+  xy: 126, 303
+  size: 125, 186
+  orig: 128, 256
+  offset: 3, 57
+  index: -1
+huo05/huo05_05
+  rotate: false
+  xy: 253, 319
+  size: 124, 170
+  orig: 128, 256
+  offset: 4, 86
+  index: -1
+huo05/huo05_06
+  rotate: false
+  xy: 115, 139
+  size: 128, 145
+  orig: 128, 256
+  offset: 0, 111
+  index: -1
+huo05/huo05_07
+  rotate: false
+  xy: 246, 75
+  size: 127, 114
+  orig: 128, 256
+  offset: 0, 142
+  index: -1
+huo05/huo05_08
+  rotate: true
+  xy: 379, 373
+  size: 116, 94
+  orig: 128, 256
+  offset: 5, 162
+  index: -1
+smoke1
+  rotate: false
+  xy: 253, 191
+  size: 121, 126
+  orig: 128, 128
+  offset: 5, 2
+  index: -1
+yan03
+  rotate: false
+  xy: 2, 5
+  size: 112, 90
+  orig: 128, 128
+  offset: 8, 20
+  index: -1

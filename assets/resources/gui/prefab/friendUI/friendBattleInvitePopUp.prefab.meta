@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.38",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "c36fd2ea-182c-4e53-94b8-cdc97d5a0c8e",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "friendBattleInvitePopUp"
+  }
+}

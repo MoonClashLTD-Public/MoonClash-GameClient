@@ -1,0 +1,41 @@
+
+snowball_hit.png
+size: 249, 249
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+snow1
+  rotate: false
+  xy: 126, 77
+  size: 100, 49
+  orig: 142, 107
+  offset: 20, 28
+  index: -1
+snow2
+  rotate: true
+  xy: 2, 76
+  size: 41, 23
+  orig: 53, 51
+  offset: 6, 15
+  index: -1
+snow3
+  rotate: false
+  xy: 27, 95
+  size: 30, 22
+  orig: 43, 40
+  offset: 6, 8
+  index: -1
+yan01
+  rotate: true
+  xy: 126, 128
+  size: 119, 121
+  orig: 128, 128
+  offset: 8, 0
+  index: -1
+yan02
+  rotate: false
+  xy: 2, 119
+  size: 122, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.38",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "68ae9814-29c9-4bb5-8b96-b2a36cb8bef2",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "walletCurrWithdrawConfirmPopUp"
+  }
+}
